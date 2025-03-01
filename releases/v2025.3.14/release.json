@@ -1,0 +1,100 @@
+{
+  "product_line": "ACE",
+  "release": "v2025.3.14",
+  "docs_url_template": "",
+  "kubernetes_version": "1.26+",
+  "projects": [
+    {
+      "github.com/appscode-cloud/ui-wizards": {
+        "tag": "v0.14.0",
+        "chartNames": [
+          "kubedbcom-mongodb-editor-options"
+        ],
+        "commands": [
+          "make update-charts CHART_VERSION=${APPSCODE_CLOUD_UI_WIZARDS_TAG}",
+          "make gen fmt"
+        ]
+      }
+    },
+    {
+      "github.com/kmodules/resource-metadata": {
+        "tag": "v0.26.0",
+        "commands": [
+          "go run cmd/ui-updater/main.go --chart.version=${APPSCODE_CLOUD_UI_WIZARDS_TAG}",
+          "make fmt"
+        ]
+      }
+    },
+    {
+      "github.com/kmodules/image-packer": {
+        "tag": "v2025.3.14",
+        "release_branch": "release-${TAG}"
+      },
+      "github.com/kubeops/ui-server": {
+        "tag": "v0.0.54"
+      },
+      "github.com/kubepack/lib-app": {
+        "tag": "v0.3.0",
+        "commands": [
+          "sed -i 's/CHART_VERSION=\\${CHART_VERSION:-v[0-9]*\\.[0-9]*\\.[0-9]*}/CHART_VERSION=\\${CHART_VERSION:-v0.14.0}/g' *.sh",
+          "make fmt"
+        ]
+      }
+    },
+    {
+      "github.com/appscode-cloud/b3": {
+        "tag": "v2025.3.14",
+        "release_branch": "release-${TAG}"
+      }
+    },
+    {
+      "github.com/kubeops/installer": {
+        "key": "kubeops-installer",
+        "tag": "v2025.3.14",
+        "chartNames": [
+          "kubedb-ui-server"
+        ],
+        "commands": [
+          "./hack/scripts/import-crds.sh",
+          "make chart-kube-ui-server CHART_VERSION=${RELEASE} APP_VERSION=${KUBEOPS_UI_SERVER_TAG} CHART_REGISTRY=${CHART_REGISTRY} CHART_REGISTRY_URL=${CHART_REGISTRY_URL}",
+          "./hack/scripts/update-chart-dependencies.sh",
+          "./hack/scripts/update-catalog.sh"
+        ],
+        "release_branch": "release-${TAG}"
+      }
+    },
+    {
+      "github.com/appscode-cloud/installer": {
+        "key": "kubedb-installer",
+        "tag": "v2025.3.14",
+        "chartNames": [
+          "opscenter-features"
+        ],
+        "commands": [
+          "./hack/scripts/import-crds.sh",
+          "make update-charts CHART_VERSION=${RELEASE} CHART_REGISTRY=${CHART_REGISTRY} CHART_REGISTRY_URL=${CHART_REGISTRY_URL}",
+          "make chart-opscenter-features CHART_VERSION=${RELEASE} APP_VERSION=${APPSCODE_CLOUD_UI_WIZARDS_TAG} CHART_REGISTRY=${CHART_REGISTRY} CHART_REGISTRY_URL=${CHART_REGISTRY_URL}",
+          "go run ./cmd/update-version/main.go --chart.version=${RELEASE}",
+          "./hack/scripts/update-chart-dependencies.sh",
+          "./hack/scripts/update-catalog.sh"
+        ],
+        "release_branch": "release-${TAG}"
+      }
+    },
+    {
+      "github.com/appscode/charts": {
+        "charts": [
+          "github.com/kubeops/installer",
+          "github.com/appscode-cloud/installer"
+        ],
+        "changelog": "Skip"
+      }
+    }
+  ],
+  "external_projects": {
+    "github.com/kmodules/codespan-schema-checker": {},
+    "github.com/kmodules/metrics-configuration-checker": {},
+    "github.com/kubepack/kubepack": {},
+    "github.com/kubepack/lib-app": {}
+  }
+}
