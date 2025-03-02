@@ -47,22 +47,6 @@
       }
     },
     {
-      "github.com/kubeops/installer": {
-        "key": "kubeops-installer",
-        "tag": "v2025.3.14",
-        "chartNames": [
-          "kube-ui-server"
-        ],
-        "commands": [
-          "./hack/scripts/import-crds.sh",
-          "make chart-kube-ui-server CHART_VERSION=${RELEASE} APP_VERSION=${KUBEOPS_UI_SERVER_TAG} CHART_REGISTRY=${CHART_REGISTRY} CHART_REGISTRY_URL=${CHART_REGISTRY_URL}",
-          "./hack/scripts/update-chart-dependencies.sh",
-          "./hack/scripts/update-catalog.sh"
-        ],
-        "release_branch": "release-${TAG}"
-      }
-    },
-    {
       "github.com/appscode-cloud/installer": {
         "key": "kubedb-installer",
         "tag": "v2025.3.14",
