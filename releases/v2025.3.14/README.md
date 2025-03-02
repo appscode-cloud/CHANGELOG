@@ -19,3 +19,11 @@
 
 
 
+## [kubeops/ui-server](https://github.com/kubeops/ui-server)
+
+### [v0.0.54](https://github.com/kubeops/ui-server/releases/tag/v0.0.54)
+
+- [b334a4d2](https://github.com/kubeops/ui-server/commit/b334a4d26) Prepare for release v0.0.54 (#368)
+
+
+
