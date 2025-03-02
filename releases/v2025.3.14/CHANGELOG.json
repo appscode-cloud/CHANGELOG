@@ -1,0 +1,32 @@
+{
+  "product_line": "ACE",
+  "release": "v2025.3.14",
+  "release_date": "2025-03-02T00:35:54.838348047Z",
+  "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
+  "docs_url": "%!(EXTRA string=v2025.3.14)",
+  "kubernetes_version": "1.26+",
+  "projects": [
+    {
+      "url": "github.com/appscode-cloud/ui-wizards",
+      "releases": [
+        {
+          "tag": "v0.14.0",
+          "commits": [
+            {
+              "SHA": "74e0a2180",
+              "Subject": "Prepare for release v0.14.0 (#752)"
+            },
+            {
+              "SHA": "73a3f5053",
+              "Subject": "Update makefile"
+            },
+            {
+              "SHA": "bad233ac8",
+              "Subject": "Update deps"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
