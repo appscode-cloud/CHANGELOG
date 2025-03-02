@@ -37,3 +37,13 @@
 
 
 
+## [kubepack/lib-app](https://github.com/kubepack/lib-app)
+
+### [v0.3.0](https://github.com/kubepack/lib-app/releases/tag/v0.3.0)
+
+- [bc9ad742](https://github.com/kubepack/lib-app/commit/bc9ad742f) Prepare for release v0.3.0 (#114)
+- [2a9268a4](https://github.com/kubepack/lib-app/commit/2a9268a4f) Update *.sh
+- [8582492f](https://github.com/kubepack/lib-app/commit/8582492f0) Use Go 1.24 (#113)
+
+
+

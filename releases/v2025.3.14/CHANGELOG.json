@@ -1,7 +1,7 @@
 {
   "product_line": "ACE",
   "release": "v2025.3.14",
-  "release_date": "2025-03-02T00:52:53.998993969Z",
+  "release_date": "2025-03-02T01:00:27.555506039Z",
   "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
   "docs_url": "%!(EXTRA string=v2025.3.14)",
   "kubernetes_version": "1.26+",
@@ -73,6 +73,28 @@
             {
               "SHA": "b334a4d26",
               "Subject": "Prepare for release v0.0.54 (#368)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubepack/lib-app",
+      "releases": [
+        {
+          "tag": "v0.3.0",
+          "commits": [
+            {
+              "SHA": "bc9ad742f",
+              "Subject": "Prepare for release v0.3.0 (#114)"
+            },
+            {
+              "SHA": "2a9268a4f",
+              "Subject": "Update *.sh"
+            },
+            {
+              "SHA": "8582492f0",
+              "Subject": "Use Go 1.24 (#113)"
             }
           ]
         }
