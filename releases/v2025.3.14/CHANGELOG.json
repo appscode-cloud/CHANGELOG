@@ -1,11 +1,25 @@
 {
   "product_line": "ACE",
   "release": "v2025.3.14",
-  "release_date": "2025-03-02T01:00:27.555506039Z",
+  "release_date": "2025-03-02T01:09:50.29167247Z",
   "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
   "docs_url": "%!(EXTRA string=v2025.3.14)",
   "kubernetes_version": "1.26+",
   "projects": [
+    {
+      "url": "github.com/appscode-cloud/b3",
+      "releases": [
+        {
+          "tag": "v2025.3.14",
+          "commits": [
+            {
+              "SHA": "6892225c3e",
+              "Subject": "Prepare for release v2025.3.14 (#1196)"
+            }
+          ]
+        }
+      ]
+    },
     {
       "url": "github.com/appscode-cloud/ui-wizards",
       "releases": [
