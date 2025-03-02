@@ -1,0 +1,56 @@
+{
+  "product_line": "ACE",
+  "release": "v2025.3.14",
+  "docs_url_template": "",
+  "kubernetes_version": "1.26+",
+  "projects": [
+    {
+      "github.com/appscode-cloud/ui-wizards": {
+        "tag": "v0.14.0",
+        "chartNames": [
+          "kubedbcom-mongodb-editor-options"
+        ],
+        "commands": [
+          "make update-charts CHART_VERSION=${APPSCODE_CLOUD_UI_WIZARDS_TAG}",
+          "make gen fmt"
+        ]
+      }
+    },
+    {
+      "github.com/kmodules/resource-metadata": {
+        "tag": "v0.26.0",
+        "commands": [
+          "go run cmd/ui-updater/main.go --chart.version=${APPSCODE_CLOUD_UI_WIZARDS_TAG}",
+          "make fmt"
+        ]
+      }
+    },
+    {
+      "github.com/kmodules/image-packer": {
+        "tag": "v2025.3.14",
+        "release_branch": "release-${TAG}"
+      },
+      "github.com/kubeops/ui-server": {
+        "tag": "v0.0.54"
+      },
+      "github.com/kubepack/lib-app": {
+        "tag": "v0.3.0",
+        "commands": [
+          "make fmt"
+        ]
+      }
+    },
+    {
+      "github.com/appscode-cloud/b3": {
+        "tag": "v2025.3.14",
+        "release_branch": "release-${TAG}"
+      }
+    }
+  ],
+  "external_projects": {
+    "github.com/kmodules/codespan-schema-checker": {},
+    "github.com/kmodules/metrics-configuration-checker": {},
+    "github.com/kubepack/kubepack": {},
+    "github.com/kubepack/lib-app": {}
+  }
+}

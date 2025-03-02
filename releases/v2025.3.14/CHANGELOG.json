@@ -1,0 +1,118 @@
+{
+  "product_line": "ACE",
+  "release": "v2025.3.14",
+  "release_date": "2025-03-02T01:09:50.29167247Z",
+  "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
+  "docs_url": "%!(EXTRA string=v2025.3.14)",
+  "kubernetes_version": "1.26+",
+  "projects": [
+    {
+      "url": "github.com/appscode-cloud/b3",
+      "releases": [
+        {
+          "tag": "v2025.3.14",
+          "commits": [
+            {
+              "SHA": "6892225c3e",
+              "Subject": "Prepare for release v2025.3.14 (#1196)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode-cloud/ui-wizards",
+      "releases": [
+        {
+          "tag": "v0.14.0",
+          "commits": [
+            {
+              "SHA": "74e0a2180",
+              "Subject": "Prepare for release v0.14.0 (#752)"
+            },
+            {
+              "SHA": "73a3f5053",
+              "Subject": "Update makefile"
+            },
+            {
+              "SHA": "bad233ac8",
+              "Subject": "Update deps"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kmodules/image-packer",
+      "releases": [
+        {
+          "tag": "v2025.3.14",
+          "commits": [
+            {
+              "SHA": "f7cd2db9",
+              "Subject": "Prepare for release v2025.3.14 (#23)"
+            },
+            {
+              "SHA": "0dc6bed0",
+              "Subject": "Merge pull request #22 from kmodules/gha-up"
+            },
+            {
+              "SHA": "bbe2bbd4",
+              "Subject": "Use Go 1.24"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kmodules/resource-metadata",
+      "releases": [
+        {
+          "tag": "v0.26.0",
+          "commits": [
+            {
+              "SHA": "a42115526",
+              "Subject": "Prepare for release v0.26.0 (#540)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubeops/ui-server",
+      "releases": [
+        {
+          "tag": "v0.0.54",
+          "commits": [
+            {
+              "SHA": "b334a4d26",
+              "Subject": "Prepare for release v0.0.54 (#368)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubepack/lib-app",
+      "releases": [
+        {
+          "tag": "v0.3.0",
+          "commits": [
+            {
+              "SHA": "bc9ad742f",
+              "Subject": "Prepare for release v0.3.0 (#114)"
+            },
+            {
+              "SHA": "2a9268a4f",
+              "Subject": "Update *.sh"
+            },
+            {
+              "SHA": "8582492f0",
+              "Subject": "Use Go 1.24 (#113)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
