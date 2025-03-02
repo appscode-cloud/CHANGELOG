@@ -11,6 +11,16 @@
 
 
 
+## [kmodules/image-packer](https://github.com/kmodules/image-packer)
+
+### [v2025.3.14](https://github.com/kmodules/image-packer/releases/tag/v2025.3.14)
+
+- [f7cd2db9](https://github.com/kmodules/image-packer/commit/f7cd2db9) Prepare for release v2025.3.14 (#23)
+- [0dc6bed0](https://github.com/kmodules/image-packer/commit/0dc6bed0) Merge pull request #22 from kmodules/gha-up
+- [bbe2bbd4](https://github.com/kmodules/image-packer/commit/bbe2bbd4) Use Go 1.24
+
+
+
 ## [kmodules/resource-metadata](https://github.com/kmodules/resource-metadata)
 
 ### [v0.26.0](https://github.com/kmodules/resource-metadata/releases/tag/v0.26.0)
