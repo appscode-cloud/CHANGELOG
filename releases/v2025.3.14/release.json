@@ -51,7 +51,7 @@
         "key": "kubeops-installer",
         "tag": "v2025.3.14",
         "chartNames": [
-          "kubedb-ui-server"
+          "kube-ui-server"
         ],
         "commands": [
           "./hack/scripts/import-crds.sh",
