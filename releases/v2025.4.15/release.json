@@ -20,7 +20,7 @@
       "github.com/kmodules/resource-metadata": {
         "tag": "v0.27.0",
         "commands": [
-          "go run cmd/ui-updater/main.go --chart.version=${APPSCODE_CLOUD_UI_WIZARDS_TAG}",
+          "go run cmd/ui-updater/main.go --chart.version=${APPSCODE_CLOUD_UI_WIZARDS_TAG} --use-digest=false",
           "make fmt"
         ]
       }
