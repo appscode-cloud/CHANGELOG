@@ -41,6 +41,15 @@
 
 
 
+## [kubeops/installer](https://github.com/kubeops/installer)
+
+### [v2025.4.15](https://github.com/kubeops/installer/releases/tag/v2025.4.15)
+
+- [f06779f](https://github.com/kubeops/installer/commit/f06779f) Prepare for release v2025.4.15 (#234)
+- [e6cbdd9](https://github.com/kubeops/installer/commit/e6cbdd9) Skip updating supervisor crds from master
+
+
+
 ## [kubeops/ui-server](https://github.com/kubeops/ui-server)
 
 ### [v0.0.55](https://github.com/kubeops/ui-server/releases/tag/v0.0.55)

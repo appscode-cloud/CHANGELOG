@@ -1,7 +1,7 @@
 {
   "product_line": "ACE",
   "release": "v2025.4.15",
-  "release_date": "2025-03-29T04:52:24.598891906Z",
+  "release_date": "2025-03-29T07:35:39.71319921Z",
   "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
   "docs_url": "%!(EXTRA string=v2025.4.15)",
   "kubernetes_version": "1.26+",
@@ -71,6 +71,24 @@
             {
               "SHA": "7634244b2",
               "Subject": "Prepare for release v0.27.0 (#546)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubeops/installer",
+      "releases": [
+        {
+          "tag": "v2025.4.15",
+          "commits": [
+            {
+              "SHA": "f06779f",
+              "Subject": "Prepare for release v2025.4.15 (#234)"
+            },
+            {
+              "SHA": "e6cbdd9",
+              "Subject": "Skip updating supervisor crds from master"
             }
           ]
         }
