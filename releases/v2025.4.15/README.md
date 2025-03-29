@@ -9,6 +9,15 @@
 
 
 
+## [appscode-cloud/installer](https://github.com/appscode-cloud/installer)
+
+### [v2025.4.15](https://github.com/appscode-cloud/installer/releases/tag/v2025.4.15)
+
+- [e88b9b2f](https://github.com/appscode-cloud/installer/commit/e88b9b2f) Prepare for release v2025.4.15 (#794)
+- [d5dfce3e](https://github.com/appscode-cloud/installer/commit/d5dfce3e) Fix makefile
+
+
+
 ## [appscode-cloud/ui-wizards](https://github.com/appscode-cloud/ui-wizards)
 
 ### [v0.15.0](https://github.com/appscode-cloud/ui-wizards/releases/tag/v0.15.0)

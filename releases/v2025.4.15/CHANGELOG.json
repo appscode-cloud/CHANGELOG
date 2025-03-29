@@ -1,7 +1,7 @@
 {
   "product_line": "ACE",
   "release": "v2025.4.15",
-  "release_date": "2025-03-29T07:35:39.71319921Z",
+  "release_date": "2025-03-29T09:26:28.096297177Z",
   "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
   "docs_url": "%!(EXTRA string=v2025.4.15)",
   "kubernetes_version": "1.26+",
@@ -15,6 +15,24 @@
             {
               "SHA": "a387466cd7",
               "Subject": "Prepare for release v2025.4.15 (#1223)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode-cloud/installer",
+      "releases": [
+        {
+          "tag": "v2025.4.15",
+          "commits": [
+            {
+              "SHA": "e88b9b2f",
+              "Subject": "Prepare for release v2025.4.15 (#794)"
+            },
+            {
+              "SHA": "d5dfce3e",
+              "Subject": "Fix makefile"
             }
           ]
         }
