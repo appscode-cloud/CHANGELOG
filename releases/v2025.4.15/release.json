@@ -81,6 +81,9 @@
           "./hack/scripts/import-crds.sh",
           "make update-charts CHART_VERSION=${RELEASE} CHART_REGISTRY=${CHART_REGISTRY} CHART_REGISTRY_URL=${CHART_REGISTRY_URL}",
           "make chart-opscenter-features CHART_VERSION=${RELEASE} APP_VERSION=${APPSCODE_CLOUD_UI_WIZARDS_TAG} CHART_REGISTRY=${CHART_REGISTRY} CHART_REGISTRY_URL=${CHART_REGISTRY_URL}",
+          "go mod edit -require kubestash.dev/apimachinery@v0.17.0",
+          "go mod tidy",
+          "go mod vendor",
           "go run ./cmd/update-version/main.go --chart.version=${RELEASE}",
           "./hack/scripts/update-chart-dependencies.sh",
           "./hack/scripts/update-catalog.sh"
