@@ -1,0 +1,164 @@
+{
+  "product_line": "ACE",
+  "release": "v2025.4.15",
+  "release_date": "2025-03-29T09:26:28.096297177Z",
+  "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
+  "docs_url": "%!(EXTRA string=v2025.4.15)",
+  "kubernetes_version": "1.26+",
+  "projects": [
+    {
+      "url": "github.com/appscode-cloud/b3",
+      "releases": [
+        {
+          "tag": "v2025.4.15",
+          "commits": [
+            {
+              "SHA": "a387466cd7",
+              "Subject": "Prepare for release v2025.4.15 (#1223)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode-cloud/installer",
+      "releases": [
+        {
+          "tag": "v2025.4.15",
+          "commits": [
+            {
+              "SHA": "e88b9b2f",
+              "Subject": "Prepare for release v2025.4.15 (#794)"
+            },
+            {
+              "SHA": "d5dfce3e",
+              "Subject": "Fix makefile"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode-cloud/ui-wizards",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": [
+            {
+              "SHA": "42a252f44",
+              "Subject": "Prepare for release v0.15.0 (#770)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode/website",
+      "releases": [
+        {
+          "tag": "v2025.4.15",
+          "commits": [
+            {
+              "SHA": "89cc1740",
+              "Subject": "Prepare for release v2025.4.15 (#169)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kmodules/image-packer",
+      "releases": [
+        {
+          "tag": "v2025.4.15",
+          "commits": [
+            {
+              "SHA": "e9f22aa9",
+              "Subject": "Prepare for release v2025.4.15 (#24)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kmodules/resource-metadata",
+      "releases": [
+        {
+          "tag": "v0.27.0",
+          "commits": [
+            {
+              "SHA": "7634244b2",
+              "Subject": "Prepare for release v0.27.0 (#546)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubeops/installer",
+      "releases": [
+        {
+          "tag": "v2025.4.15",
+          "commits": [
+            {
+              "SHA": "f06779f",
+              "Subject": "Prepare for release v2025.4.15 (#234)"
+            },
+            {
+              "SHA": "e6cbdd9",
+              "Subject": "Skip updating supervisor crds from master"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubeops/ui-server",
+      "releases": [
+        {
+          "tag": "v0.0.55",
+          "commits": [
+            {
+              "SHA": "7ae8a9ecb",
+              "Subject": "Prepare for release v0.0.55 (#370)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubepack/lib-app",
+      "releases": [
+        {
+          "tag": "v0.4.0",
+          "commits": [
+            {
+              "SHA": "e80296d34",
+              "Subject": "Prepare for release v0.4.0 (#118)"
+            },
+            {
+              "SHA": "6347c84a7",
+              "Subject": "Add set-version command"
+            },
+            {
+              "SHA": "a2730af2f",
+              "Subject": "Fix typo (#117)"
+            },
+            {
+              "SHA": "3ad65c94b",
+              "Subject": "Filter out the non-semver versions (#116)"
+            },
+            {
+              "SHA": "772d33228",
+              "Subject": "Use k8s 1.32 client libs"
+            },
+            {
+              "SHA": "7ea21ad46",
+              "Subject": "Remove clickhouse monitoring (#115)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
