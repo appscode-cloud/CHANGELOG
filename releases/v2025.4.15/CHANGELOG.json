@@ -1,7 +1,7 @@
 {
   "product_line": "ACE",
   "release": "v2025.4.15",
-  "release_date": "2025-03-29T04:12:33.85148609Z",
+  "release_date": "2025-03-29T04:15:20.417741986Z",
   "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
   "docs_url": "%!(EXTRA string=v2025.4.15)",
   "kubernetes_version": "1.26+",
@@ -71,6 +71,40 @@
             {
               "SHA": "7ae8a9ecb",
               "Subject": "Prepare for release v0.0.55 (#370)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubepack/lib-app",
+      "releases": [
+        {
+          "tag": "v0.4.0",
+          "commits": [
+            {
+              "SHA": "e80296d34",
+              "Subject": "Prepare for release v0.4.0 (#118)"
+            },
+            {
+              "SHA": "6347c84a7",
+              "Subject": "Add set-version command"
+            },
+            {
+              "SHA": "a2730af2f",
+              "Subject": "Fix typo (#117)"
+            },
+            {
+              "SHA": "3ad65c94b",
+              "Subject": "Filter out the non-semver versions (#116)"
+            },
+            {
+              "SHA": "772d33228",
+              "Subject": "Use k8s 1.32 client libs"
+            },
+            {
+              "SHA": "7ea21ad46",
+              "Subject": "Remove clickhouse monitoring (#115)"
             }
           ]
         }

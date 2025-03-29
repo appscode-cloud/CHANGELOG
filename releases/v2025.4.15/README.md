@@ -41,3 +41,16 @@
 
 
 
+## [kubepack/lib-app](https://github.com/kubepack/lib-app)
+
+### [v0.4.0](https://github.com/kubepack/lib-app/releases/tag/v0.4.0)
+
+- [e80296d3](https://github.com/kubepack/lib-app/commit/e80296d34) Prepare for release v0.4.0 (#118)
+- [6347c84a](https://github.com/kubepack/lib-app/commit/6347c84a7) Add set-version command
+- [a2730af2](https://github.com/kubepack/lib-app/commit/a2730af2f) Fix typo (#117)
+- [3ad65c94](https://github.com/kubepack/lib-app/commit/3ad65c94b) Filter out the non-semver versions (#116)
+- [772d3322](https://github.com/kubepack/lib-app/commit/772d33228) Use k8s 1.32 client libs
+- [7ea21ad4](https://github.com/kubepack/lib-app/commit/7ea21ad46) Remove clickhouse monitoring (#115)
+
+
+
