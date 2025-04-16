@@ -1,0 +1,195 @@
+{
+  "product_line": "ACE",
+  "release": "v2025.4.30",
+  "release_date": "2025-04-16T22:15:53.946931035Z",
+  "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
+  "docs_url": "%!(EXTRA string=v2025.4.30)",
+  "kubernetes_version": "1.26+",
+  "projects": [
+    {
+      "url": "github.com/appscode-cloud/b3",
+      "releases": [
+        {
+          "tag": "v2025.4.30",
+          "commits": [
+            {
+              "SHA": "aa6999b4c1",
+              "Subject": "Prepare for ace v2025.4.30"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode-cloud/installer",
+      "releases": [
+        {
+          "tag": "v2025.4.30",
+          "commits": [
+            {
+              "SHA": "f3c0a207",
+              "Subject": "Prepare for release v2025.4.30 (#812)"
+            },
+            {
+              "SHA": "484994f5",
+              "Subject": "Update cve report (#811)"
+            },
+            {
+              "SHA": "75ddc1ee",
+              "Subject": "Update cve report (#810)"
+            },
+            {
+              "SHA": "6550a360",
+              "Subject": "Update cve report (#809)"
+            },
+            {
+              "SHA": "6411f834",
+              "Subject": "Update cve report (#808)"
+            },
+            {
+              "SHA": "c8562daa",
+              "Subject": "Update cve report (#807)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode-cloud/ui-wizards",
+      "releases": [
+        {
+          "tag": "v0.16.0",
+          "commits": [
+            {
+              "SHA": "96d8fcf43",
+              "Subject": "Prepare for release v0.16.0 (#772)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode/website",
+      "releases": [
+        {
+          "tag": "v2025.4.30",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kmodules/image-packer",
+      "releases": [
+        {
+          "tag": "v2025.4.30",
+          "commits": [
+            {
+              "SHA": "125e742f",
+              "Subject": "Prepare for release v2025.4.30 (#25)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kmodules/resource-metadata",
+      "releases": [
+        {
+          "tag": "v0.28.0",
+          "commits": [
+            {
+              "SHA": "4240052cd",
+              "Subject": "Prepare for release v0.28.0 (#547)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubeops/installer",
+      "releases": [
+        {
+          "tag": "v2025.4.30",
+          "commits": [
+            {
+              "SHA": "f01b0ee",
+              "Subject": "Prepare for release v2025.4.30 (#247)"
+            },
+            {
+              "SHA": "8681988",
+              "Subject": "Update cve report (#246)"
+            },
+            {
+              "SHA": "fc13560",
+              "Subject": "Update cve report (#245)"
+            },
+            {
+              "SHA": "3af0fff",
+              "Subject": "Update cve report (#243)"
+            },
+            {
+              "SHA": "e2ddd2d",
+              "Subject": "Update cve report (#242)"
+            },
+            {
+              "SHA": "026321f",
+              "Subject": "Update cve report (#241)"
+            },
+            {
+              "SHA": "a680951",
+              "Subject": "Update cve report (#240)"
+            },
+            {
+              "SHA": "e1ecdcc",
+              "Subject": "Update cve report (#239)"
+            },
+            {
+              "SHA": "71bb167",
+              "Subject": "Update cve report (#238)"
+            },
+            {
+              "SHA": "895e2e3",
+              "Subject": "Update cve report (#237)"
+            },
+            {
+              "SHA": "3ead194",
+              "Subject": "Update cve report (#236)"
+            },
+            {
+              "SHA": "d9ed618",
+              "Subject": "Update cve report (#235)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubeops/ui-server",
+      "releases": [
+        {
+          "tag": "v0.0.56",
+          "commits": [
+            {
+              "SHA": "1a6f5862b",
+              "Subject": "Prepare for release v0.0.56 (#371)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubepack/lib-app",
+      "releases": [
+        {
+          "tag": "v0.5.0",
+          "commits": [
+            {
+              "SHA": "f6e7712b3",
+              "Subject": "Prepare for release v0.5.0 (#119)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
