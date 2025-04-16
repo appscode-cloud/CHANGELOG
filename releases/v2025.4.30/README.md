@@ -17,3 +17,11 @@
 
 
 
+## [kubepack/lib-app](https://github.com/kubepack/lib-app)
+
+### [v0.5.0](https://github.com/kubepack/lib-app/releases/tag/v0.5.0)
+
+- [f6e7712b](https://github.com/kubepack/lib-app/commit/f6e7712b3) Prepare for release v0.5.0 (#119)
+
+
+
