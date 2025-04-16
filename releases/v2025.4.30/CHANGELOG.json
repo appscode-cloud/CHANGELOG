@@ -1,7 +1,7 @@
 {
   "product_line": "ACE",
   "release": "v2025.4.30",
-  "release_date": "2025-04-16T19:57:20.170370628Z",
+  "release_date": "2025-04-16T20:48:51.827634052Z",
   "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
   "docs_url": "%!(EXTRA string=v2025.4.30)",
   "kubernetes_version": "1.26+",
@@ -15,6 +15,20 @@
             {
               "SHA": "96d8fcf43",
               "Subject": "Prepare for release v0.16.0 (#772)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kmodules/resource-metadata",
+      "releases": [
+        {
+          "tag": "v0.28.0",
+          "commits": [
+            {
+              "SHA": "4240052cd",
+              "Subject": "Prepare for release v0.28.0 (#547)"
             }
           ]
         }
