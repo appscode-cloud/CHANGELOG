@@ -1,7 +1,7 @@
 {
   "product_line": "ACE",
   "release": "v2025.4.30",
-  "release_date": "2025-04-16T21:32:07.643305404Z",
+  "release_date": "2025-04-16T21:44:00.740120265Z",
   "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
   "docs_url": "%!(EXTRA string=v2025.4.30)",
   "kubernetes_version": "1.26+",
@@ -66,6 +66,64 @@
             {
               "SHA": "4240052cd",
               "Subject": "Prepare for release v0.28.0 (#547)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubeops/installer",
+      "releases": [
+        {
+          "tag": "v2025.4.30",
+          "commits": [
+            {
+              "SHA": "f01b0ee",
+              "Subject": "Prepare for release v2025.4.30 (#247)"
+            },
+            {
+              "SHA": "8681988",
+              "Subject": "Update cve report (#246)"
+            },
+            {
+              "SHA": "fc13560",
+              "Subject": "Update cve report (#245)"
+            },
+            {
+              "SHA": "3af0fff",
+              "Subject": "Update cve report (#243)"
+            },
+            {
+              "SHA": "e2ddd2d",
+              "Subject": "Update cve report (#242)"
+            },
+            {
+              "SHA": "026321f",
+              "Subject": "Update cve report (#241)"
+            },
+            {
+              "SHA": "a680951",
+              "Subject": "Update cve report (#240)"
+            },
+            {
+              "SHA": "e1ecdcc",
+              "Subject": "Update cve report (#239)"
+            },
+            {
+              "SHA": "71bb167",
+              "Subject": "Update cve report (#238)"
+            },
+            {
+              "SHA": "895e2e3",
+              "Subject": "Update cve report (#237)"
+            },
+            {
+              "SHA": "3ead194",
+              "Subject": "Update cve report (#236)"
+            },
+            {
+              "SHA": "d9ed618",
+              "Subject": "Update cve report (#235)"
             }
           ]
         }
