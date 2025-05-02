@@ -33,3 +33,12 @@
 
 
 
+## [kubeops/ui-server](https://github.com/kubeops/ui-server)
+
+### [v0.0.57](https://github.com/kubeops/ui-server/releases/tag/v0.0.57)
+
+- [f28aaf2b](https://github.com/kubeops/ui-server/commit/f28aaf2bc) Prepare for release v0.0.57 (#374)
+- [adbbc602](https://github.com/kubeops/ui-server/commit/adbbc6022) Update deps
+
+
+
