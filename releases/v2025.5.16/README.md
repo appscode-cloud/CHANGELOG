@@ -1,4 +1,4 @@
-# ACE v2025.5.16 (2025-05-02)
+# ACE v2025.5.16 (2025-05-03)
 
 
 ## [appscode-cloud/b3](https://github.com/appscode-cloud/b3)
@@ -6,6 +6,14 @@
 ### [v2025.5.16](https://github.com/appscode-cloud/b3/releases/tag/v2025.5.16)
 
 - [e2772b77](https://github.com/appscode-cloud/b3/commit/e2772b7741) Prepare for release v2025.5.16 (#1249)
+
+
+
+## [appscode-cloud/installer](https://github.com/appscode-cloud/installer)
+
+### [v2025.5.16](https://github.com/appscode-cloud/installer/releases/tag/v2025.5.16)
+
+- [9df322c7](https://github.com/appscode-cloud/installer/commit/9df322c7) Prepare for release v2025.5.16 (#837)
 
 
 
