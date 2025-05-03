@@ -1,0 +1,172 @@
+{
+  "product_line": "ACE",
+  "release": "v2025.5.16",
+  "release_date": "2025-05-03T02:58:59.905192917Z",
+  "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
+  "docs_url": "%!(EXTRA string=v2025.5.16)",
+  "kubernetes_version": "1.26+",
+  "projects": [
+    {
+      "url": "github.com/appscode-cloud/b3",
+      "releases": [
+        {
+          "tag": "v2025.5.16",
+          "commits": [
+            {
+              "SHA": "e2772b7741",
+              "Subject": "Prepare for release v2025.5.16 (#1249)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode-cloud/installer",
+      "releases": [
+        {
+          "tag": "v2025.5.16",
+          "commits": [
+            {
+              "SHA": "9df322c7",
+              "Subject": "Prepare for release v2025.5.16 (#837)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode-cloud/ui-wizards",
+      "releases": [
+        {
+          "tag": "v0.17.0",
+          "commits": [
+            {
+              "SHA": "706b89c95",
+              "Subject": "Prepare for release v0.17.0 (#793)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode/website",
+      "releases": [
+        {
+          "tag": "v2025.5.16",
+          "commits": [
+            {
+              "SHA": "6c1748c5",
+              "Subject": "Prepare for release v2025.5.16 (#171)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kmodules/image-packer",
+      "releases": [
+        {
+          "tag": "v2025.5.16",
+          "commits": [
+            {
+              "SHA": "8ace1603",
+              "Subject": "Prepare for release v2025.5.16 (#26)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kmodules/resource-metadata",
+      "releases": [
+        {
+          "tag": "v0.29.0",
+          "commits": [
+            {
+              "SHA": "4e7f7fc08",
+              "Subject": "Prepare for release v0.29.0 (#550)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubeops/installer",
+      "releases": [
+        {
+          "tag": "v2025.5.16",
+          "commits": [
+            {
+              "SHA": "f9d6b5e",
+              "Subject": "Prepare for release v2025.5.16 (#255)"
+            },
+            {
+              "SHA": "6eaf29a",
+              "Subject": "Update cve report (#254)"
+            },
+            {
+              "SHA": "eac6794",
+              "Subject": "Update cve report (#253)"
+            },
+            {
+              "SHA": "64230eb",
+              "Subject": "Update cve report (#252)"
+            },
+            {
+              "SHA": "7ea5fed",
+              "Subject": "Update cve report (#251)"
+            },
+            {
+              "SHA": "d9397d2",
+              "Subject": "Update cve report (#250)"
+            },
+            {
+              "SHA": "55028cb",
+              "Subject": "Update cve report (#249)"
+            },
+            {
+              "SHA": "82f110f",
+              "Subject": "Update cve report (#248)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubeops/ui-server",
+      "releases": [
+        {
+          "tag": "v0.0.57",
+          "commits": [
+            {
+              "SHA": "f28aaf2bc",
+              "Subject": "Prepare for release v0.0.57 (#374)"
+            },
+            {
+              "SHA": "adbbc6022",
+              "Subject": "Update deps"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubepack/lib-app",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "1f8504820",
+              "Subject": "Prepare for release v0.6.0 (#121)"
+            },
+            {
+              "SHA": "183f04ef1",
+              "Subject": "Update for release ACE@v2025.4.30 (#120)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
