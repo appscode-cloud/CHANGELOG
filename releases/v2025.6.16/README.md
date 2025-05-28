@@ -42,6 +42,18 @@
 
 
 
+## [kubeops/installer](https://github.com/kubeops/installer)
+
+### [v2025.6.16](https://github.com/kubeops/installer/releases/tag/v2025.6.16)
+
+- [9ba4463](https://github.com/kubeops/installer/commit/9ba4463) Prepare for release v2025.6.16 (#261)
+- [dd1130e](https://github.com/kubeops/installer/commit/dd1130e) Update imageList
+- [e2fde60](https://github.com/kubeops/installer/commit/e2fde60) Add taskqueue chart (#259)
+- [229b143](https://github.com/kubeops/installer/commit/229b143) Update cve report (#258)
+- [bc71463](https://github.com/kubeops/installer/commit/bc71463) Update cve report (#257)
+
+
+
 ## [kubeops/ui-server](https://github.com/kubeops/ui-server)
 
 ### [v0.0.58](https://github.com/kubeops/ui-server/releases/tag/v0.0.58)
