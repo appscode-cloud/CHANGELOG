@@ -1,7 +1,7 @@
 {
   "product_line": "ACE",
   "release": "v2025.6.16",
-  "release_date": "2025-05-28T19:42:16.166748074Z",
+  "release_date": "2025-05-28T19:42:25.13654028Z",
   "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
   "docs_url": "%!(EXTRA string=v2025.6.16)",
   "kubernetes_version": "1.26+",
@@ -43,6 +43,24 @@
             {
               "SHA": "023e17023",
               "Subject": "Prepare for release v0.30.0 (#556)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubepack/lib-app",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "ebb5c9b0c",
+              "Subject": "Prepare for release v0.7.0 (#124)"
+            },
+            {
+              "SHA": "8b311991d",
+              "Subject": "Add ignite & cassandra (#123)"
             }
           ]
         }

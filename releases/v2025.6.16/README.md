@@ -25,3 +25,12 @@
 
 
 
+## [kubepack/lib-app](https://github.com/kubepack/lib-app)
+
+### [v0.7.0](https://github.com/kubepack/lib-app/releases/tag/v0.7.0)
+
+- [ebb5c9b0](https://github.com/kubepack/lib-app/commit/ebb5c9b0c) Prepare for release v0.7.0 (#124)
+- [8b311991](https://github.com/kubepack/lib-app/commit/8b311991d) Add ignite & cassandra (#123)
+
+
+
