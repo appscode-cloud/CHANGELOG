@@ -1,11 +1,29 @@
 {
   "product_line": "ACE",
   "release": "v2025.6.30",
-  "release_date": "2025-06-19T04:11:20.436470321Z",
+  "release_date": "2025-06-19T04:40:39.379198233Z",
   "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
   "docs_url": "%!(EXTRA string=v2025.6.30)",
   "kubernetes_version": "1.26+",
   "projects": [
+    {
+      "url": "github.com/appscode-cloud/b3",
+      "releases": [
+        {
+          "tag": "v2025.6.30",
+          "commits": [
+            {
+              "SHA": "08d239012c",
+              "Subject": "Prepare for release v2025.6.30 (#1279)"
+            },
+            {
+              "SHA": "9c17d0dda1",
+              "Subject": "Update go.sum"
+            }
+          ]
+        }
+      ]
+    },
     {
       "url": "github.com/appscode-cloud/ui-wizards",
       "releases": [
