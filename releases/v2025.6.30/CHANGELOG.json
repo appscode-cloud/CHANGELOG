@@ -1,0 +1,164 @@
+{
+  "product_line": "ACE",
+  "release": "v2025.6.30",
+  "release_date": "2025-06-19T05:20:28.787003191Z",
+  "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
+  "docs_url": "%!(EXTRA string=v2025.6.30)",
+  "kubernetes_version": "1.26+",
+  "projects": [
+    {
+      "url": "github.com/appscode-cloud/b3",
+      "releases": [
+        {
+          "tag": "v2025.6.30",
+          "commits": [
+            {
+              "SHA": "08d239012c",
+              "Subject": "Prepare for release v2025.6.30 (#1279)"
+            },
+            {
+              "SHA": "9c17d0dda1",
+              "Subject": "Update go.sum"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode-cloud/installer",
+      "releases": [
+        {
+          "tag": "v2025.6.30",
+          "commits": [
+            {
+              "SHA": "12d89adc",
+              "Subject": "Prepare for release v2025.6.30 (#889)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode-cloud/ui-wizards",
+      "releases": [
+        {
+          "tag": "v0.19.0",
+          "commits": [
+            {
+              "SHA": "fda345a29",
+              "Subject": "Prepare for release v0.19.0 (#814)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode/website",
+      "releases": [
+        {
+          "tag": "v2025.6.30",
+          "commits": [
+            {
+              "SHA": "9a8bf10a",
+              "Subject": "Prepare for release v2025.6.30 (#173)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kmodules/image-packer",
+      "releases": [
+        {
+          "tag": "v2025.6.30",
+          "commits": [
+            {
+              "SHA": "2d28be8a",
+              "Subject": "Prepare for release v2025.6.30 (#28)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kmodules/resource-metadata",
+      "releases": [
+        {
+          "tag": "v0.31.0",
+          "commits": [
+            {
+              "SHA": "307e78ca0",
+              "Subject": "Prepare for release v0.31.0 (#559)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubeops/installer",
+      "releases": [
+        {
+          "tag": "v2025.6.30",
+          "commits": [
+            {
+              "SHA": "054c86d",
+              "Subject": "Prepare for release v2025.6.30 (#263)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubeops/ui-server",
+      "releases": [
+        {
+          "tag": "v0.0.59",
+          "commits": [
+            {
+              "SHA": "758678f31",
+              "Subject": "Prepare for release v0.0.59 (#376)"
+            },
+            {
+              "SHA": "c0776d7d8",
+              "Subject": "Update catalog-manager to v0.6.0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubepack/lib-app",
+      "releases": [
+        {
+          "tag": "v0.8.0",
+          "commits": [
+            {
+              "SHA": "83cb24e5e",
+              "Subject": "Prepare for release v0.8.0 (#127)"
+            },
+            {
+              "SHA": "4befa5b1a",
+              "Subject": "Generate simple editors only in all.sh (#126)"
+            },
+            {
+              "SHA": "4eab395d5",
+              "Subject": "Update kubevault v2025.5.30 crds"
+            },
+            {
+              "SHA": "ecd482328",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "aba9d0579",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "d5a8c124f",
+              "Subject": "Update for release ACE@v2025.6.16 (#125)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
