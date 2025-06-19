@@ -17,6 +17,14 @@
 
 
 
+## [kmodules/image-packer](https://github.com/kmodules/image-packer)
+
+### [v2025.6.30](https://github.com/kmodules/image-packer/releases/tag/v2025.6.30)
+
+- [2d28be8a](https://github.com/kmodules/image-packer/commit/2d28be8a) Prepare for release v2025.6.30 (#28)
+
+
+
 ## [kmodules/resource-metadata](https://github.com/kmodules/resource-metadata)
 
 ### [v0.31.0](https://github.com/kmodules/resource-metadata/releases/tag/v0.31.0)
