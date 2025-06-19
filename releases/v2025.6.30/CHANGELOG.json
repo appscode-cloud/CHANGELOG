@@ -1,7 +1,7 @@
 {
   "product_line": "ACE",
   "release": "v2025.6.30",
-  "release_date": "2025-06-19T04:03:43.003040109Z",
+  "release_date": "2025-06-19T04:11:20.436470321Z",
   "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
   "docs_url": "%!(EXTRA string=v2025.6.30)",
   "kubernetes_version": "1.26+",
@@ -57,6 +57,24 @@
             {
               "SHA": "307e78ca0",
               "Subject": "Prepare for release v0.31.0 (#559)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubeops/ui-server",
+      "releases": [
+        {
+          "tag": "v0.0.59",
+          "commits": [
+            {
+              "SHA": "758678f31",
+              "Subject": "Prepare for release v0.0.59 (#376)"
+            },
+            {
+              "SHA": "c0776d7d8",
+              "Subject": "Update catalog-manager to v0.6.0"
             }
           ]
         }
