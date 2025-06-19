@@ -1,4 +1,4 @@
-# ACE v2025.6.30 (2025-06-18)
+# ACE v2025.6.30 (2025-06-19)
 
 
 ## [appscode-cloud/ui-wizards](https://github.com/appscode-cloud/ui-wizards)
@@ -14,6 +14,19 @@
 ### [v0.31.0](https://github.com/kmodules/resource-metadata/releases/tag/v0.31.0)
 
 - [307e78ca](https://github.com/kmodules/resource-metadata/commit/307e78ca0) Prepare for release v0.31.0 (#559)
+
+
+
+## [kubepack/lib-app](https://github.com/kubepack/lib-app)
+
+### [v0.8.0](https://github.com/kubepack/lib-app/releases/tag/v0.8.0)
+
+- [83cb24e5](https://github.com/kubepack/lib-app/commit/83cb24e5e) Prepare for release v0.8.0 (#127)
+- [4befa5b1](https://github.com/kubepack/lib-app/commit/4befa5b1a) Generate simple editors only in all.sh (#126)
+- [4eab395d](https://github.com/kubepack/lib-app/commit/4eab395d5) Update kubevault v2025.5.30 crds
+- [ecd48232](https://github.com/kubepack/lib-app/commit/ecd482328) Update deps
+- [aba9d057](https://github.com/kubepack/lib-app/commit/aba9d0579) Update deps
+- [d5a8c124](https://github.com/kubepack/lib-app/commit/d5a8c124f) Update for release ACE@v2025.6.16 (#125)
 
 
 

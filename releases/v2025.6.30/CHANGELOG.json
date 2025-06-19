@@ -1,7 +1,7 @@
 {
   "product_line": "ACE",
   "release": "v2025.6.30",
-  "release_date": "2025-06-18T19:50:30.955898377Z",
+  "release_date": "2025-06-19T04:03:04.254771827Z",
   "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
   "docs_url": "%!(EXTRA string=v2025.6.30)",
   "kubernetes_version": "1.26+",
@@ -29,6 +29,40 @@
             {
               "SHA": "307e78ca0",
               "Subject": "Prepare for release v0.31.0 (#559)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubepack/lib-app",
+      "releases": [
+        {
+          "tag": "v0.8.0",
+          "commits": [
+            {
+              "SHA": "83cb24e5e",
+              "Subject": "Prepare for release v0.8.0 (#127)"
+            },
+            {
+              "SHA": "4befa5b1a",
+              "Subject": "Generate simple editors only in all.sh (#126)"
+            },
+            {
+              "SHA": "4eab395d5",
+              "Subject": "Update kubevault v2025.5.30 crds"
+            },
+            {
+              "SHA": "ecd482328",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "aba9d0579",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "d5a8c124f",
+              "Subject": "Update for release ACE@v2025.6.16 (#125)"
             }
           ]
         }
