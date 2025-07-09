@@ -1,7 +1,7 @@
 {
   "product_line": "ACE",
   "release": "v2025.7.16",
-  "release_date": "2025-07-09T16:30:10.448144772Z",
+  "release_date": "2025-07-09T18:35:43.120364078Z",
   "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
   "docs_url": "%!(EXTRA string=v2025.7.16)",
   "kubernetes_version": "1.26+",
@@ -24,6 +24,28 @@
             {
               "SHA": "b3610138",
               "Subject": "Prepare for release v2025.7.16 (#175)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kmodules/image-packer",
+      "releases": [
+        {
+          "tag": "v2025.7.16",
+          "commits": [
+            {
+              "SHA": "f9363372",
+              "Subject": "Add release tracker script"
+            },
+            {
+              "SHA": "75796ff0",
+              "Subject": "Prepare for release v2025.7.16 (#29)"
+            },
+            {
+              "SHA": "5b29e9b3",
+              "Subject": "Support missing image ignore list"
             }
           ]
         }

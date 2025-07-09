@@ -16,6 +16,16 @@
 
 
 
+## [kmodules/image-packer](https://github.com/kmodules/image-packer)
+
+### [v2025.7.16](https://github.com/kmodules/image-packer/releases/tag/v2025.7.16)
+
+- [f9363372](https://github.com/kmodules/image-packer/commit/f9363372) Add release tracker script
+- [75796ff0](https://github.com/kmodules/image-packer/commit/75796ff0) Prepare for release v2025.7.16 (#29)
+- [5b29e9b3](https://github.com/kmodules/image-packer/commit/5b29e9b3) Support missing image ignore list
+
+
+
 ## [kmodules/resource-metadata](https://github.com/kmodules/resource-metadata)
 
 ### [v0.32.0](https://github.com/kmodules/resource-metadata/releases/tag/v0.32.0)
