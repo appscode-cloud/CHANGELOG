@@ -8,3 +8,11 @@
 
 
 
+## [kmodules/resource-metadata](https://github.com/kmodules/resource-metadata)
+
+### [v0.32.0](https://github.com/kmodules/resource-metadata/releases/tag/v0.32.0)
+
+- [a535333c](https://github.com/kmodules/resource-metadata/commit/a535333ca) Prepare for release v0.32.0 (#562)
+
+
+
