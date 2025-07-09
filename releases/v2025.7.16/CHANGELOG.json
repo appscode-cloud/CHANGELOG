@@ -1,0 +1,19 @@
+{
+  "product_line": "ACE",
+  "release": "v2025.7.16",
+  "release_date": "2025-07-09T15:54:53.51360319Z",
+  "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
+  "docs_url": "%!(EXTRA string=v2025.7.16)",
+  "kubernetes_version": "1.26+",
+  "projects": [
+    {
+      "url": "github.com/appscode-cloud/ui-wizards",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": null
+        }
+      ]
+    }
+  ]
+}
