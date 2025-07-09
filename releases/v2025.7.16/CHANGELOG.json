@@ -1,7 +1,7 @@
 {
   "product_line": "ACE",
   "release": "v2025.7.16",
-  "release_date": "2025-07-09T20:32:20.833936574Z",
+  "release_date": "2025-07-09T21:36:22.5409773Z",
   "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
   "docs_url": "%!(EXTRA string=v2025.7.16)",
   "kubernetes_version": "1.26+",
@@ -74,6 +74,36 @@
             {
               "SHA": "a535333ca",
               "Subject": "Prepare for release v0.32.0 (#562)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubeops/installer",
+      "releases": [
+        {
+          "tag": "v2025.7.16",
+          "commits": [
+            {
+              "SHA": "b8bdf92",
+              "Subject": "Prepare for release v2025.7.16 (#269)"
+            },
+            {
+              "SHA": "6835be8",
+              "Subject": "Update cve report (#268)"
+            },
+            {
+              "SHA": "dd4bd76",
+              "Subject": "Update cve report (#267)"
+            },
+            {
+              "SHA": "3bab8d9",
+              "Subject": "Test against k8s 1.33 (#266)"
+            },
+            {
+              "SHA": "60882a8",
+              "Subject": "Update cve report (#265)"
             }
           ]
         }
