@@ -1,0 +1,122 @@
+{
+  "product_line": "ACE",
+  "release": "v2025.7.31",
+  "docs_url_template": "",
+  "kubernetes_version": "1.26+",
+  "projects": [
+    {
+      "github.com/appscode-cloud/ui-wizards": {
+        "tag": "v0.21.0",
+        "chartNames": [
+          "kubedbcom-mongodb-editor-options"
+        ],
+        "commands": [
+          "make update-charts CHART_VERSION=${APPSCODE_CLOUD_UI_WIZARDS_TAG}",
+          "make gen fmt"
+        ]
+      }
+    },
+    {
+      "github.com/kmodules/resource-metadata": {
+        "tag": "v0.33.0",
+        "commands": [
+          "go run cmd/ui-updater/main.go --use-digest=false --chart.version=${APPSCODE_CLOUD_UI_WIZARDS_TAG}",
+          "make fmt"
+        ]
+      }
+    },
+    {
+      "github.com/appscode/website": {
+        "tag": "v2025.7.31",
+        "commands": [
+          "make assets"
+        ],
+        "release_branch": "release-${TAG}"
+      },
+      "github.com/kmodules/image-packer": {
+        "tag": "v2025.7.31",
+        "release_branch": "release-${TAG}"
+      },
+      "github.com/kubeops/ui-server": {
+        "tag": "v0.0.61"
+      },
+      "github.com/kubepack/lib-app": {
+        "tag": "v0.9.0",
+        "commands": [
+          "make set-version VERSION=${APPSCODE_CLOUD_UI_WIZARDS_TAG}",
+          "make fmt"
+        ]
+      }
+    },
+    {
+      "github.com/appscode-cloud/b3": {
+        "tag": "v2025.7.31",
+        "release_branch": "release-${TAG}"
+      }
+    },
+    {
+      "github.com/kubeops/installer": {
+        "key": "kubeops-installer",
+        "tag": "v2025.7.31",
+        "chartNames": [
+          "kube-ui-server"
+        ],
+        "commands": [
+          "./hack/scripts/import-crds.sh",
+          "make chart-kube-ui-server CHART_VERSION=${RELEASE} APP_VERSION=${KUBEOPS_UI_SERVER_TAG} CHART_REGISTRY=${CHART_REGISTRY} CHART_REGISTRY_URL=${CHART_REGISTRY_URL}",
+          "./hack/scripts/update-chart-dependencies.sh",
+          "./hack/scripts/update-catalog.sh"
+        ],
+        "release_branch": "release-${TAG}"
+      }
+    },
+    {
+      "github.com/appscode-cloud/installer": {
+        "key": "kubedb-installer",
+        "tag": "v2025.7.31",
+        "chartNames": [
+          "opscenter-features"
+        ],
+        "commands": [
+          "./hack/scripts/import-crds.sh",
+          "make update-charts CHART_VERSION=${RELEASE} CHART_REGISTRY=${CHART_REGISTRY} CHART_REGISTRY_URL=${CHART_REGISTRY_URL}",
+          "make chart-acaas CHART_VERSION=${RELEASE} APP_VERSION=${RELEASE} CHART_REGISTRY=${CHART_REGISTRY} CHART_REGISTRY_URL=${CHART_REGISTRY_URL}",
+          "make chart-accounts-ui CHART_VERSION=${RELEASE} APP_VERSION=${RELEASE} CHART_REGISTRY=${CHART_REGISTRY} CHART_REGISTRY_URL=${CHART_REGISTRY_URL}",
+          "make chart-ace CHART_VERSION=${RELEASE} APP_VERSION=${RELEASE} CHART_REGISTRY=${CHART_REGISTRY} CHART_REGISTRY_URL=${CHART_REGISTRY_URL}",
+          "make chart-ace-installer CHART_VERSION=${RELEASE} APP_VERSION=${RELEASE} CHART_REGISTRY=${CHART_REGISTRY} CHART_REGISTRY_URL=${CHART_REGISTRY_URL}",
+          "make chart-billing CHART_VERSION=${RELEASE} APP_VERSION=${RELEASE} CHART_REGISTRY=${CHART_REGISTRY} CHART_REGISTRY_URL=${CHART_REGISTRY_URL}",
+          "make chart-kubedb-ui-presets CHART_VERSION=${RELEASE} APP_VERSION=${RELEASE} CHART_REGISTRY=${CHART_REGISTRY} CHART_REGISTRY_URL=${CHART_REGISTRY_URL}",
+          "make chart-marketplace-api CHART_VERSION=${RELEASE} APP_VERSION=${RELEASE} CHART_REGISTRY=${CHART_REGISTRY} CHART_REGISTRY_URL=${CHART_REGISTRY_URL}",
+          "make chart-platform-api CHART_VERSION=${RELEASE} APP_VERSION=${RELEASE} CHART_REGISTRY=${CHART_REGISTRY} CHART_REGISTRY_URL=${CHART_REGISTRY_URL}",
+          "make chart-service-gateway CHART_VERSION=${RELEASE} APP_VERSION=${RELEASE} CHART_REGISTRY=${CHART_REGISTRY} CHART_REGISTRY_URL=${CHART_REGISTRY_URL}",
+          "make chart-service-gateway-presets CHART_VERSION=${RELEASE} APP_VERSION=${RELEASE} CHART_REGISTRY=${CHART_REGISTRY} CHART_REGISTRY_URL=${CHART_REGISTRY_URL}",
+          "make chart-service-vault CHART_VERSION=${RELEASE} APP_VERSION=${RELEASE} CHART_REGISTRY=${CHART_REGISTRY} CHART_REGISTRY_URL=${CHART_REGISTRY_URL}",
+          "make chart-stash-presets CHART_VERSION=${RELEASE} APP_VERSION=${RELEASE} CHART_REGISTRY=${CHART_REGISTRY} CHART_REGISTRY_URL=${CHART_REGISTRY_URL}",
+          "make chart-website CHART_VERSION=${RELEASE} APP_VERSION=${RELEASE} CHART_REGISTRY=${CHART_REGISTRY} CHART_REGISTRY_URL=${CHART_REGISTRY_URL}",
+          "make chart-opscenter-features CHART_VERSION=${RELEASE} APP_VERSION=${APPSCODE_CLOUD_UI_WIZARDS_TAG} CHART_REGISTRY=${CHART_REGISTRY} CHART_REGISTRY_URL=${CHART_REGISTRY_URL}",
+          "go run ./cmd/update-version/main.go",
+          "./hack/scripts/update-chart-dependencies.sh",
+          "./hack/scripts/update-catalog.sh",
+          "make gen fmt"
+        ],
+        "release_branch": "release-${TAG}"
+      }
+    },
+    {
+      "github.com/appscode/charts": {
+        "charts": [
+          "github.com/kubeops/installer",
+          "github.com/appscode-cloud/installer"
+        ],
+        "changelog": "Skip"
+      }
+    }
+  ],
+  "external_projects": {
+    "github.com/appscode-cloud/outbox-syncer": {},
+    "github.com/kmodules/codespan-schema-checker": {},
+    "github.com/kmodules/metrics-configuration-checker": {},
+    "github.com/kubepack/kubepack": {},
+    "github.com/kubepack/lib-app": {}
+  }
+}
