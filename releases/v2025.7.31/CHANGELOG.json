@@ -1,7 +1,7 @@
 {
   "product_line": "ACE",
   "release": "v2025.7.31",
-  "release_date": "2025-07-23T09:37:40.807318662Z",
+  "release_date": "2025-07-23T09:41:15.511985119Z",
   "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
   "docs_url": "%!(EXTRA string=v2025.7.31)",
   "kubernetes_version": "1.26+",
@@ -61,6 +61,24 @@
             {
               "SHA": "b51da3855",
               "Subject": "Update resource metadata for stash"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubeops/ui-server",
+      "releases": [
+        {
+          "tag": "v0.0.61",
+          "commits": [
+            {
+              "SHA": "f027a7502",
+              "Subject": "Prepare for release v0.0.61 (#380)"
+            },
+            {
+              "SHA": "a93f6bc6d",
+              "Subject": "Update deps"
             }
           ]
         }

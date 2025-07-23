@@ -34,3 +34,12 @@
 
 
 
+## [kubeops/ui-server](https://github.com/kubeops/ui-server)
+
+### [v0.0.61](https://github.com/kubeops/ui-server/releases/tag/v0.0.61)
+
+- [f027a750](https://github.com/kubeops/ui-server/commit/f027a7502) Prepare for release v0.0.61 (#380)
+- [a93f6bc6](https://github.com/kubeops/ui-server/commit/a93f6bc6d) Update deps
+
+
+
