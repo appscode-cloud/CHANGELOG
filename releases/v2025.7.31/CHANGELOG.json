@@ -1,7 +1,7 @@
 {
   "product_line": "ACE",
   "release": "v2025.7.31",
-  "release_date": "2025-07-23T10:15:22.038162209Z",
+  "release_date": "2025-07-23T10:27:21.057367707Z",
   "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
   "docs_url": "%!(EXTRA string=v2025.7.31)",
   "kubernetes_version": "1.26+",
@@ -79,6 +79,32 @@
             {
               "SHA": "b51da3855",
               "Subject": "Update resource metadata for stash"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubeops/installer",
+      "releases": [
+        {
+          "tag": "v2025.7.31",
+          "commits": [
+            {
+              "SHA": "45a7ecc",
+              "Subject": "Prepare for release v2025.7.31 (#275)"
+            },
+            {
+              "SHA": "08c8d6b",
+              "Subject": "Update cve report (#274)"
+            },
+            {
+              "SHA": "f210953",
+              "Subject": "Update cve report (#273)"
+            },
+            {
+              "SHA": "3f4d5a5",
+              "Subject": "Update cve report (#272)"
             }
           ]
         }
