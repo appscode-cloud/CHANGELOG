@@ -1,0 +1,184 @@
+{
+  "product_line": "ACE",
+  "release": "v2025.7.31",
+  "release_date": "2025-07-23T10:42:55.289684111Z",
+  "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
+  "docs_url": "%!(EXTRA string=v2025.7.31)",
+  "kubernetes_version": "1.26+",
+  "projects": [
+    {
+      "url": "github.com/appscode-cloud/b3",
+      "releases": [
+        {
+          "tag": "v2025.7.31",
+          "commits": [
+            {
+              "SHA": "d4957e9e26",
+              "Subject": "Prepare for release v2025.7.31 (#1299)"
+            },
+            {
+              "SHA": "1fafae79dd",
+              "Subject": "Update go.sum"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode-cloud/installer",
+      "releases": [
+        {
+          "tag": "v2025.7.31",
+          "commits": [
+            {
+              "SHA": "8843c859",
+              "Subject": "Prepare for release v2025.7.31 (#937)"
+            },
+            {
+              "SHA": "c6dae12f",
+              "Subject": "Update cve report (#936)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode-cloud/ui-wizards",
+      "releases": [
+        {
+          "tag": "v0.21.0",
+          "commits": [
+            {
+              "SHA": "253f3e415",
+              "Subject": "Prepare for release v0.21.0 (#837)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode/website",
+      "releases": [
+        {
+          "tag": "v2025.7.31",
+          "commits": [
+            {
+              "SHA": "91d8b169",
+              "Subject": "Prepare for release v2025.7.31 (#176)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kmodules/image-packer",
+      "releases": [
+        {
+          "tag": "v2025.7.31",
+          "commits": [
+            {
+              "SHA": "cc5662f3",
+              "Subject": "Prepare for release v2025.7.31 (#30)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kmodules/resource-metadata",
+      "releases": [
+        {
+          "tag": "v0.33.0",
+          "commits": [
+            {
+              "SHA": "048d0285b",
+              "Subject": "Prepare for release v0.33.0 (#565)"
+            },
+            {
+              "SHA": "b51da3855",
+              "Subject": "Update resource metadata for stash"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubeops/installer",
+      "releases": [
+        {
+          "tag": "v2025.7.31",
+          "commits": [
+            {
+              "SHA": "45a7ecc",
+              "Subject": "Prepare for release v2025.7.31 (#275)"
+            },
+            {
+              "SHA": "08c8d6b",
+              "Subject": "Update cve report (#274)"
+            },
+            {
+              "SHA": "f210953",
+              "Subject": "Update cve report (#273)"
+            },
+            {
+              "SHA": "3f4d5a5",
+              "Subject": "Update cve report (#272)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubeops/ui-server",
+      "releases": [
+        {
+          "tag": "v0.0.61",
+          "commits": [
+            {
+              "SHA": "f027a7502",
+              "Subject": "Prepare for release v0.0.61 (#380)"
+            },
+            {
+              "SHA": "a93f6bc6d",
+              "Subject": "Update deps"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubepack/lib-app",
+      "releases": [
+        {
+          "tag": "v0.9.0",
+          "commits": [
+            {
+              "SHA": "d325909d0",
+              "Subject": "Prepare for release v0.9.0 (#131)"
+            },
+            {
+              "SHA": "e6bc3d1ce",
+              "Subject": "Update generator script for kubedb (#129)"
+            },
+            {
+              "SHA": "b7607beb4",
+              "Subject": "Update for release ACE@v2025.7.16 (#130)"
+            },
+            {
+              "SHA": "5ace962eb",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "08d0f6802",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "3860a71b8",
+              "Subject": "Update for release ACE@v2025.6.30 (#128)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
