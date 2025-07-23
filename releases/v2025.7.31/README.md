@@ -9,3 +9,12 @@
 
 
 
+## [kmodules/resource-metadata](https://github.com/kmodules/resource-metadata)
+
+### [v0.33.0](https://github.com/kmodules/resource-metadata/releases/tag/v0.33.0)
+
+- [048d0285](https://github.com/kmodules/resource-metadata/commit/048d0285b) Prepare for release v0.33.0 (#565)
+- [b51da385](https://github.com/kmodules/resource-metadata/commit/b51da3855) Update resource metadata for stash
+
+
+
