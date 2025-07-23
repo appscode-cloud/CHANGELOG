@@ -43,3 +43,16 @@
 
 
 
+## [kubepack/lib-app](https://github.com/kubepack/lib-app)
+
+### [v0.9.0](https://github.com/kubepack/lib-app/releases/tag/v0.9.0)
+
+- [d325909d](https://github.com/kubepack/lib-app/commit/d325909d0) Prepare for release v0.9.0 (#131)
+- [e6bc3d1c](https://github.com/kubepack/lib-app/commit/e6bc3d1ce) Update generator script for kubedb (#129)
+- [b7607beb](https://github.com/kubepack/lib-app/commit/b7607beb4) Update for release ACE@v2025.7.16 (#130)
+- [5ace962e](https://github.com/kubepack/lib-app/commit/5ace962eb) Update deps
+- [08d0f680](https://github.com/kubepack/lib-app/commit/08d0f6802) Update deps
+- [3860a71b](https://github.com/kubepack/lib-app/commit/3860a71b8) Update for release ACE@v2025.6.30 (#128)
+
+
+

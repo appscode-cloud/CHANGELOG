@@ -1,7 +1,7 @@
 {
   "product_line": "ACE",
   "release": "v2025.7.31",
-  "release_date": "2025-07-23T09:41:15.511985119Z",
+  "release_date": "2025-07-23T09:43:50.898626179Z",
   "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
   "docs_url": "%!(EXTRA string=v2025.7.31)",
   "kubernetes_version": "1.26+",
@@ -79,6 +79,40 @@
             {
               "SHA": "a93f6bc6d",
               "Subject": "Update deps"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubepack/lib-app",
+      "releases": [
+        {
+          "tag": "v0.9.0",
+          "commits": [
+            {
+              "SHA": "d325909d0",
+              "Subject": "Prepare for release v0.9.0 (#131)"
+            },
+            {
+              "SHA": "e6bc3d1ce",
+              "Subject": "Update generator script for kubedb (#129)"
+            },
+            {
+              "SHA": "b7607beb4",
+              "Subject": "Update for release ACE@v2025.7.16 (#130)"
+            },
+            {
+              "SHA": "5ace962eb",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "08d0f6802",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "3860a71b8",
+              "Subject": "Update for release ACE@v2025.6.30 (#128)"
             }
           ]
         }
