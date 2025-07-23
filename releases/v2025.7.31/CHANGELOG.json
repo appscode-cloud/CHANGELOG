@@ -1,7 +1,7 @@
 {
   "product_line": "ACE",
   "release": "v2025.7.31",
-  "release_date": "2025-07-23T10:27:21.057367707Z",
+  "release_date": "2025-07-23T10:42:55.289684111Z",
   "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
   "docs_url": "%!(EXTRA string=v2025.7.31)",
   "kubernetes_version": "1.26+",
@@ -19,6 +19,24 @@
             {
               "SHA": "1fafae79dd",
               "Subject": "Update go.sum"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode-cloud/installer",
+      "releases": [
+        {
+          "tag": "v2025.7.31",
+          "commits": [
+            {
+              "SHA": "8843c859",
+              "Subject": "Prepare for release v2025.7.31 (#937)"
+            },
+            {
+              "SHA": "c6dae12f",
+              "Subject": "Update cve report (#936)"
             }
           ]
         }
