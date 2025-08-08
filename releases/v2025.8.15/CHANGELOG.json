@@ -1,7 +1,7 @@
 {
   "product_line": "ACE",
   "release": "v2025.8.15",
-  "release_date": "2025-08-08T22:38:13.844294821Z",
+  "release_date": "2025-08-08T22:43:12.264914568Z",
   "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
   "docs_url": "%!(EXTRA string=v2025.8.15)",
   "kubernetes_version": "1.26+",
@@ -69,6 +69,20 @@
             {
               "SHA": "45e0f3cfd",
               "Subject": "Update to KubeDB & KubeStash v2025.7.31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubeops/ui-server",
+      "releases": [
+        {
+          "tag": "v0.0.62",
+          "commits": [
+            {
+              "SHA": "757123ac1",
+              "Subject": "Prepare for release v0.0.62 (#383)"
             }
           ]
         }

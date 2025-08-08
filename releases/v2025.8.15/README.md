@@ -36,3 +36,11 @@
 
 
 
+## [kubeops/ui-server](https://github.com/kubeops/ui-server)
+
+### [v0.0.62](https://github.com/kubeops/ui-server/releases/tag/v0.0.62)
+
+- [757123ac](https://github.com/kubeops/ui-server/commit/757123ac1) Prepare for release v0.0.62 (#383)
+
+
+
