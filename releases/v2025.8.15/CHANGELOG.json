@@ -1,0 +1,28 @@
+{
+  "product_line": "ACE",
+  "release": "v2025.8.15",
+  "release_date": "2025-08-08T22:08:24.867906893Z",
+  "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
+  "docs_url": "%!(EXTRA string=v2025.8.15)",
+  "kubernetes_version": "1.26+",
+  "projects": [
+    {
+      "url": "github.com/appscode-cloud/ui-wizards",
+      "releases": [
+        {
+          "tag": "v0.22.0",
+          "commits": [
+            {
+              "SHA": "794e222da",
+              "Subject": "Prepare for release v0.22.0 (#840)"
+            },
+            {
+              "SHA": "fa8c5ff9d",
+              "Subject": "Update for KubeDB v2025.7.31"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
