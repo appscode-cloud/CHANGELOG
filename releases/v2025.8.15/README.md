@@ -44,3 +44,12 @@
 
 
 
+## [kubepack/lib-app](https://github.com/kubepack/lib-app)
+
+### [v0.10.0](https://github.com/kubepack/lib-app/releases/tag/v0.10.0)
+
+- [ebb5acd8](https://github.com/kubepack/lib-app/commit/ebb5acd87) Prepare for release v0.10.0 (#132)
+- [ef2bc88e](https://github.com/kubepack/lib-app/commit/ef2bc88ef) Update to KubeDB v2025.7.31
+
+
+
