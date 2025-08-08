@@ -1,7 +1,7 @@
 {
   "product_line": "ACE",
   "release": "v2025.8.15",
-  "release_date": "2025-08-08T22:08:24.867906893Z",
+  "release_date": "2025-08-08T22:32:08.536093297Z",
   "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
   "docs_url": "%!(EXTRA string=v2025.8.15)",
   "kubernetes_version": "1.26+",
@@ -19,6 +19,24 @@
             {
               "SHA": "fa8c5ff9d",
               "Subject": "Update for KubeDB v2025.7.31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kmodules/resource-metadata",
+      "releases": [
+        {
+          "tag": "v0.34.0",
+          "commits": [
+            {
+              "SHA": "c3d968355",
+              "Subject": "Prepare for release v0.34.0 (#566)"
+            },
+            {
+              "SHA": "45e0f3cfd",
+              "Subject": "Update to KubeDB & KubeStash v2025.7.31"
             }
           ]
         }

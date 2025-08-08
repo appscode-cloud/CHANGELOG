@@ -10,3 +10,12 @@
 
 
 
+## [kmodules/resource-metadata](https://github.com/kmodules/resource-metadata)
+
+### [v0.34.0](https://github.com/kmodules/resource-metadata/releases/tag/v0.34.0)
+
+- [c3d96835](https://github.com/kmodules/resource-metadata/commit/c3d968355) Prepare for release v0.34.0 (#566)
+- [45e0f3cf](https://github.com/kmodules/resource-metadata/commit/45e0f3cfd) Update to KubeDB & KubeStash v2025.7.31
+
+
+
