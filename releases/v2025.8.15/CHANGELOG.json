@@ -1,7 +1,7 @@
 {
   "product_line": "ACE",
   "release": "v2025.8.15",
-  "release_date": "2025-08-08T23:06:39.362742819Z",
+  "release_date": "2025-08-08T23:21:40.879344484Z",
   "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
   "docs_url": "%!(EXTRA string=v2025.8.15)",
   "kubernetes_version": "1.26+",
@@ -83,6 +83,24 @@
             {
               "SHA": "45e0f3cfd",
               "Subject": "Update to KubeDB & KubeStash v2025.7.31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubeops/installer",
+      "releases": [
+        {
+          "tag": "v2025.8.15",
+          "commits": [
+            {
+              "SHA": "49b5328",
+              "Subject": "Prepare for release v2025.8.15 (#288)"
+            },
+            {
+              "SHA": "f875d4a",
+              "Subject": "Update cve report (#287)"
             }
           ]
         }
