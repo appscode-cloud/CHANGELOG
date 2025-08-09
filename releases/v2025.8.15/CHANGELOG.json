@@ -1,0 +1,156 @@
+{
+  "product_line": "ACE",
+  "release": "v2025.8.15",
+  "release_date": "2025-08-09T02:46:43.122777915Z",
+  "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
+  "docs_url": "%!(EXTRA string=v2025.8.15)",
+  "kubernetes_version": "1.26+",
+  "projects": [
+    {
+      "url": "github.com/appscode-cloud/b3",
+      "releases": [
+        {
+          "tag": "v2025.8.15",
+          "commits": [
+            {
+              "SHA": "5a9652e2c1",
+              "Subject": "Prepare for release v2025.8.15 (#1317)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode-cloud/installer",
+      "releases": [
+        {
+          "tag": "v2025.8.15",
+          "commits": [
+            {
+              "SHA": "0bd4087e",
+              "Subject": "Prepare for release v2025.8.15 (#959)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode-cloud/ui-wizards",
+      "releases": [
+        {
+          "tag": "v0.22.0",
+          "commits": [
+            {
+              "SHA": "794e222da",
+              "Subject": "Prepare for release v0.22.0 (#840)"
+            },
+            {
+              "SHA": "fa8c5ff9d",
+              "Subject": "Update for KubeDB v2025.7.31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode/website",
+      "releases": [
+        {
+          "tag": "v2025.8.15",
+          "commits": [
+            {
+              "SHA": "88a15455",
+              "Subject": "Prepare for release v2025.8.15 (#178)"
+            },
+            {
+              "SHA": "21aad75b",
+              "Subject": "Fix company name (#177)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kmodules/image-packer",
+      "releases": [
+        {
+          "tag": "v2025.8.15",
+          "commits": [
+            {
+              "SHA": "1d52168c",
+              "Subject": "Prepare for release v2025.8.15 (#31)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kmodules/resource-metadata",
+      "releases": [
+        {
+          "tag": "v0.34.0",
+          "commits": [
+            {
+              "SHA": "c3d968355",
+              "Subject": "Prepare for release v0.34.0 (#566)"
+            },
+            {
+              "SHA": "45e0f3cfd",
+              "Subject": "Update to KubeDB & KubeStash v2025.7.31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubeops/installer",
+      "releases": [
+        {
+          "tag": "v2025.8.15",
+          "commits": [
+            {
+              "SHA": "49b5328",
+              "Subject": "Prepare for release v2025.8.15 (#288)"
+            },
+            {
+              "SHA": "f875d4a",
+              "Subject": "Update cve report (#287)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubeops/ui-server",
+      "releases": [
+        {
+          "tag": "v0.0.62",
+          "commits": [
+            {
+              "SHA": "757123ac1",
+              "Subject": "Prepare for release v0.0.62 (#383)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubepack/lib-app",
+      "releases": [
+        {
+          "tag": "v0.10.0",
+          "commits": [
+            {
+              "SHA": "ebb5acd87",
+              "Subject": "Prepare for release v0.10.0 (#132)"
+            },
+            {
+              "SHA": "ef2bc88ef",
+              "Subject": "Update to KubeDB v2025.7.31"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
