@@ -18,6 +18,15 @@
 
 
 
+## [kmodules/image-packer](https://github.com/kmodules/image-packer)
+
+### [v2025.8.31](https://github.com/kmodules/image-packer/releases/tag/v2025.8.31)
+
+- [ae3ef975](https://github.com/kmodules/image-packer/commit/ae3ef975) Prepare for release v2025.8.31 (#33)
+- [ead624f5](https://github.com/kmodules/image-packer/commit/ead624f5) Use Go 1.25 (#32)
+
+
+
 ## [kmodules/resource-metadata](https://github.com/kmodules/resource-metadata)
 
 ### [v0.35.0](https://github.com/kmodules/resource-metadata/releases/tag/v0.35.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "ACE",
   "release": "v2025.8.31",
-  "release_date": "2025-08-20T19:39:53.130226843Z",
+  "release_date": "2025-08-20T19:43:34.965092971Z",
   "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
   "docs_url": "%!(EXTRA string=v2025.8.31)",
   "kubernetes_version": "1.26+",
@@ -33,6 +33,24 @@
             {
               "SHA": "d370e5a8",
               "Subject": "Prepare for release v2025.8.31 (#179)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kmodules/image-packer",
+      "releases": [
+        {
+          "tag": "v2025.8.31",
+          "commits": [
+            {
+              "SHA": "ae3ef975",
+              "Subject": "Prepare for release v2025.8.31 (#33)"
+            },
+            {
+              "SHA": "ead624f5",
+              "Subject": "Use Go 1.25 (#32)"
             }
           ]
         }
