@@ -10,6 +10,14 @@
 
 
 
+## [appscode/website](https://github.com/appscode/website)
+
+### [v2025.8.31](https://github.com/appscode/website/releases/tag/v2025.8.31)
+
+- [d370e5a8](https://github.com/appscode/website/commit/d370e5a8) Prepare for release v2025.8.31 (#179)
+
+
+
 ## [kmodules/resource-metadata](https://github.com/kmodules/resource-metadata)
 
 ### [v0.35.0](https://github.com/kmodules/resource-metadata/releases/tag/v0.35.0)
