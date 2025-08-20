@@ -1,7 +1,7 @@
 {
   "product_line": "ACE",
   "release": "v2025.8.31",
-  "release_date": "2025-08-20T19:08:12.232982505Z",
+  "release_date": "2025-08-20T19:35:43.913927545Z",
   "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
   "docs_url": "%!(EXTRA string=v2025.8.31)",
   "kubernetes_version": "1.26+",
@@ -19,6 +19,20 @@
             {
               "SHA": "8e356c217",
               "Subject": "Use custom helm binary (#844)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kmodules/resource-metadata",
+      "releases": [
+        {
+          "tag": "v0.35.0",
+          "commits": [
+            {
+              "SHA": "1bb76d170",
+              "Subject": "Prepare for release v0.35.0 (#569)"
             }
           ]
         }
