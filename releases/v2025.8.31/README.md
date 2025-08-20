@@ -43,3 +43,12 @@
 
 
 
+## [kubepack/lib-app](https://github.com/kubepack/lib-app)
+
+### [v0.11.0](https://github.com/kubepack/lib-app/releases/tag/v0.11.0)
+
+- [a13fd615](https://github.com/kubepack/lib-app/commit/a13fd615a) Prepare for release v0.11.0 (#134)
+- [f432183b](https://github.com/kubepack/lib-app/commit/f432183bb) Use Go 1.25 (#133)
+
+
+
