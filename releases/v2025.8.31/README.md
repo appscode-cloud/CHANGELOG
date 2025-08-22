@@ -10,6 +10,16 @@
 
 
 
+## [appscode-cloud/installer](https://github.com/appscode-cloud/installer)
+
+### [v2025.8.31](https://github.com/appscode-cloud/installer/releases/tag/v2025.8.31)
+
+- [b516a1de](https://github.com/appscode-cloud/installer/commit/b516a1de) Prepare for release v2025.8.31 (#980)
+- [4013f103](https://github.com/appscode-cloud/installer/commit/4013f103) Update cve report (#979)
+- [5b998ced](https://github.com/appscode-cloud/installer/commit/5b998ced) Update cve report (#978)
+
+
+
 ## [appscode-cloud/ui-wizards](https://github.com/appscode-cloud/ui-wizards)
 
 ### [v0.23.0](https://github.com/appscode-cloud/ui-wizards/releases/tag/v0.23.0)
