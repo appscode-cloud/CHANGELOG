@@ -1,0 +1,188 @@
+{
+  "product_line": "ACE",
+  "release": "v2025.8.31",
+  "release_date": "2025-08-22T11:47:04.480546961Z",
+  "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
+  "docs_url": "%!(EXTRA string=v2025.8.31)",
+  "kubernetes_version": "1.26+",
+  "projects": [
+    {
+      "url": "github.com/appscode-cloud/b3",
+      "releases": [
+        {
+          "tag": "v2025.8.31",
+          "commits": [
+            {
+              "SHA": "93d678baa7",
+              "Subject": "Prepare for release v2025.8.31 (#1330)"
+            },
+            {
+              "SHA": "7718edcb9f",
+              "Subject": "Update deps"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode-cloud/installer",
+      "releases": [
+        {
+          "tag": "v2025.8.31",
+          "commits": [
+            {
+              "SHA": "b516a1de",
+              "Subject": "Prepare for release v2025.8.31 (#980)"
+            },
+            {
+              "SHA": "4013f103",
+              "Subject": "Update cve report (#979)"
+            },
+            {
+              "SHA": "5b998ced",
+              "Subject": "Update cve report (#978)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode-cloud/ui-wizards",
+      "releases": [
+        {
+          "tag": "v0.23.0",
+          "commits": [
+            {
+              "SHA": "15fe4f6c1",
+              "Subject": "Prepare for release v0.23.0 (#845)"
+            },
+            {
+              "SHA": "8e356c217",
+              "Subject": "Use custom helm binary (#844)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode/website",
+      "releases": [
+        {
+          "tag": "v2025.8.31",
+          "commits": [
+            {
+              "SHA": "d370e5a8",
+              "Subject": "Prepare for release v2025.8.31 (#179)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kmodules/image-packer",
+      "releases": [
+        {
+          "tag": "v2025.8.31",
+          "commits": [
+            {
+              "SHA": "ae3ef975",
+              "Subject": "Prepare for release v2025.8.31 (#33)"
+            },
+            {
+              "SHA": "ead624f5",
+              "Subject": "Use Go 1.25 (#32)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kmodules/resource-metadata",
+      "releases": [
+        {
+          "tag": "v0.35.0",
+          "commits": [
+            {
+              "SHA": "1bb76d170",
+              "Subject": "Prepare for release v0.35.0 (#569)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubeops/installer",
+      "releases": [
+        {
+          "tag": "v2025.8.31",
+          "commits": [
+            {
+              "SHA": "dfc0652",
+              "Subject": "Prepare for release v2025.8.31 (#298)"
+            },
+            {
+              "SHA": "106d5bf",
+              "Subject": "Update cve report (#295)"
+            },
+            {
+              "SHA": "7abdc8b",
+              "Subject": "Use Go 1.25 (#294)"
+            },
+            {
+              "SHA": "c70625c",
+              "Subject": "Test against k8s 1.33.2 (#293)"
+            },
+            {
+              "SHA": "a49f38d",
+              "Subject": "Test against k8s 1.33.2 (#292)"
+            },
+            {
+              "SHA": "48b9ebd",
+              "Subject": "Update cve report (#291)"
+            },
+            {
+              "SHA": "f80c354",
+              "Subject": "Update cve report (#290)"
+            },
+            {
+              "SHA": "f0d8e16",
+              "Subject": "Update cve report (#289)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubeops/ui-server",
+      "releases": [
+        {
+          "tag": "v0.0.63",
+          "commits": [
+            {
+              "SHA": "059572acc",
+              "Subject": "Prepare for release v0.0.63 (#385)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubepack/lib-app",
+      "releases": [
+        {
+          "tag": "v0.11.0",
+          "commits": [
+            {
+              "SHA": "a13fd615a",
+              "Subject": "Prepare for release v0.11.0 (#134)"
+            },
+            {
+              "SHA": "f432183bb",
+              "Subject": "Use Go 1.25 (#133)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
