@@ -1,7 +1,7 @@
 {
   "product_line": "ACE",
   "release": "v2025.8.31",
-  "release_date": "2025-08-21T12:21:10.180131378Z",
+  "release_date": "2025-08-22T04:19:12.254097987Z",
   "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
   "docs_url": "%!(EXTRA string=v2025.8.31)",
   "kubernetes_version": "1.26+",
@@ -83,6 +83,48 @@
             {
               "SHA": "1bb76d170",
               "Subject": "Prepare for release v0.35.0 (#569)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubeops/installer",
+      "releases": [
+        {
+          "tag": "v2025.8.31",
+          "commits": [
+            {
+              "SHA": "dfc0652",
+              "Subject": "Prepare for release v2025.8.31 (#298)"
+            },
+            {
+              "SHA": "106d5bf",
+              "Subject": "Update cve report (#295)"
+            },
+            {
+              "SHA": "7abdc8b",
+              "Subject": "Use Go 1.25 (#294)"
+            },
+            {
+              "SHA": "c70625c",
+              "Subject": "Test against k8s 1.33.2 (#293)"
+            },
+            {
+              "SHA": "a49f38d",
+              "Subject": "Test against k8s 1.33.2 (#292)"
+            },
+            {
+              "SHA": "48b9ebd",
+              "Subject": "Update cve report (#291)"
+            },
+            {
+              "SHA": "f80c354",
+              "Subject": "Update cve report (#290)"
+            },
+            {
+              "SHA": "f0d8e16",
+              "Subject": "Update cve report (#289)"
             }
           ]
         }

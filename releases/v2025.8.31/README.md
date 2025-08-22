@@ -1,4 +1,4 @@
-# ACE v2025.8.31 (2025-08-21)
+# ACE v2025.8.31 (2025-08-22)
 
 
 ## [appscode-cloud/b3](https://github.com/appscode-cloud/b3)
@@ -41,6 +41,21 @@
 ### [v0.35.0](https://github.com/kmodules/resource-metadata/releases/tag/v0.35.0)
 
 - [1bb76d17](https://github.com/kmodules/resource-metadata/commit/1bb76d170) Prepare for release v0.35.0 (#569)
+
+
+
+## [kubeops/installer](https://github.com/kubeops/installer)
+
+### [v2025.8.31](https://github.com/kubeops/installer/releases/tag/v2025.8.31)
+
+- [dfc0652](https://github.com/kubeops/installer/commit/dfc0652) Prepare for release v2025.8.31 (#298)
+- [106d5bf](https://github.com/kubeops/installer/commit/106d5bf) Update cve report (#295)
+- [7abdc8b](https://github.com/kubeops/installer/commit/7abdc8b) Use Go 1.25 (#294)
+- [c70625c](https://github.com/kubeops/installer/commit/c70625c) Test against k8s 1.33.2 (#293)
+- [a49f38d](https://github.com/kubeops/installer/commit/a49f38d) Test against k8s 1.33.2 (#292)
+- [48b9ebd](https://github.com/kubeops/installer/commit/48b9ebd) Update cve report (#291)
+- [f80c354](https://github.com/kubeops/installer/commit/f80c354) Update cve report (#290)
+- [f0d8e16](https://github.com/kubeops/installer/commit/f0d8e16) Update cve report (#289)
 
 
 
