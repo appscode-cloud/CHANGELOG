@@ -10,3 +10,11 @@
 
 
 
+## [kmodules/resource-metadata](https://github.com/kmodules/resource-metadata)
+
+### [v0.36.0](https://github.com/kmodules/resource-metadata/releases/tag/v0.36.0)
+
+- [881257d8](https://github.com/kmodules/resource-metadata/commit/881257d84) Prepare for release v0.36.0 (#572)
+
+
+
