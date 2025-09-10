@@ -34,6 +34,15 @@
 
 
 
+## [kubeops/ui-server](https://github.com/kubeops/ui-server)
+
+### [v0.0.64](https://github.com/kubeops/ui-server/releases/tag/v0.0.64)
+
+- [f4143d2f](https://github.com/kubeops/ui-server/commit/f4143d2f6) Prepare for release v0.0.64 (#386)
+- [c6aa4cc6](https://github.com/kubeops/ui-server/commit/c6aa4cc6f) Update deps
+
+
+
 ## [kubepack/lib-app](https://github.com/kubepack/lib-app)
 
 ### [v0.12.0](https://github.com/kubepack/lib-app/releases/tag/v0.12.0)
