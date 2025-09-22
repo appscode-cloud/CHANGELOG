@@ -1,6 +1,14 @@
 # ACE v2025.9.30 (2025-09-22)
 
 
+## [appscode-cloud/b3](https://github.com/appscode-cloud/b3)
+
+### [v2025.9.30](https://github.com/appscode-cloud/b3/releases/tag/v2025.9.30)
+
+- [8941c5fb](https://github.com/appscode-cloud/b3/commit/8941c5fb7d) Prepare for release v2025.9.30 (#1344)
+
+
+
 ## [appscode-cloud/ui-wizards](https://github.com/appscode-cloud/ui-wizards)
 
 ### [v0.25.0](https://github.com/appscode-cloud/ui-wizards/releases/tag/v0.25.0)
