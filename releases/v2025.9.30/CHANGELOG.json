@@ -1,0 +1,144 @@
+{
+  "product_line": "ACE",
+  "release": "v2025.9.30",
+  "release_date": "2025-09-22T15:34:05.384777584Z",
+  "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
+  "docs_url": "%!(EXTRA string=v2025.9.30)",
+  "kubernetes_version": "1.28+",
+  "projects": [
+    {
+      "url": "github.com/appscode-cloud/b3",
+      "releases": [
+        {
+          "tag": "v2025.9.30",
+          "commits": [
+            {
+              "SHA": "8941c5fb7d",
+              "Subject": "Prepare for release v2025.9.30 (#1344)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode-cloud/installer",
+      "releases": [
+        {
+          "tag": "v2025.9.30",
+          "commits": [
+            {
+              "SHA": "95c26abd",
+              "Subject": "Prepare for release v2025.9.30 (#1010)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode-cloud/ui-wizards",
+      "releases": [
+        {
+          "tag": "v0.25.0",
+          "commits": [
+            {
+              "SHA": "bb3ea1f3a",
+              "Subject": "Prepare for release v0.25.0 (#856)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode/website",
+      "releases": [
+        {
+          "tag": "v2025.9.30",
+          "commits": [
+            {
+              "SHA": "03ebfd40",
+              "Subject": "Prepare for release v2025.9.30 (#182)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kmodules/image-packer",
+      "releases": [
+        {
+          "tag": "v2025.9.30",
+          "commits": [
+            {
+              "SHA": "e3ffbc3b",
+              "Subject": "Prepare for release v2025.9.30 (#35)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kmodules/resource-metadata",
+      "releases": [
+        {
+          "tag": "v0.37.0",
+          "commits": [
+            {
+              "SHA": "f225f8a83",
+              "Subject": "Prepare for release v0.37.0 (#573)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubeops/installer",
+      "releases": [
+        {
+          "tag": "v2025.9.30",
+          "commits": [
+            {
+              "SHA": "d8b5922",
+              "Subject": "Prepare for release v2025.9.30 (#312)"
+            },
+            {
+              "SHA": "497321f",
+              "Subject": "Update cve report (#311)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubeops/ui-server",
+      "releases": [
+        {
+          "tag": "v0.0.65",
+          "commits": [
+            {
+              "SHA": "731588eea",
+              "Subject": "Prepare for release v0.0.65 (#387)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubepack/lib-app",
+      "releases": [
+        {
+          "tag": "v0.13.0",
+          "commits": [
+            {
+              "SHA": "1e9db05cb",
+              "Subject": "Prepare for release v0.13.0 (#137)"
+            },
+            {
+              "SHA": "2c6800b74",
+              "Subject": "Update for release ACE@v2025.9.15 (#136)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
