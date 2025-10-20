@@ -1,7 +1,7 @@
 {
   "product_line": "ACE",
   "release": "v2025.10.17",
-  "release_date": "2025-10-20T17:41:30.436615149Z",
+  "release_date": "2025-10-20T17:41:39.904943768Z",
   "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
   "docs_url": "%!(EXTRA string=v2025.10.17)",
   "kubernetes_version": "1.28+",
@@ -51,6 +51,20 @@
             {
               "SHA": "a09967e71",
               "Subject": "Update CRDs for v2025.10.17 releases"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubepack/lib-app",
+      "releases": [
+        {
+          "tag": "v0.14.0",
+          "commits": [
+            {
+              "SHA": "cdbcd09bd",
+              "Subject": "Prepare for release v0.14.0 (#138)"
             }
           ]
         }

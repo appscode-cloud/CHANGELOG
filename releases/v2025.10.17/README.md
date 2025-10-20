@@ -27,3 +27,11 @@
 
 
 
+## [kubepack/lib-app](https://github.com/kubepack/lib-app)
+
+### [v0.14.0](https://github.com/kubepack/lib-app/releases/tag/v0.14.0)
+
+- [cdbcd09b](https://github.com/kubepack/lib-app/commit/cdbcd09bd) Prepare for release v0.14.0 (#138)
+
+
+
