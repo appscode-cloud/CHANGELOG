@@ -1,7 +1,7 @@
 {
   "product_line": "ACE",
   "release": "v2025.10.17",
-  "release_date": "2025-10-20T17:12:15.692645364Z",
+  "release_date": "2025-10-20T17:41:30.436615149Z",
   "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
   "docs_url": "%!(EXTRA string=v2025.10.17)",
   "kubernetes_version": "1.28+",
@@ -19,6 +19,20 @@
             {
               "SHA": "1d116efea",
               "Subject": "Update instant-backup actions api call"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kmodules/image-packer",
+      "releases": [
+        {
+          "tag": "v2025.10.17",
+          "commits": [
+            {
+              "SHA": "074f8586",
+              "Subject": "Prepare for release v2025.10.17 (#36)"
             }
           ]
         }
