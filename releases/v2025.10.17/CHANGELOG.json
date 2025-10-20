@@ -1,11 +1,29 @@
 {
   "product_line": "ACE",
   "release": "v2025.10.17",
-  "release_date": "2025-10-20T17:42:38.234698475Z",
+  "release_date": "2025-10-20T18:08:03.988461268Z",
   "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
   "docs_url": "%!(EXTRA string=v2025.10.17)",
   "kubernetes_version": "1.28+",
   "projects": [
+    {
+      "url": "github.com/appscode-cloud/b3",
+      "releases": [
+        {
+          "tag": "v2025.10.17",
+          "commits": [
+            {
+              "SHA": "ea3d4dc431",
+              "Subject": "Prepare for release v2025.10.17 (#1348)"
+            },
+            {
+              "SHA": "503f39dff9",
+              "Subject": "Add kubestash cli in docker image and add apply stash command api (#1347)"
+            }
+          ]
+        }
+      ]
+    },
     {
       "url": "github.com/appscode-cloud/ui-wizards",
       "releases": [

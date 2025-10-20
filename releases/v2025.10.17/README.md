@@ -1,6 +1,15 @@
 # ACE v2025.10.17 (2025-10-20)
 
 
+## [appscode-cloud/b3](https://github.com/appscode-cloud/b3)
+
+### [v2025.10.17](https://github.com/appscode-cloud/b3/releases/tag/v2025.10.17)
+
+- [ea3d4dc4](https://github.com/appscode-cloud/b3/commit/ea3d4dc431) Prepare for release v2025.10.17 (#1348)
+- [503f39df](https://github.com/appscode-cloud/b3/commit/503f39dff9) Add kubestash cli in docker image and add apply stash command api (#1347)
+
+
+
 ## [appscode-cloud/ui-wizards](https://github.com/appscode-cloud/ui-wizards)
 
 ### [v0.26.0](https://github.com/appscode-cloud/ui-wizards/releases/tag/v0.26.0)
