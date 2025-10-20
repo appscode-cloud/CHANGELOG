@@ -10,6 +10,14 @@
 
 
 
+## [appscode/website](https://github.com/appscode/website)
+
+### [v2025.10.17](https://github.com/appscode/website/releases/tag/v2025.10.17)
+
+- [5a44f9c2](https://github.com/appscode/website/commit/5a44f9c2) Prepare for release v2025.10.17 (#183)
+
+
+
 ## [kmodules/image-packer](https://github.com/kmodules/image-packer)
 
 ### [v2025.10.17](https://github.com/kmodules/image-packer/releases/tag/v2025.10.17)
