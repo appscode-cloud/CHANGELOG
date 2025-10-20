@@ -1,0 +1,28 @@
+{
+  "product_line": "ACE",
+  "release": "v2025.10.17",
+  "release_date": "2025-10-20T16:48:09.137364109Z",
+  "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
+  "docs_url": "%!(EXTRA string=v2025.10.17)",
+  "kubernetes_version": "1.28+",
+  "projects": [
+    {
+      "url": "github.com/appscode-cloud/ui-wizards",
+      "releases": [
+        {
+          "tag": "v0.26.0",
+          "commits": [
+            {
+              "SHA": "f483bf3cb",
+              "Subject": "Prepare for release v0.26.0 (#870)"
+            },
+            {
+              "SHA": "1d116efea",
+              "Subject": "Update instant-backup actions api call"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
