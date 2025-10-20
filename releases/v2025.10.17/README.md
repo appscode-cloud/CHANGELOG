@@ -27,6 +27,14 @@
 
 
 
+## [kubeops/ui-server](https://github.com/kubeops/ui-server)
+
+### [v0.0.66](https://github.com/kubeops/ui-server/releases/tag/v0.0.66)
+
+- [167d1afc](https://github.com/kubeops/ui-server/commit/167d1afc0) Prepare for release v0.0.66 (#388)
+
+
+
 ## [kubepack/lib-app](https://github.com/kubepack/lib-app)
 
 ### [v0.14.0](https://github.com/kubepack/lib-app/releases/tag/v0.14.0)
