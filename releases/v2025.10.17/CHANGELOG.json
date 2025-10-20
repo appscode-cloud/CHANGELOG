@@ -1,7 +1,7 @@
 {
   "product_line": "ACE",
   "release": "v2025.10.17",
-  "release_date": "2025-10-20T16:48:09.137364109Z",
+  "release_date": "2025-10-20T17:12:15.692645364Z",
   "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
   "docs_url": "%!(EXTRA string=v2025.10.17)",
   "kubernetes_version": "1.28+",
@@ -19,6 +19,24 @@
             {
               "SHA": "1d116efea",
               "Subject": "Update instant-backup actions api call"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kmodules/resource-metadata",
+      "releases": [
+        {
+          "tag": "v0.38.0",
+          "commits": [
+            {
+              "SHA": "06413c85e",
+              "Subject": "Prepare for release v0.38.0 (#576)"
+            },
+            {
+              "SHA": "a09967e71",
+              "Subject": "Update CRDs for v2025.10.17 releases"
             }
           ]
         }

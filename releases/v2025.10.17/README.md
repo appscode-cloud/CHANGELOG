@@ -10,3 +10,12 @@
 
 
 
+## [kmodules/resource-metadata](https://github.com/kmodules/resource-metadata)
+
+### [v0.38.0](https://github.com/kmodules/resource-metadata/releases/tag/v0.38.0)
+
+- [06413c85](https://github.com/kmodules/resource-metadata/commit/06413c85e) Prepare for release v0.38.0 (#576)
+- [a09967e7](https://github.com/kmodules/resource-metadata/commit/a09967e71) Update CRDs for v2025.10.17 releases
+
+
+
