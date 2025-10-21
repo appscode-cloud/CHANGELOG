@@ -1,7 +1,7 @@
 {
   "product_line": "ACE",
   "release": "v2025.10.17",
-  "release_date": "2025-10-21T04:10:43.842727327Z",
+  "release_date": "2025-10-21T04:25:40.058684422Z",
   "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
   "docs_url": "%!(EXTRA string=v2025.10.17)",
   "kubernetes_version": "1.28+",
@@ -21,6 +21,15 @@
               "Subject": "Add kubestash cli in docker image and add apply stash command api (#1347)"
             }
           ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode-cloud/installer",
+      "releases": [
+        {
+          "tag": "v2025.10.17",
+          "commits": null
         }
       ]
     },

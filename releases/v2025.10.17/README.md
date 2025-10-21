@@ -10,6 +10,13 @@
 
 
 
+## [appscode-cloud/installer](https://github.com/appscode-cloud/installer)
+
+### [v2025.10.17](https://github.com/appscode-cloud/installer/releases/tag/v2025.10.17)
+
+
+
+
 ## [appscode-cloud/ui-wizards](https://github.com/appscode-cloud/ui-wizards)
 
 ### [v0.26.0](https://github.com/appscode-cloud/ui-wizards/releases/tag/v0.26.0)
