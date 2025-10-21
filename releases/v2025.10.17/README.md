@@ -1,4 +1,4 @@
-# ACE v2025.10.17 (2025-10-20)
+# ACE v2025.10.17 (2025-10-21)
 
 
 ## [appscode-cloud/b3](https://github.com/appscode-cloud/b3)
@@ -41,6 +41,21 @@
 
 - [06413c85](https://github.com/kmodules/resource-metadata/commit/06413c85e) Prepare for release v0.38.0 (#576)
 - [a09967e7](https://github.com/kmodules/resource-metadata/commit/a09967e71) Update CRDs for v2025.10.17 releases
+
+
+
+## [kubeops/installer](https://github.com/kubeops/installer)
+
+### [v2025.10.17](https://github.com/kubeops/installer/releases/tag/v2025.10.17)
+
+- [0f62f77](https://github.com/kubeops/installer/commit/0f62f77) Prepare for release v2025.10.17 (#323)
+- [a63b680](https://github.com/kubeops/installer/commit/a63b680) Update cve report (#322)
+- [779a168](https://github.com/kubeops/installer/commit/779a168) Update cve report (#321)
+- [c0a9460](https://github.com/kubeops/installer/commit/c0a9460) Update cve report (#320)
+- [a322dd8](https://github.com/kubeops/installer/commit/a322dd8) Update cve report (#319)
+- [60bcda3](https://github.com/kubeops/installer/commit/60bcda3) Update cve report (#318)
+- [23b5eed](https://github.com/kubeops/installer/commit/23b5eed) Update cve report (#317)
+- [b45a5f0](https://github.com/kubeops/installer/commit/b45a5f0) Update cve report (#316)
 
 
 

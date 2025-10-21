@@ -1,7 +1,7 @@
 {
   "product_line": "ACE",
   "release": "v2025.10.17",
-  "release_date": "2025-10-20T18:08:03.988461268Z",
+  "release_date": "2025-10-21T04:10:43.842727327Z",
   "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
   "docs_url": "%!(EXTRA string=v2025.10.17)",
   "kubernetes_version": "1.28+",
@@ -83,6 +83,48 @@
             {
               "SHA": "a09967e71",
               "Subject": "Update CRDs for v2025.10.17 releases"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubeops/installer",
+      "releases": [
+        {
+          "tag": "v2025.10.17",
+          "commits": [
+            {
+              "SHA": "0f62f77",
+              "Subject": "Prepare for release v2025.10.17 (#323)"
+            },
+            {
+              "SHA": "a63b680",
+              "Subject": "Update cve report (#322)"
+            },
+            {
+              "SHA": "779a168",
+              "Subject": "Update cve report (#321)"
+            },
+            {
+              "SHA": "c0a9460",
+              "Subject": "Update cve report (#320)"
+            },
+            {
+              "SHA": "a322dd8",
+              "Subject": "Update cve report (#319)"
+            },
+            {
+              "SHA": "60bcda3",
+              "Subject": "Update cve report (#318)"
+            },
+            {
+              "SHA": "23b5eed",
+              "Subject": "Update cve report (#317)"
+            },
+            {
+              "SHA": "b45a5f0",
+              "Subject": "Update cve report (#316)"
             }
           ]
         }
