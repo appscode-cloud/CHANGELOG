@@ -1,0 +1,171 @@
+{
+  "product_line": "ACE",
+  "release": "v2025.10.17",
+  "release_date": "2025-10-21T04:25:40.058684422Z",
+  "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
+  "docs_url": "%!(EXTRA string=v2025.10.17)",
+  "kubernetes_version": "1.28+",
+  "projects": [
+    {
+      "url": "github.com/appscode-cloud/b3",
+      "releases": [
+        {
+          "tag": "v2025.10.17",
+          "commits": [
+            {
+              "SHA": "ea3d4dc431",
+              "Subject": "Prepare for release v2025.10.17 (#1348)"
+            },
+            {
+              "SHA": "503f39dff9",
+              "Subject": "Add kubestash cli in docker image and add apply stash command api (#1347)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode-cloud/installer",
+      "releases": [
+        {
+          "tag": "v2025.10.17",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode-cloud/ui-wizards",
+      "releases": [
+        {
+          "tag": "v0.26.0",
+          "commits": [
+            {
+              "SHA": "f483bf3cb",
+              "Subject": "Prepare for release v0.26.0 (#870)"
+            },
+            {
+              "SHA": "1d116efea",
+              "Subject": "Update instant-backup actions api call"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode/website",
+      "releases": [
+        {
+          "tag": "v2025.10.17",
+          "commits": [
+            {
+              "SHA": "5a44f9c2",
+              "Subject": "Prepare for release v2025.10.17 (#183)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kmodules/image-packer",
+      "releases": [
+        {
+          "tag": "v2025.10.17",
+          "commits": [
+            {
+              "SHA": "074f8586",
+              "Subject": "Prepare for release v2025.10.17 (#36)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kmodules/resource-metadata",
+      "releases": [
+        {
+          "tag": "v0.38.0",
+          "commits": [
+            {
+              "SHA": "06413c85e",
+              "Subject": "Prepare for release v0.38.0 (#576)"
+            },
+            {
+              "SHA": "a09967e71",
+              "Subject": "Update CRDs for v2025.10.17 releases"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubeops/installer",
+      "releases": [
+        {
+          "tag": "v2025.10.17",
+          "commits": [
+            {
+              "SHA": "0f62f77",
+              "Subject": "Prepare for release v2025.10.17 (#323)"
+            },
+            {
+              "SHA": "a63b680",
+              "Subject": "Update cve report (#322)"
+            },
+            {
+              "SHA": "779a168",
+              "Subject": "Update cve report (#321)"
+            },
+            {
+              "SHA": "c0a9460",
+              "Subject": "Update cve report (#320)"
+            },
+            {
+              "SHA": "a322dd8",
+              "Subject": "Update cve report (#319)"
+            },
+            {
+              "SHA": "60bcda3",
+              "Subject": "Update cve report (#318)"
+            },
+            {
+              "SHA": "23b5eed",
+              "Subject": "Update cve report (#317)"
+            },
+            {
+              "SHA": "b45a5f0",
+              "Subject": "Update cve report (#316)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubeops/ui-server",
+      "releases": [
+        {
+          "tag": "v0.0.66",
+          "commits": [
+            {
+              "SHA": "167d1afc0",
+              "Subject": "Prepare for release v0.0.66 (#388)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubepack/lib-app",
+      "releases": [
+        {
+          "tag": "v0.14.0",
+          "commits": [
+            {
+              "SHA": "cdbcd09bd",
+              "Subject": "Prepare for release v0.14.0 (#138)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
