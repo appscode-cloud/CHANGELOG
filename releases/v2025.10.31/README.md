@@ -42,6 +42,16 @@
 
 
 
+## [kubeops/installer](https://github.com/kubeops/installer)
+
+### [v2025.10.31](https://github.com/kubeops/installer/releases/tag/v2025.10.31)
+
+- [c4cedc4](https://github.com/kubeops/installer/commit/c4cedc4) Prepare for release v2025.10.31 (#331)
+- [0f52eda](https://github.com/kubeops/installer/commit/0f52eda) Update cve report (#330)
+- [23b96c1](https://github.com/kubeops/installer/commit/23b96c1) Update cve report (#329)
+
+
+
 ## [kubeops/ui-server](https://github.com/kubeops/ui-server)
 
 ### [v0.0.67](https://github.com/kubeops/ui-server/releases/tag/v0.0.67)
