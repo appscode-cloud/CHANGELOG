@@ -1,0 +1,28 @@
+{
+  "product_line": "ACE",
+  "release": "v2025.10.31",
+  "release_date": "2025-10-31T16:17:46.10757047Z",
+  "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
+  "docs_url": "%!(EXTRA string=v2025.10.31)",
+  "kubernetes_version": "1.28+",
+  "projects": [
+    {
+      "url": "github.com/appscode-cloud/ui-wizards",
+      "releases": [
+        {
+          "tag": "v0.27.0",
+          "commits": [
+            {
+              "SHA": "114055d95",
+              "Subject": "Prepare for release v0.27.0 (#884)"
+            },
+            {
+              "SHA": "39354ec57",
+              "Subject": "Use k8s 1.32 client libs"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
