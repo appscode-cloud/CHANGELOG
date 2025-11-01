@@ -1,0 +1,168 @@
+{
+  "product_line": "ACE",
+  "release": "v2025.10.31",
+  "release_date": "2025-10-31T17:51:24.472241237Z",
+  "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
+  "docs_url": "%!(EXTRA string=v2025.10.31)",
+  "kubernetes_version": "1.28+",
+  "projects": [
+    {
+      "url": "github.com/appscode-cloud/b3",
+      "releases": [
+        {
+          "tag": "v2025.10.31",
+          "commits": [
+            {
+              "SHA": "61821b7d69",
+              "Subject": "Prepare for release v2025.10.31 (#1351)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode-cloud/installer",
+      "releases": [
+        {
+          "tag": "v2025.10.31",
+          "commits": [
+            {
+              "SHA": "1a6d7d09",
+              "Subject": "Prepare for release v2025.10.31 (#1031)"
+            },
+            {
+              "SHA": "97f57e7e",
+              "Subject": "Update cve report (#1030)"
+            },
+            {
+              "SHA": "65c0d450",
+              "Subject": "Update cve report (#1029)"
+            },
+            {
+              "SHA": "f5f05b21",
+              "Subject": "Update cve report (#1028)"
+            },
+            {
+              "SHA": "0ab46bf0",
+              "Subject": "Update cve report (#1027)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode-cloud/ui-wizards",
+      "releases": [
+        {
+          "tag": "v0.27.0",
+          "commits": [
+            {
+              "SHA": "114055d95",
+              "Subject": "Prepare for release v0.27.0 (#884)"
+            },
+            {
+              "SHA": "39354ec57",
+              "Subject": "Use k8s 1.32 client libs"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode/website",
+      "releases": [
+        {
+          "tag": "v2025.10.31",
+          "commits": [
+            {
+              "SHA": "c40500c5",
+              "Subject": "Prepare for release v2025.10.31 (#185)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kmodules/image-packer",
+      "releases": [
+        {
+          "tag": "v2025.10.31",
+          "commits": [
+            {
+              "SHA": "ee371584",
+              "Subject": "Prepare for release v2025.10.31 (#37)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kmodules/resource-metadata",
+      "releases": [
+        {
+          "tag": "v0.39.0",
+          "commits": [
+            {
+              "SHA": "f1d517c80",
+              "Subject": "Prepare for release v0.39.0 (#577)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubeops/installer",
+      "releases": [
+        {
+          "tag": "v2025.10.31",
+          "commits": [
+            {
+              "SHA": "c4cedc4",
+              "Subject": "Prepare for release v2025.10.31 (#331)"
+            },
+            {
+              "SHA": "0f52eda",
+              "Subject": "Update cve report (#330)"
+            },
+            {
+              "SHA": "23b96c1",
+              "Subject": "Update cve report (#329)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubeops/ui-server",
+      "releases": [
+        {
+          "tag": "v0.0.67",
+          "commits": [
+            {
+              "SHA": "b3ef6ed67",
+              "Subject": "Prepare for release v0.0.67 (#389)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubepack/lib-app",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": [
+            {
+              "SHA": "7c81318c0",
+              "Subject": "Prepare for release v0.15.0 (#140)"
+            },
+            {
+              "SHA": "b144d3272",
+              "Subject": "Update for release ACE@v2025.10.17 (#139)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

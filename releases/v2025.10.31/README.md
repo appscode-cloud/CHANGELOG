@@ -1,0 +1,83 @@
+# ACE v2025.10.31 (2025-10-31)
+
+
+## [appscode-cloud/b3](https://github.com/appscode-cloud/b3)
+
+### [v2025.10.31](https://github.com/appscode-cloud/b3/releases/tag/v2025.10.31)
+
+- [61821b7d](https://github.com/appscode-cloud/b3/commit/61821b7d69) Prepare for release v2025.10.31 (#1351)
+
+
+
+## [appscode-cloud/installer](https://github.com/appscode-cloud/installer)
+
+### [v2025.10.31](https://github.com/appscode-cloud/installer/releases/tag/v2025.10.31)
+
+- [1a6d7d09](https://github.com/appscode-cloud/installer/commit/1a6d7d09) Prepare for release v2025.10.31 (#1031)
+- [97f57e7e](https://github.com/appscode-cloud/installer/commit/97f57e7e) Update cve report (#1030)
+- [65c0d450](https://github.com/appscode-cloud/installer/commit/65c0d450) Update cve report (#1029)
+- [f5f05b21](https://github.com/appscode-cloud/installer/commit/f5f05b21) Update cve report (#1028)
+- [0ab46bf0](https://github.com/appscode-cloud/installer/commit/0ab46bf0) Update cve report (#1027)
+
+
+
+## [appscode-cloud/ui-wizards](https://github.com/appscode-cloud/ui-wizards)
+
+### [v0.27.0](https://github.com/appscode-cloud/ui-wizards/releases/tag/v0.27.0)
+
+- [114055d9](https://github.com/appscode-cloud/ui-wizards/commit/114055d95) Prepare for release v0.27.0 (#884)
+- [39354ec5](https://github.com/appscode-cloud/ui-wizards/commit/39354ec57) Use k8s 1.32 client libs
+
+
+
+## [appscode/website](https://github.com/appscode/website)
+
+### [v2025.10.31](https://github.com/appscode/website/releases/tag/v2025.10.31)
+
+- [c40500c5](https://github.com/appscode/website/commit/c40500c5) Prepare for release v2025.10.31 (#185)
+
+
+
+## [kmodules/image-packer](https://github.com/kmodules/image-packer)
+
+### [v2025.10.31](https://github.com/kmodules/image-packer/releases/tag/v2025.10.31)
+
+- [ee371584](https://github.com/kmodules/image-packer/commit/ee371584) Prepare for release v2025.10.31 (#37)
+
+
+
+## [kmodules/resource-metadata](https://github.com/kmodules/resource-metadata)
+
+### [v0.39.0](https://github.com/kmodules/resource-metadata/releases/tag/v0.39.0)
+
+- [f1d517c8](https://github.com/kmodules/resource-metadata/commit/f1d517c80) Prepare for release v0.39.0 (#577)
+
+
+
+## [kubeops/installer](https://github.com/kubeops/installer)
+
+### [v2025.10.31](https://github.com/kubeops/installer/releases/tag/v2025.10.31)
+
+- [c4cedc4](https://github.com/kubeops/installer/commit/c4cedc4) Prepare for release v2025.10.31 (#331)
+- [0f52eda](https://github.com/kubeops/installer/commit/0f52eda) Update cve report (#330)
+- [23b96c1](https://github.com/kubeops/installer/commit/23b96c1) Update cve report (#329)
+
+
+
+## [kubeops/ui-server](https://github.com/kubeops/ui-server)
+
+### [v0.0.67](https://github.com/kubeops/ui-server/releases/tag/v0.0.67)
+
+- [b3ef6ed6](https://github.com/kubeops/ui-server/commit/b3ef6ed67) Prepare for release v0.0.67 (#389)
+
+
+
+## [kubepack/lib-app](https://github.com/kubepack/lib-app)
+
+### [v0.15.0](https://github.com/kubepack/lib-app/releases/tag/v0.15.0)
+
+- [7c81318c](https://github.com/kubepack/lib-app/commit/7c81318c0) Prepare for release v0.15.0 (#140)
+- [b144d327](https://github.com/kubepack/lib-app/commit/b144d3272) Update for release ACE@v2025.10.17 (#139)
+
+
+
