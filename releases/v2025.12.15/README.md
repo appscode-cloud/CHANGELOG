@@ -16,6 +16,15 @@
 
 
 
+## [kmodules/image-packer](https://github.com/kmodules/image-packer)
+
+### [v2025.12.15](https://github.com/kmodules/image-packer/releases/tag/v2025.12.15)
+
+- [a9cf080f](https://github.com/kmodules/image-packer/commit/a9cf080f) Prepare for release v2025.12.15 (#39)
+- [5eac37d8](https://github.com/kmodules/image-packer/commit/5eac37d8) Add helm chart specific helpers (#38)
+
+
+
 ## [kmodules/resource-metadata](https://github.com/kmodules/resource-metadata)
 
 ### [v0.40.0](https://github.com/kmodules/resource-metadata/releases/tag/v0.40.0)
