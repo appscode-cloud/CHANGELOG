@@ -1,7 +1,7 @@
 {
   "product_line": "ACE",
   "release": "v2025.12.15",
-  "release_date": "2025-12-14T19:02:31.727756887Z",
+  "release_date": "2025-12-14T19:06:40.705652256Z",
   "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
   "docs_url": "%!(EXTRA string=v2025.12.15)",
   "kubernetes_version": "1.28+",
@@ -60,6 +60,20 @@
             {
               "SHA": "df3ece175",
               "Subject": "Update kubedb & virtual secrets for v2025.12.15 release"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubeops/ui-server",
+      "releases": [
+        {
+          "tag": "v0.0.68",
+          "commits": [
+            {
+              "SHA": "250616852",
+              "Subject": "Prepare for release v0.0.68 (#392)"
             }
           ]
         }
