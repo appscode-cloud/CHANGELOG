@@ -1,0 +1,141 @@
+{
+  "product_line": "ACE",
+  "release": "v2025.12.15",
+  "release_date": "2025-12-15T02:28:24.131497411Z",
+  "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
+  "docs_url": "%!(EXTRA string=v2025.12.15)",
+  "kubernetes_version": "1.28+",
+  "projects": [
+    {
+      "url": "github.com/appscode-cloud/b3",
+      "releases": [
+        {
+          "tag": "v2025.12.15",
+          "commits": [
+            {
+              "SHA": "c38aff4fff",
+              "Subject": "Prepare for release v2025.12.15 (#1361)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode-cloud/installer",
+      "releases": [
+        {
+          "tag": "v2025.12.15",
+          "commits": [
+            {
+              "SHA": "7ccae688",
+              "Subject": "Prepare for release v2025.12.15 (#1071)"
+            },
+            {
+              "SHA": "a7c3b2a9",
+              "Subject": "Fix Makefile"
+            },
+            {
+              "SHA": "72982a4f",
+              "Subject": "Update cve report (#1070)"
+            },
+            {
+              "SHA": "73f2784a",
+              "Subject": "Update cve report (#1069)"
+            },
+            {
+              "SHA": "9ac4c03a",
+              "Subject": "Update cve report (#1068)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode-cloud/ui-wizards",
+      "releases": [
+        {
+          "tag": "v0.28.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode/website",
+      "releases": [
+        {
+          "tag": "v2025.12.15",
+          "commits": [
+            {
+              "SHA": "78243919",
+              "Subject": "Prepare for release v2025.12.15 (#186)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kmodules/image-packer",
+      "releases": [
+        {
+          "tag": "v2025.12.15",
+          "commits": [
+            {
+              "SHA": "a9cf080f",
+              "Subject": "Prepare for release v2025.12.15 (#39)"
+            },
+            {
+              "SHA": "5eac37d8",
+              "Subject": "Add helm chart specific helpers (#38)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kmodules/resource-metadata",
+      "releases": [
+        {
+          "tag": "v0.40.0",
+          "commits": [
+            {
+              "SHA": "45b1f495c",
+              "Subject": "Prepare for release v0.40.0 (#581)"
+            },
+            {
+              "SHA": "df3ece175",
+              "Subject": "Update kubedb & virtual secrets for v2025.12.15 release"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubeops/ui-server",
+      "releases": [
+        {
+          "tag": "v0.0.68",
+          "commits": [
+            {
+              "SHA": "250616852",
+              "Subject": "Prepare for release v0.0.68 (#392)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubepack/lib-app",
+      "releases": [
+        {
+          "tag": "v0.16.0",
+          "commits": [
+            {
+              "SHA": "45da03488",
+              "Subject": "Prepare for release v0.16.0 (#141)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
