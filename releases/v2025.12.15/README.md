@@ -1,4 +1,4 @@
-# ACE v2025.12.15 (2025-12-14)
+# ACE v2025.12.15 (2025-12-15)
 
 
 ## [appscode-cloud/ui-wizards](https://github.com/appscode-cloud/ui-wizards)
@@ -39,6 +39,14 @@
 ### [v0.0.68](https://github.com/kubeops/ui-server/releases/tag/v0.0.68)
 
 - [25061685](https://github.com/kubeops/ui-server/commit/250616852) Prepare for release v0.0.68 (#392)
+
+
+
+## [kubepack/lib-app](https://github.com/kubepack/lib-app)
+
+### [v0.16.0](https://github.com/kubepack/lib-app/releases/tag/v0.16.0)
+
+- [45da0348](https://github.com/kubepack/lib-app/commit/45da03488) Prepare for release v0.16.0 (#141)
 
 
 
