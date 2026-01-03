@@ -35,6 +35,16 @@
 
 
 
+## [kubeops/ui-server](https://github.com/kubeops/ui-server)
+
+### [v0.0.69](https://github.com/kubeops/ui-server/releases/tag/v0.0.69)
+
+- [2e6dc6d1](https://github.com/kubeops/ui-server/commit/2e6dc6d10) Prepare for release v0.0.69 (#396)
+- [27008e93](https://github.com/kubeops/ui-server/commit/27008e93b) Update deps (#395)
+- [3a639433](https://github.com/kubeops/ui-server/commit/3a6394333) Use k8s 1.34 client libs (#394)
+
+
+
 ## [kubepack/lib-app](https://github.com/kubepack/lib-app)
 
 ### [v0.17.0](https://github.com/kubepack/lib-app/releases/tag/v0.17.0)
