@@ -8,6 +8,14 @@
 
 
 
+## [appscode/website](https://github.com/appscode/website)
+
+### [v2026.1.15](https://github.com/appscode/website/releases/tag/v2026.1.15)
+
+- [48fc9977](https://github.com/appscode/website/commit/48fc9977) Prepare for release v2026.1.15 (#187)
+
+
+
 ## [kmodules/image-packer](https://github.com/kmodules/image-packer)
 
 ### [v2026.1.15](https://github.com/kmodules/image-packer/releases/tag/v2026.1.15)
