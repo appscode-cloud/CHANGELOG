@@ -1,7 +1,7 @@
 {
   "product_line": "ACE",
   "release": "v2026.1.15",
-  "release_date": "2026-01-03T08:26:04.180083574Z",
+  "release_date": "2026-01-03T08:49:05.510717438Z",
   "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
   "docs_url": "%!(EXTRA string=v2026.1.15)",
   "kubernetes_version": "1.28+",
@@ -12,6 +12,24 @@
         {
           "tag": "v0.29.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kmodules/resource-metadata",
+      "releases": [
+        {
+          "tag": "v0.41.0",
+          "commits": [
+            {
+              "SHA": "8c2820a80",
+              "Subject": "Prepare for release v0.41.0 (#586)"
+            },
+            {
+              "SHA": "5755b52cf",
+              "Subject": "Update crds for 2026.1.15 release (#585)"
+            }
+          ]
         }
       ]
     }
