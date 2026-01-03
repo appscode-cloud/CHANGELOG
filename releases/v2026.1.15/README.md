@@ -1,6 +1,17 @@
 # ACE v2026.1.15 (2026-01-03)
 
 
+## [appscode-cloud/b3](https://github.com/appscode-cloud/b3)
+
+### [v2026.1.15](https://github.com/appscode-cloud/b3/releases/tag/v2026.1.15)
+
+- [001e8c12](https://github.com/appscode-cloud/b3/commit/001e8c128d) Prepare for release v2026.1.15 (#1382)
+- [b5bf61ad](https://github.com/appscode-cloud/b3/commit/b5bf61ad8c) Fix npm vulnerabilities
+- [a2b72f10](https://github.com/appscode-cloud/b3/commit/a2b72f10e6) Use k8s 1.34 client libs (#1378)
+- [0f48b58c](https://github.com/appscode-cloud/b3/commit/0f48b58c95) Bump postcss, autoprefixer, postcss-cli, stylelint and stylelint-config-standard (#1377)
+
+
+
 ## [appscode-cloud/ui-wizards](https://github.com/appscode-cloud/ui-wizards)
 
 ### [v0.29.0](https://github.com/appscode-cloud/ui-wizards/releases/tag/v0.29.0)

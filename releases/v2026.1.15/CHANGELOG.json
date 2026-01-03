@@ -1,11 +1,37 @@
 {
   "product_line": "ACE",
   "release": "v2026.1.15",
-  "release_date": "2026-01-03T16:16:38.582723857Z",
+  "release_date": "2026-01-03T16:38:56.843760445Z",
   "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
   "docs_url": "%!(EXTRA string=v2026.1.15)",
   "kubernetes_version": "1.28+",
   "projects": [
+    {
+      "url": "github.com/appscode-cloud/b3",
+      "releases": [
+        {
+          "tag": "v2026.1.15",
+          "commits": [
+            {
+              "SHA": "001e8c128d",
+              "Subject": "Prepare for release v2026.1.15 (#1382)"
+            },
+            {
+              "SHA": "b5bf61ad8c",
+              "Subject": "Fix npm vulnerabilities"
+            },
+            {
+              "SHA": "a2b72f10e6",
+              "Subject": "Use k8s 1.34 client libs (#1378)"
+            },
+            {
+              "SHA": "0f48b58c95",
+              "Subject": "Bump postcss, autoprefixer, postcss-cli, stylelint and stylelint-config-standard (#1377)"
+            }
+          ]
+        }
+      ]
+    },
     {
       "url": "github.com/appscode-cloud/ui-wizards",
       "releases": [
