@@ -35,3 +35,12 @@
 
 
 
+## [kubepack/lib-app](https://github.com/kubepack/lib-app)
+
+### [v0.17.0](https://github.com/kubepack/lib-app/releases/tag/v0.17.0)
+
+- [0f40f032](https://github.com/kubepack/lib-app/commit/0f40f0325) Prepare for release v0.17.0 (#145)
+- [e1f33246](https://github.com/kubepack/lib-app/commit/e1f332468) Use k8s 1.34 client libs (#144)
+
+
+
