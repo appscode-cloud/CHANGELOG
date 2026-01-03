@@ -1,0 +1,148 @@
+{
+  "product_line": "ACE",
+  "release": "v2026.1.15",
+  "release_date": "2026-01-03T17:40:17.222679733Z",
+  "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
+  "docs_url": "%!(EXTRA string=v2026.1.15)",
+  "kubernetes_version": "1.28+",
+  "projects": [
+    {
+      "url": "github.com/appscode-cloud/b3",
+      "releases": [
+        {
+          "tag": "v2026.1.15",
+          "commits": [
+            {
+              "SHA": "001e8c128d",
+              "Subject": "Prepare for release v2026.1.15 (#1382)"
+            },
+            {
+              "SHA": "b5bf61ad8c",
+              "Subject": "Fix npm vulnerabilities"
+            },
+            {
+              "SHA": "a2b72f10e6",
+              "Subject": "Use k8s 1.34 client libs (#1378)"
+            },
+            {
+              "SHA": "0f48b58c95",
+              "Subject": "Bump postcss, autoprefixer, postcss-cli, stylelint and stylelint-config-standard (#1377)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode-cloud/installer",
+      "releases": [
+        {
+          "tag": "v2026.1.15",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode-cloud/ui-wizards",
+      "releases": [
+        {
+          "tag": "v0.29.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode/website",
+      "releases": [
+        {
+          "tag": "v2026.1.15",
+          "commits": [
+            {
+              "SHA": "48fc9977",
+              "Subject": "Prepare for release v2026.1.15 (#187)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kmodules/image-packer",
+      "releases": [
+        {
+          "tag": "v2026.1.15",
+          "commits": [
+            {
+              "SHA": "350a1527",
+              "Subject": "Prepare for release v2026.1.15 (#42)"
+            },
+            {
+              "SHA": "51d93e2c",
+              "Subject": "Use k8s 1.34 client libs (#41)"
+            },
+            {
+              "SHA": "b3dc3ac0",
+              "Subject": "Update dependencies (#40)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kmodules/resource-metadata",
+      "releases": [
+        {
+          "tag": "v0.41.0",
+          "commits": [
+            {
+              "SHA": "8c2820a80",
+              "Subject": "Prepare for release v0.41.0 (#586)"
+            },
+            {
+              "SHA": "5755b52cf",
+              "Subject": "Update crds for 2026.1.15 release (#585)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubeops/ui-server",
+      "releases": [
+        {
+          "tag": "v0.0.69",
+          "commits": [
+            {
+              "SHA": "2e6dc6d10",
+              "Subject": "Prepare for release v0.0.69 (#396)"
+            },
+            {
+              "SHA": "27008e93b",
+              "Subject": "Update deps (#395)"
+            },
+            {
+              "SHA": "3a6394333",
+              "Subject": "Use k8s 1.34 client libs (#394)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubepack/lib-app",
+      "releases": [
+        {
+          "tag": "v0.17.0",
+          "commits": [
+            {
+              "SHA": "0f40f0325",
+              "Subject": "Prepare for release v0.17.0 (#145)"
+            },
+            {
+              "SHA": "e1f332468",
+              "Subject": "Use k8s 1.34 client libs (#144)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
