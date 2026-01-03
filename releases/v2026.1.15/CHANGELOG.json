@@ -1,7 +1,7 @@
 {
   "product_line": "ACE",
   "release": "v2026.1.15",
-  "release_date": "2026-01-03T16:38:56.843760445Z",
+  "release_date": "2026-01-03T17:40:17.222679733Z",
   "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
   "docs_url": "%!(EXTRA string=v2026.1.15)",
   "kubernetes_version": "1.28+",
@@ -29,6 +29,15 @@
               "Subject": "Bump postcss, autoprefixer, postcss-cli, stylelint and stylelint-config-standard (#1377)"
             }
           ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode-cloud/installer",
+      "releases": [
+        {
+          "tag": "v2026.1.15",
+          "commits": null
         }
       ]
     },
