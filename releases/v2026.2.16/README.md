@@ -18,6 +18,14 @@
 
 
 
+## [kmodules/image-packer](https://github.com/kmodules/image-packer)
+
+### [v2026.2.16](https://github.com/kmodules/image-packer/releases/tag/v2026.2.16)
+
+- [daa6afa3](https://github.com/kmodules/image-packer/commit/daa6afa3) Prepare for release v2026.2.16 (#44)
+
+
+
 ## [kmodules/resource-metadata](https://github.com/kmodules/resource-metadata)
 
 ### [v0.42.0](https://github.com/kmodules/resource-metadata/releases/tag/v0.42.0)
