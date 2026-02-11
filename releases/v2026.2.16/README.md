@@ -10,6 +10,14 @@
 
 
 
+## [appscode/website](https://github.com/appscode/website)
+
+### [v2026.2.16](https://github.com/appscode/website/releases/tag/v2026.2.16)
+
+- [74efefd7](https://github.com/appscode/website/commit/74efefd7) Prepare for release v2026.2.16 (#192)
+
+
+
 ## [kmodules/resource-metadata](https://github.com/kmodules/resource-metadata)
 
 ### [v0.42.0](https://github.com/kmodules/resource-metadata/releases/tag/v0.42.0)

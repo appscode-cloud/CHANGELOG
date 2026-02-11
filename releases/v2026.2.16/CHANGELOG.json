@@ -1,7 +1,7 @@
 {
   "product_line": "ACE",
   "release": "v2026.2.16",
-  "release_date": "2026-02-11T01:37:28.354372909Z",
+  "release_date": "2026-02-11T01:54:01.88668615Z",
   "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
   "docs_url": "%!(EXTRA string=v2026.2.16)",
   "kubernetes_version": "1.28+",
@@ -19,6 +19,20 @@
             {
               "SHA": "8a6e2bd12",
               "Subject": "Test against k8s 1.35 (#974)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode/website",
+      "releases": [
+        {
+          "tag": "v2026.2.16",
+          "commits": [
+            {
+              "SHA": "74efefd7",
+              "Subject": "Prepare for release v2026.2.16 (#192)"
             }
           ]
         }
