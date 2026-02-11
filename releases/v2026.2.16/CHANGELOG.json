@@ -1,7 +1,7 @@
 {
   "product_line": "ACE",
   "release": "v2026.2.16",
-  "release_date": "2026-02-11T01:54:05.879960051Z",
+  "release_date": "2026-02-11T01:54:14.77882437Z",
   "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
   "docs_url": "%!(EXTRA string=v2026.2.16)",
   "kubernetes_version": "1.28+",
@@ -61,6 +61,24 @@
             {
               "SHA": "af0a25ab8",
               "Subject": "Prepare for release v0.42.0 (#589)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubepack/lib-app",
+      "releases": [
+        {
+          "tag": "v0.18.0",
+          "commits": [
+            {
+              "SHA": "e1fd7f3bf",
+              "Subject": "Prepare for release v0.18.0 (#148)"
+            },
+            {
+              "SHA": "995964bfa",
+              "Subject": "Update for release ACE@v2026.1.15 (#146)"
             }
           ]
         }
