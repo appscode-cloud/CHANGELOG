@@ -1,7 +1,7 @@
 {
   "product_line": "ACE",
   "release": "v2026.3.30",
-  "release_date": "2026-03-13T16:37:15.605997578Z",
+  "release_date": "2026-03-13T16:39:35.507159824Z",
   "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
   "docs_url": "%!(EXTRA string=v2026.3.30)",
   "kubernetes_version": "1.28+",
@@ -29,6 +29,20 @@
             {
               "SHA": "ae3e0e27",
               "Subject": "Prepare for release v2026.3.30 (#194)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kmodules/image-packer",
+      "releases": [
+        {
+          "tag": "v2026.3.30",
+          "commits": [
+            {
+              "SHA": "e88c9cfe",
+              "Subject": "Prepare for release v2026.3.30 (#46)"
             }
           ]
         }
