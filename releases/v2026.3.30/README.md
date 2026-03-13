@@ -40,3 +40,15 @@
 
 
 
+## [kubepack/lib-app](https://github.com/kubepack/lib-app)
+
+### [v0.19.0](https://github.com/kubepack/lib-app/releases/tag/v0.19.0)
+
+- [aa811c8f](https://github.com/kubepack/lib-app/commit/aa811c8f0) Prepare for release v0.19.0 (#154)
+- [ad690598](https://github.com/kubepack/lib-app/commit/ad6905980) Remove ocm-mc
+- [adb305ee](https://github.com/kubepack/lib-app/commit/adb305ee5) Fix CVEs
+- [083b8c9f](https://github.com/kubepack/lib-app/commit/083b8c9ff) Add 6 more new dbs (#153)
+- [76bbea32](https://github.com/kubepack/lib-app/commit/76bbea321) Update for release ACE@v2026.2.16 (#149)
+
+
+
