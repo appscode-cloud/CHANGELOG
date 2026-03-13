@@ -9,3 +9,10 @@
 
 
 
+## [kmodules/resource-metadata](https://github.com/kmodules/resource-metadata)
+
+### [v0.43.0](https://github.com/kmodules/resource-metadata/releases/tag/v0.43.0)
+
+
+
+
