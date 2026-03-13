@@ -1,7 +1,7 @@
 {
   "product_line": "ACE",
   "release": "v2026.3.30",
-  "release_date": "2026-03-13T18:43:27.676528615Z",
+  "release_date": "2026-03-13T18:57:32.938128204Z",
   "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
   "docs_url": "%!(EXTRA string=v2026.3.30)",
   "kubernetes_version": "1.28+",
@@ -68,6 +68,32 @@
         {
           "tag": "v0.43.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubeops/installer",
+      "releases": [
+        {
+          "tag": "v2026.3.30",
+          "commits": [
+            {
+              "SHA": "062077f9",
+              "Subject": "Prepare for release v2026.3.30 (#441)"
+            },
+            {
+              "SHA": "a424ef7b",
+              "Subject": "Update cve report (#440)"
+            },
+            {
+              "SHA": "5e3d6a02",
+              "Subject": "Update cve report (#439)"
+            },
+            {
+              "SHA": "261f733c",
+              "Subject": "Update cve report (#438)"
+            }
+          ]
         }
       ]
     },

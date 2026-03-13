@@ -40,6 +40,17 @@
 
 
 
+## [kubeops/installer](https://github.com/kubeops/installer)
+
+### [v2026.3.30](https://github.com/kubeops/installer/releases/tag/v2026.3.30)
+
+- [062077f9](https://github.com/kubeops/installer/commit/062077f9) Prepare for release v2026.3.30 (#441)
+- [a424ef7b](https://github.com/kubeops/installer/commit/a424ef7b) Update cve report (#440)
+- [5e3d6a02](https://github.com/kubeops/installer/commit/5e3d6a02) Update cve report (#439)
+- [261f733c](https://github.com/kubeops/installer/commit/261f733c) Update cve report (#438)
+
+
+
 ## [kubeops/ui-server](https://github.com/kubeops/ui-server)
 
 ### [v0.1.0](https://github.com/kubeops/ui-server/releases/tag/v0.1.0)
