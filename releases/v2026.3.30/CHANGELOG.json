@@ -1,0 +1,159 @@
+{
+  "product_line": "ACE",
+  "release": "v2026.3.30",
+  "release_date": "2026-03-13T19:20:35.012563384Z",
+  "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
+  "docs_url": "%!(EXTRA string=v2026.3.30)",
+  "kubernetes_version": "1.28+",
+  "projects": [
+    {
+      "url": "github.com/appscode-cloud/b3",
+      "releases": [
+        {
+          "tag": "v2026.3.30",
+          "commits": [
+            {
+              "SHA": "4e3c5c2ebb",
+              "Subject": "Prepare for release v2026.3.30 (#1426)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode-cloud/installer",
+      "releases": [
+        {
+          "tag": "v2026.3.30",
+          "commits": [
+            {
+              "SHA": "9f71129d",
+              "Subject": "Prepare for release v2026.3.30 (#1210)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode-cloud/ui-wizards",
+      "releases": [
+        {
+          "tag": "v0.31.0",
+          "commits": [
+            {
+              "SHA": "7d9844f93",
+              "Subject": "Prepare for release v0.31.0 (#991)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode/website",
+      "releases": [
+        {
+          "tag": "v2026.3.30",
+          "commits": [
+            {
+              "SHA": "ae3e0e27",
+              "Subject": "Prepare for release v2026.3.30 (#194)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kmodules/image-packer",
+      "releases": [
+        {
+          "tag": "v2026.3.30",
+          "commits": [
+            {
+              "SHA": "e88c9cfe",
+              "Subject": "Prepare for release v2026.3.30 (#46)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kmodules/resource-metadata",
+      "releases": [
+        {
+          "tag": "v0.43.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubeops/installer",
+      "releases": [
+        {
+          "tag": "v2026.3.30",
+          "commits": [
+            {
+              "SHA": "062077f9",
+              "Subject": "Prepare for release v2026.3.30 (#441)"
+            },
+            {
+              "SHA": "a424ef7b",
+              "Subject": "Update cve report (#440)"
+            },
+            {
+              "SHA": "5e3d6a02",
+              "Subject": "Update cve report (#439)"
+            },
+            {
+              "SHA": "261f733c",
+              "Subject": "Update cve report (#438)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubeops/ui-server",
+      "releases": [
+        {
+          "tag": "v0.1.0",
+          "commits": [
+            {
+              "SHA": "ca18b25f9",
+              "Subject": "Prepare for release v0.1.0 (#406)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubepack/lib-app",
+      "releases": [
+        {
+          "tag": "v0.19.0",
+          "commits": [
+            {
+              "SHA": "aa811c8f0",
+              "Subject": "Prepare for release v0.19.0 (#154)"
+            },
+            {
+              "SHA": "ad6905980",
+              "Subject": "Remove ocm-mc"
+            },
+            {
+              "SHA": "adb305ee5",
+              "Subject": "Fix CVEs"
+            },
+            {
+              "SHA": "083b8c9ff",
+              "Subject": "Add 6 more new dbs (#153)"
+            },
+            {
+              "SHA": "76bbea321",
+              "Subject": "Update for release ACE@v2026.2.16 (#149)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
