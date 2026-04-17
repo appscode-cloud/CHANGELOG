@@ -1,0 +1,28 @@
+{
+  "product_line": "ACE",
+  "release": "v2026.4.30",
+  "release_date": "2026-04-17T20:45:12.22870309Z",
+  "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
+  "docs_url": "%!(EXTRA string=v2026.4.30)",
+  "kubernetes_version": "1.28+",
+  "projects": [
+    {
+      "url": "github.com/appscode-cloud/ui-wizards",
+      "releases": [
+        {
+          "tag": "v0.32.0",
+          "commits": [
+            {
+              "SHA": "5085544a7",
+              "Subject": "Prepare for release v0.32.0 (#1005)"
+            },
+            {
+              "SHA": "6ac58c431",
+              "Subject": "Test against k8s 1.35 (#1003)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
