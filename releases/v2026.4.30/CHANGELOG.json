@@ -1,7 +1,7 @@
 {
   "product_line": "ACE",
   "release": "v2026.4.30",
-  "release_date": "2026-04-17T21:12:53.978179165Z",
+  "release_date": "2026-04-17T21:13:45.955469034Z",
   "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
   "docs_url": "%!(EXTRA string=v2026.4.30)",
   "kubernetes_version": "1.28+",
@@ -33,6 +33,28 @@
             {
               "SHA": "2a867bd0",
               "Subject": "Prepare for release v2026.4.30 (#207)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kmodules/image-packer",
+      "releases": [
+        {
+          "tag": "v2026.4.30",
+          "commits": [
+            {
+              "SHA": "c41c38b5",
+              "Subject": "Prepare for release v2026.4.30 (#49)"
+            },
+            {
+              "SHA": "79b725e3",
+              "Subject": "Support * ? glob patterns in image skip lists (#48)"
+            },
+            {
+              "SHA": "ed4a0748",
+              "Subject": "Add replace image digest command (#47)"
             }
           ]
         }
