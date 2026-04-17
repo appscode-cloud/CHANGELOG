@@ -1,7 +1,7 @@
 {
   "product_line": "ACE",
   "release": "v2026.4.30",
-  "release_date": "2026-04-17T21:13:45.955469034Z",
+  "release_date": "2026-04-17T21:18:33.225074335Z",
   "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
   "docs_url": "%!(EXTRA string=v2026.4.30)",
   "kubernetes_version": "1.28+",
@@ -69,6 +69,20 @@
             {
               "SHA": "38f04a6fb",
               "Subject": "Prepare for release v0.44.0 (#611)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubeops/ui-server",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "f20b475db",
+              "Subject": "Prepare for release v0.2.0 (#410)"
             }
           ]
         }
