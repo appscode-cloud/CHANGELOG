@@ -1,7 +1,7 @@
 {
   "product_line": "ACE",
   "release": "v2026.4.30",
-  "release_date": "2026-04-17T20:45:12.22870309Z",
+  "release_date": "2026-04-17T21:07:50.626833227Z",
   "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
   "docs_url": "%!(EXTRA string=v2026.4.30)",
   "kubernetes_version": "1.28+",
@@ -19,6 +19,20 @@
             {
               "SHA": "6ac58c431",
               "Subject": "Test against k8s 1.35 (#1003)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kmodules/resource-metadata",
+      "releases": [
+        {
+          "tag": "v0.44.0",
+          "commits": [
+            {
+              "SHA": "38f04a6fb",
+              "Subject": "Prepare for release v0.44.0 (#611)"
             }
           ]
         }
