@@ -1,7 +1,7 @@
 {
   "product_line": "ACE",
   "release": "v2026.4.30",
-  "release_date": "2026-04-17T21:37:32.101581589Z",
+  "release_date": "2026-04-17T21:51:58.083659894Z",
   "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
   "docs_url": "%!(EXTRA string=v2026.4.30)",
   "kubernetes_version": "1.28+",
@@ -83,6 +83,76 @@
             {
               "SHA": "38f04a6fb",
               "Subject": "Prepare for release v0.44.0 (#611)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubeops/installer",
+      "releases": [
+        {
+          "tag": "v2026.4.30",
+          "commits": [
+            {
+              "SHA": "8bdce528",
+              "Subject": "Prepare for release v2026.4.30 (#461)"
+            },
+            {
+              "SHA": "9f9412a2",
+              "Subject": "Update cve report (#460)"
+            },
+            {
+              "SHA": "7735d35a",
+              "Subject": "Update cve report (#459)"
+            },
+            {
+              "SHA": "76125721",
+              "Subject": "Update cve report (#458)"
+            },
+            {
+              "SHA": "e3c85228",
+              "Subject": "Update cve report (#457)"
+            },
+            {
+              "SHA": "833e252f",
+              "Subject": "Update cve report (#456)"
+            },
+            {
+              "SHA": "66bc29c4",
+              "Subject": "Update cve report (#455)"
+            },
+            {
+              "SHA": "23338a9b",
+              "Subject": "Update cve report (#454)"
+            },
+            {
+              "SHA": "65d54037",
+              "Subject": "Update cve report (#453)"
+            },
+            {
+              "SHA": "45b4e71c",
+              "Subject": "Update cve report (#452)"
+            },
+            {
+              "SHA": "b2b99132",
+              "Subject": "Update cve report (#451)"
+            },
+            {
+              "SHA": "0a11945d",
+              "Subject": "Update cve report (#450)"
+            },
+            {
+              "SHA": "002f4270",
+              "Subject": "Update cve report (#449)"
+            },
+            {
+              "SHA": "8ac7e56d",
+              "Subject": "Update cve report (#448)"
+            },
+            {
+              "SHA": "ac58e176",
+              "Subject": "Update cve report (#447)"
             }
           ]
         }

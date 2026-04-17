@@ -44,6 +44,28 @@
 
 
 
+## [kubeops/installer](https://github.com/kubeops/installer)
+
+### [v2026.4.30](https://github.com/kubeops/installer/releases/tag/v2026.4.30)
+
+- [8bdce528](https://github.com/kubeops/installer/commit/8bdce528) Prepare for release v2026.4.30 (#461)
+- [9f9412a2](https://github.com/kubeops/installer/commit/9f9412a2) Update cve report (#460)
+- [7735d35a](https://github.com/kubeops/installer/commit/7735d35a) Update cve report (#459)
+- [76125721](https://github.com/kubeops/installer/commit/76125721) Update cve report (#458)
+- [e3c85228](https://github.com/kubeops/installer/commit/e3c85228) Update cve report (#457)
+- [833e252f](https://github.com/kubeops/installer/commit/833e252f) Update cve report (#456)
+- [66bc29c4](https://github.com/kubeops/installer/commit/66bc29c4) Update cve report (#455)
+- [23338a9b](https://github.com/kubeops/installer/commit/23338a9b) Update cve report (#454)
+- [65d54037](https://github.com/kubeops/installer/commit/65d54037) Update cve report (#453)
+- [45b4e71c](https://github.com/kubeops/installer/commit/45b4e71c) Update cve report (#452)
+- [b2b99132](https://github.com/kubeops/installer/commit/b2b99132) Update cve report (#451)
+- [0a11945d](https://github.com/kubeops/installer/commit/0a11945d) Update cve report (#450)
+- [002f4270](https://github.com/kubeops/installer/commit/002f4270) Update cve report (#449)
+- [8ac7e56d](https://github.com/kubeops/installer/commit/8ac7e56d) Update cve report (#448)
+- [ac58e176](https://github.com/kubeops/installer/commit/ac58e176) Update cve report (#447)
+
+
+
 ## [kubeops/ui-server](https://github.com/kubeops/ui-server)
 
 ### [v0.2.0](https://github.com/kubeops/ui-server/releases/tag/v0.2.0)
