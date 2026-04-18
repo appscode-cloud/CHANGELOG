@@ -1,0 +1,204 @@
+{
+  "product_line": "ACE",
+  "release": "v2026.4.30",
+  "release_date": "2026-04-18T01:39:49.206162634Z",
+  "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
+  "docs_url": "%!(EXTRA string=v2026.4.30)",
+  "kubernetes_version": "1.28+",
+  "projects": [
+    {
+      "url": "github.com/appscode-cloud/b3",
+      "releases": [
+        {
+          "tag": "v2026.4.30",
+          "commits": [
+            {
+              "SHA": "86f1a62915",
+              "Subject": "Prepare for release v2026.4.30 (#1452)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode-cloud/installer",
+      "releases": [
+        {
+          "tag": "v2026.4.30",
+          "commits": [
+            {
+              "SHA": "cf29bd3b",
+              "Subject": "Prepare for release v2026.4.30 (#1236)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode-cloud/ui-wizards",
+      "releases": [
+        {
+          "tag": "v0.32.0",
+          "commits": [
+            {
+              "SHA": "5085544a7",
+              "Subject": "Prepare for release v0.32.0 (#1005)"
+            },
+            {
+              "SHA": "6ac58c431",
+              "Subject": "Test against k8s 1.35 (#1003)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode/website",
+      "releases": [
+        {
+          "tag": "v2026.4.30",
+          "commits": [
+            {
+              "SHA": "2a867bd0",
+              "Subject": "Prepare for release v2026.4.30 (#207)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kmodules/image-packer",
+      "releases": [
+        {
+          "tag": "v2026.4.30",
+          "commits": [
+            {
+              "SHA": "c41c38b5",
+              "Subject": "Prepare for release v2026.4.30 (#49)"
+            },
+            {
+              "SHA": "79b725e3",
+              "Subject": "Support * ? glob patterns in image skip lists (#48)"
+            },
+            {
+              "SHA": "ed4a0748",
+              "Subject": "Add replace image digest command (#47)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kmodules/resource-metadata",
+      "releases": [
+        {
+          "tag": "v0.44.0",
+          "commits": [
+            {
+              "SHA": "38f04a6fb",
+              "Subject": "Prepare for release v0.44.0 (#611)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubeops/installer",
+      "releases": [
+        {
+          "tag": "v2026.4.30",
+          "commits": [
+            {
+              "SHA": "8bdce528",
+              "Subject": "Prepare for release v2026.4.30 (#461)"
+            },
+            {
+              "SHA": "9f9412a2",
+              "Subject": "Update cve report (#460)"
+            },
+            {
+              "SHA": "7735d35a",
+              "Subject": "Update cve report (#459)"
+            },
+            {
+              "SHA": "76125721",
+              "Subject": "Update cve report (#458)"
+            },
+            {
+              "SHA": "e3c85228",
+              "Subject": "Update cve report (#457)"
+            },
+            {
+              "SHA": "833e252f",
+              "Subject": "Update cve report (#456)"
+            },
+            {
+              "SHA": "66bc29c4",
+              "Subject": "Update cve report (#455)"
+            },
+            {
+              "SHA": "23338a9b",
+              "Subject": "Update cve report (#454)"
+            },
+            {
+              "SHA": "65d54037",
+              "Subject": "Update cve report (#453)"
+            },
+            {
+              "SHA": "45b4e71c",
+              "Subject": "Update cve report (#452)"
+            },
+            {
+              "SHA": "b2b99132",
+              "Subject": "Update cve report (#451)"
+            },
+            {
+              "SHA": "0a11945d",
+              "Subject": "Update cve report (#450)"
+            },
+            {
+              "SHA": "002f4270",
+              "Subject": "Update cve report (#449)"
+            },
+            {
+              "SHA": "8ac7e56d",
+              "Subject": "Update cve report (#448)"
+            },
+            {
+              "SHA": "ac58e176",
+              "Subject": "Update cve report (#447)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubeops/ui-server",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "f20b475db",
+              "Subject": "Prepare for release v0.2.0 (#410)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubepack/lib-app",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "76bf2435b",
+              "Subject": "Prepare for release v0.20.0 (#161)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
