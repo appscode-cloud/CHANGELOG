@@ -1,7 +1,7 @@
 {
   "product_line": "ACE",
   "release": "v2026.4.30",
-  "release_date": "2026-04-17T21:51:58.083659894Z",
+  "release_date": "2026-04-18T01:39:49.206162634Z",
   "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
   "docs_url": "%!(EXTRA string=v2026.4.30)",
   "kubernetes_version": "1.28+",
@@ -15,6 +15,20 @@
             {
               "SHA": "86f1a62915",
               "Subject": "Prepare for release v2026.4.30 (#1452)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode-cloud/installer",
+      "releases": [
+        {
+          "tag": "v2026.4.30",
+          "commits": [
+            {
+              "SHA": "cf29bd3b",
+              "Subject": "Prepare for release v2026.4.30 (#1236)"
             }
           ]
         }
