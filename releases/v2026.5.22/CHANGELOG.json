@@ -1,0 +1,36 @@
+{
+  "product_line": "ACE",
+  "release": "v2026.5.22",
+  "release_date": "2026-05-18T18:24:41.295270248Z",
+  "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
+  "docs_url": "%!(EXTRA string=v2026.5.22)",
+  "kubernetes_version": "1.28+",
+  "projects": [
+    {
+      "url": "github.com/appscode-cloud/ui-wizards",
+      "releases": [
+        {
+          "tag": "v0.33.0",
+          "commits": [
+            {
+              "SHA": "91ef7a42f",
+              "Subject": "Prepare for release v0.33.0 (#1023)"
+            },
+            {
+              "SHA": "b2bcacad9",
+              "Subject": "fix es ferret kafka singlestore solr machine validations (#1021)"
+            },
+            {
+              "SHA": "e9644322d",
+              "Subject": "Add AGENTS.md (#1022)"
+            },
+            {
+              "SHA": "c71f1008f",
+              "Subject": "Runs on ubuntu"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
