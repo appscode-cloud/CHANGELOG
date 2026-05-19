@@ -37,3 +37,14 @@
 
 
 
+## [kubepack/lib-app](https://github.com/kubepack/lib-app)
+
+### [v0.21.0](https://github.com/kubepack/lib-app/releases/tag/v0.21.0)
+
+- [6cd69ed5](https://github.com/kubepack/lib-app/commit/6cd69ed53) Prepare for release v0.21.0 (#164)
+- [eef30464](https://github.com/kubepack/lib-app/commit/eef30464a) Harden CI workflows
+- [f7c9253b](https://github.com/kubepack/lib-app/commit/f7c9253b4) Update for KubeDB v2026.4.27
+- [52a1ea24](https://github.com/kubepack/lib-app/commit/52a1ea24a) Configure dependabot refresh schedule (#162)
+
+
+

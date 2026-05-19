@@ -1,7 +1,7 @@
 {
   "product_line": "ACE",
   "release": "v2026.5.22",
-  "release_date": "2026-05-19T15:30:43.915814106Z",
+  "release_date": "2026-05-19T15:44:47.429407977Z",
   "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
   "docs_url": "%!(EXTRA string=v2026.5.22)",
   "kubernetes_version": "1.28+",
@@ -109,6 +109,32 @@
             {
               "SHA": "d16bee5b1",
               "Subject": "Harden CI workflows (#616)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubepack/lib-app",
+      "releases": [
+        {
+          "tag": "v0.21.0",
+          "commits": [
+            {
+              "SHA": "6cd69ed53",
+              "Subject": "Prepare for release v0.21.0 (#164)"
+            },
+            {
+              "SHA": "eef30464a",
+              "Subject": "Harden CI workflows"
+            },
+            {
+              "SHA": "f7c9253b4",
+              "Subject": "Update for KubeDB v2026.4.27"
+            },
+            {
+              "SHA": "52a1ea24a",
+              "Subject": "Configure dependabot refresh schedule (#162)"
             }
           ]
         }
