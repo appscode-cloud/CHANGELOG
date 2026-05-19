@@ -1,7 +1,7 @@
 {
   "product_line": "ACE",
   "release": "v2026.5.22",
-  "release_date": "2026-05-18T18:24:41.295270248Z",
+  "release_date": "2026-05-19T15:30:43.915814106Z",
   "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
   "docs_url": "%!(EXTRA string=v2026.5.22)",
   "kubernetes_version": "1.28+",
@@ -27,6 +27,88 @@
             {
               "SHA": "c71f1008f",
               "Subject": "Runs on ubuntu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kmodules/resource-metadata",
+      "releases": [
+        {
+          "tag": "v0.45.0",
+          "commits": [
+            {
+              "SHA": "0f2dd6e93",
+              "Subject": "hub: stop sharing the embedded descriptor map across registries (#632)"
+            },
+            {
+              "SHA": "1e6fbc971",
+              "Subject": "hub: log LRU registry evictions (#634)"
+            },
+            {
+              "SHA": "8f55568a5",
+              "Subject": "hub: preserve manually-registered GVRs across discovery refresh (#633)"
+            },
+            {
+              "SHA": "56dcdc42b",
+              "Subject": "tableconvertor: cache parsed templates (#631)"
+            },
+            {
+              "SHA": "94885eb7f",
+              "Subject": "resource-fmt: track failures and exit non-zero (#630)"
+            },
+            {
+              "SHA": "124a362dd",
+              "Subject": "import-crds: handle read/unmarshal errors explicitly in WriteDescriptor (#629)"
+            },
+            {
+              "SHA": "c1ff73d67",
+              "Subject": "ui-updater: fail loudly when digest resolution fails (#628)"
+            },
+            {
+              "SHA": "8eabe5f83",
+              "Subject": "tableconvertor: guard against empty Dashboards in init (#626)"
+            },
+            {
+              "SHA": "51673483e",
+              "Subject": "identity: drop IsGlobalUnicast from skipIP filter (#625)"
+            },
+            {
+              "SHA": "029727af3",
+              "Subject": "ToYAML: deep-copy validation schema before mutating (#624)"
+            },
+            {
+              "SHA": "683bff595",
+              "Subject": "Report missing edge-label target instead of panicking (#623)"
+            },
+            {
+              "SHA": "6e0d399f4",
+              "Subject": "Fix Resources()/Kinds() returning slices padded with empty entries (#622)"
+            },
+            {
+              "SHA": "b0b044cdb",
+              "Subject": "Use HermeticTxtFuncMap for table convertor templates (#621)"
+            },
+            {
+              "SHA": "e232c0cb0",
+              "Subject": "Prepare for release v0.45.0 (#620)"
+            },
+            {
+              "SHA": "11c2af3e0",
+              "Subject": "Fix timout issues in resource creation using crd list (#619)"
+            },
+            {
+              "SHA": "bc5801651",
+              "Subject": "Return human-readable resource quantity in genericResource (#618)"
+            },
+            {
+              "SHA": "6302a68ac",
+              "Subject": "update digests (#617)"
+            },
+            {
+              "SHA": "d16bee5b1",
+              "Subject": "Harden CI workflows (#616)"
             }
           ]
         }
