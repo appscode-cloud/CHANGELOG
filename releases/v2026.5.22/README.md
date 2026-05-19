@@ -59,6 +59,17 @@
 
 
 
+## [kubeops/ui-server](https://github.com/kubeops/ui-server)
+
+### [v0.3.0](https://github.com/kubeops/ui-server/releases/tag/v0.3.0)
+
+- [4e99ed21](https://github.com/kubeops/ui-server/commit/4e99ed215) Set lgtm app token owner to appscode-cloud
+- [fab19dc3](https://github.com/kubeops/ui-server/commit/fab19dc36) Prepare for release v0.3.0 (#417)
+- [264e71d0](https://github.com/kubeops/ui-server/commit/264e71d08) Show human-readable resource quantity (#416)
+- [673794f6](https://github.com/kubeops/ui-server/commit/673794f69) Add CLAUDE.md pointing to AGENTS.md
+
+
+
 ## [kubepack/lib-app](https://github.com/kubepack/lib-app)
 
 ### [v0.21.0](https://github.com/kubepack/lib-app/releases/tag/v0.21.0)
