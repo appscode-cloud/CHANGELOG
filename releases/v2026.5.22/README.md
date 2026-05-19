@@ -21,6 +21,19 @@
 
 
 
+## [kmodules/image-packer](https://github.com/kmodules/image-packer)
+
+### [v2026.5.22](https://github.com/kmodules/image-packer/releases/tag/v2026.5.22)
+
+- [5f04d35b](https://github.com/kmodules/image-packer/commit/5f04d35b) Set lgtm app token owner to appscode-cloud
+- [f872797a](https://github.com/kmodules/image-packer/commit/f872797a) Prepare for release v2026.5.22 (#53)
+- [bccfc253](https://github.com/kmodules/image-packer/commit/bccfc253) Add CLAUDE.md pointing to AGENTS.md
+- [580a88b4](https://github.com/kmodules/image-packer/commit/580a88b4) Add AGENTS.md (#52)
+- [d412645f](https://github.com/kmodules/image-packer/commit/d412645f) Harden CI workflows
+- [92a7b8bb](https://github.com/kmodules/image-packer/commit/92a7b8bb) Configure dependabot refresh schedule (#50)
+
+
+
 ## [kmodules/resource-metadata](https://github.com/kmodules/resource-metadata)
 
 ### [v0.45.0](https://github.com/kmodules/resource-metadata/releases/tag/v0.45.0)

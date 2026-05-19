@@ -1,7 +1,7 @@
 {
   "product_line": "ACE",
   "release": "v2026.5.22",
-  "release_date": "2026-05-19T18:02:02.42288121Z",
+  "release_date": "2026-05-19T18:02:09.570010837Z",
   "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
   "docs_url": "%!(EXTRA string=v2026.5.22)",
   "kubernetes_version": "1.28+",
@@ -45,6 +45,40 @@
             {
               "SHA": "2c4cde0f",
               "Subject": "Prepare for release v2026.5.22 (#208)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kmodules/image-packer",
+      "releases": [
+        {
+          "tag": "v2026.5.22",
+          "commits": [
+            {
+              "SHA": "5f04d35b",
+              "Subject": "Set lgtm app token owner to appscode-cloud"
+            },
+            {
+              "SHA": "f872797a",
+              "Subject": "Prepare for release v2026.5.22 (#53)"
+            },
+            {
+              "SHA": "bccfc253",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "580a88b4",
+              "Subject": "Add AGENTS.md (#52)"
+            },
+            {
+              "SHA": "d412645f",
+              "Subject": "Harden CI workflows"
+            },
+            {
+              "SHA": "92a7b8bb",
+              "Subject": "Configure dependabot refresh schedule (#50)"
             }
           ]
         }
