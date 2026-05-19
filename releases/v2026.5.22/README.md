@@ -12,6 +12,15 @@
 
 
 
+## [appscode/website](https://github.com/appscode/website)
+
+### [v2026.5.22](https://github.com/appscode/website/releases/tag/v2026.5.22)
+
+- [9584ecc8](https://github.com/appscode/website/commit/9584ecc8) Harden CI workflows (#209)
+- [2c4cde0f](https://github.com/appscode/website/commit/2c4cde0f) Prepare for release v2026.5.22 (#208)
+
+
+
 ## [kmodules/resource-metadata](https://github.com/kmodules/resource-metadata)
 
 ### [v0.45.0](https://github.com/kmodules/resource-metadata/releases/tag/v0.45.0)

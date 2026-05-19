@@ -1,7 +1,7 @@
 {
   "product_line": "ACE",
   "release": "v2026.5.22",
-  "release_date": "2026-05-19T15:44:47.429407977Z",
+  "release_date": "2026-05-19T18:02:02.42288121Z",
   "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
   "docs_url": "%!(EXTRA string=v2026.5.22)",
   "kubernetes_version": "1.28+",
@@ -27,6 +27,24 @@
             {
               "SHA": "c71f1008f",
               "Subject": "Runs on ubuntu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode/website",
+      "releases": [
+        {
+          "tag": "v2026.5.22",
+          "commits": [
+            {
+              "SHA": "9584ecc8",
+              "Subject": "Harden CI workflows (#209)"
+            },
+            {
+              "SHA": "2c4cde0f",
+              "Subject": "Prepare for release v2026.5.22 (#208)"
             }
           ]
         }
