@@ -1,0 +1,332 @@
+{
+  "product_line": "ACE",
+  "release": "v2026.5.22",
+  "release_date": "2026-05-20T05:22:03.326439223Z",
+  "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
+  "docs_url": "%!(EXTRA string=v2026.5.22)",
+  "kubernetes_version": "1.28+",
+  "projects": [
+    {
+      "url": "github.com/appscode-cloud/b3",
+      "releases": [
+        {
+          "tag": "v2026.5.22",
+          "commits": [
+            {
+              "SHA": "18a60bbb3d",
+              "Subject": "Prepare for release v2026.5.22 (#1467)"
+            },
+            {
+              "SHA": "004fa34ce4",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "6738e626cb",
+              "Subject": "Fix timout issues in resource creation using crd list (#1462)"
+            },
+            {
+              "SHA": "da03e207c3",
+              "Subject": "Revert custom authrization bad squash merge (#1465)"
+            },
+            {
+              "SHA": "9e39825da7",
+              "Subject": "Add orphan org routes (#1464)"
+            },
+            {
+              "SHA": "8373f678dd",
+              "Subject": "Add support for custom authrization (#1357)"
+            },
+            {
+              "SHA": "5126be89f3",
+              "Subject": "Exclude system users from user listing and statistics (#1463)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode-cloud/installer",
+      "releases": [
+        {
+          "tag": "v2026.5.22",
+          "commits": [
+            {
+              "SHA": "557de094",
+              "Subject": "Prepare for release v2026.5.22 (#1258)"
+            },
+            {
+              "SHA": "9617a0de",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "144788ad",
+              "Subject": "Use 1gtm app token for update-local-repo workflow"
+            },
+            {
+              "SHA": "d2db6bab",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "3df0f1c3",
+              "Subject": "Add AGENTS.md (#1254)"
+            },
+            {
+              "SHA": "235eb7a9",
+              "Subject": "Ignore missing arch for envoy:v1.37.2-ac"
+            },
+            {
+              "SHA": "a3752fc4",
+              "Subject": "Runs on ubuntu"
+            },
+            {
+              "SHA": "1aefa98c",
+              "Subject": "Use GitHub App tokens for release tracker / publish-oci (#1253)"
+            },
+            {
+              "SHA": "6a1fcc76",
+              "Subject": "ci: use dynamic runner (#1251)"
+            },
+            {
+              "SHA": "8d55fcc9",
+              "Subject": "Harden CI workflows (#1252)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode-cloud/ui-wizards",
+      "releases": [
+        {
+          "tag": "v0.33.0",
+          "commits": [
+            {
+              "SHA": "91ef7a42f",
+              "Subject": "Prepare for release v0.33.0 (#1023)"
+            },
+            {
+              "SHA": "b2bcacad9",
+              "Subject": "fix es ferret kafka singlestore solr machine validations (#1021)"
+            },
+            {
+              "SHA": "e9644322d",
+              "Subject": "Add AGENTS.md (#1022)"
+            },
+            {
+              "SHA": "c71f1008f",
+              "Subject": "Runs on ubuntu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode/website",
+      "releases": [
+        {
+          "tag": "v2026.5.22",
+          "commits": [
+            {
+              "SHA": "9584ecc8",
+              "Subject": "Harden CI workflows (#209)"
+            },
+            {
+              "SHA": "2c4cde0f",
+              "Subject": "Prepare for release v2026.5.22 (#208)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kmodules/image-packer",
+      "releases": [
+        {
+          "tag": "v2026.5.22",
+          "commits": [
+            {
+              "SHA": "5f04d35b",
+              "Subject": "Set lgtm app token owner to appscode-cloud"
+            },
+            {
+              "SHA": "f872797a",
+              "Subject": "Prepare for release v2026.5.22 (#53)"
+            },
+            {
+              "SHA": "bccfc253",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "580a88b4",
+              "Subject": "Add AGENTS.md (#52)"
+            },
+            {
+              "SHA": "d412645f",
+              "Subject": "Harden CI workflows"
+            },
+            {
+              "SHA": "92a7b8bb",
+              "Subject": "Configure dependabot refresh schedule (#50)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kmodules/resource-metadata",
+      "releases": [
+        {
+          "tag": "v0.45.0",
+          "commits": [
+            {
+              "SHA": "0f2dd6e93",
+              "Subject": "hub: stop sharing the embedded descriptor map across registries (#632)"
+            },
+            {
+              "SHA": "1e6fbc971",
+              "Subject": "hub: log LRU registry evictions (#634)"
+            },
+            {
+              "SHA": "8f55568a5",
+              "Subject": "hub: preserve manually-registered GVRs across discovery refresh (#633)"
+            },
+            {
+              "SHA": "56dcdc42b",
+              "Subject": "tableconvertor: cache parsed templates (#631)"
+            },
+            {
+              "SHA": "94885eb7f",
+              "Subject": "resource-fmt: track failures and exit non-zero (#630)"
+            },
+            {
+              "SHA": "124a362dd",
+              "Subject": "import-crds: handle read/unmarshal errors explicitly in WriteDescriptor (#629)"
+            },
+            {
+              "SHA": "c1ff73d67",
+              "Subject": "ui-updater: fail loudly when digest resolution fails (#628)"
+            },
+            {
+              "SHA": "8eabe5f83",
+              "Subject": "tableconvertor: guard against empty Dashboards in init (#626)"
+            },
+            {
+              "SHA": "51673483e",
+              "Subject": "identity: drop IsGlobalUnicast from skipIP filter (#625)"
+            },
+            {
+              "SHA": "029727af3",
+              "Subject": "ToYAML: deep-copy validation schema before mutating (#624)"
+            },
+            {
+              "SHA": "683bff595",
+              "Subject": "Report missing edge-label target instead of panicking (#623)"
+            },
+            {
+              "SHA": "6e0d399f4",
+              "Subject": "Fix Resources()/Kinds() returning slices padded with empty entries (#622)"
+            },
+            {
+              "SHA": "b0b044cdb",
+              "Subject": "Use HermeticTxtFuncMap for table convertor templates (#621)"
+            },
+            {
+              "SHA": "e232c0cb0",
+              "Subject": "Prepare for release v0.45.0 (#620)"
+            },
+            {
+              "SHA": "11c2af3e0",
+              "Subject": "Fix timout issues in resource creation using crd list (#619)"
+            },
+            {
+              "SHA": "bc5801651",
+              "Subject": "Return human-readable resource quantity in genericResource (#618)"
+            },
+            {
+              "SHA": "6302a68ac",
+              "Subject": "update digests (#617)"
+            },
+            {
+              "SHA": "d16bee5b1",
+              "Subject": "Harden CI workflows (#616)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubeops/installer",
+      "releases": [
+        {
+          "tag": "v2026.5.22",
+          "commits": [
+            {
+              "SHA": "2c87a5ef",
+              "Subject": "Prepare for release v2026.5.22 (#476)"
+            },
+            {
+              "SHA": "ef49551b",
+              "Subject": "Set lgtm app token owner to appscode-cloud"
+            },
+            {
+              "SHA": "23526ad2",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubeops/ui-server",
+      "releases": [
+        {
+          "tag": "v0.3.0",
+          "commits": [
+            {
+              "SHA": "4e99ed215",
+              "Subject": "Set lgtm app token owner to appscode-cloud"
+            },
+            {
+              "SHA": "fab19dc36",
+              "Subject": "Prepare for release v0.3.0 (#417)"
+            },
+            {
+              "SHA": "264e71d08",
+              "Subject": "Show human-readable resource quantity (#416)"
+            },
+            {
+              "SHA": "673794f69",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubepack/lib-app",
+      "releases": [
+        {
+          "tag": "v0.21.0",
+          "commits": [
+            {
+              "SHA": "6cd69ed53",
+              "Subject": "Prepare for release v0.21.0 (#164)"
+            },
+            {
+              "SHA": "eef30464a",
+              "Subject": "Harden CI workflows"
+            },
+            {
+              "SHA": "f7c9253b4",
+              "Subject": "Update for KubeDB v2026.4.27"
+            },
+            {
+              "SHA": "52a1ea24a",
+              "Subject": "Configure dependabot refresh schedule (#162)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
