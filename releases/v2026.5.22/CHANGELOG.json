@@ -1,11 +1,49 @@
 {
   "product_line": "ACE",
   "release": "v2026.5.22",
-  "release_date": "2026-05-19T18:02:51.911080102Z",
+  "release_date": "2026-05-20T03:32:17.323959088Z",
   "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
   "docs_url": "%!(EXTRA string=v2026.5.22)",
   "kubernetes_version": "1.28+",
   "projects": [
+    {
+      "url": "github.com/appscode-cloud/b3",
+      "releases": [
+        {
+          "tag": "v2026.5.22",
+          "commits": [
+            {
+              "SHA": "18a60bbb3d",
+              "Subject": "Prepare for release v2026.5.22 (#1467)"
+            },
+            {
+              "SHA": "004fa34ce4",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "6738e626cb",
+              "Subject": "Fix timout issues in resource creation using crd list (#1462)"
+            },
+            {
+              "SHA": "da03e207c3",
+              "Subject": "Revert custom authrization bad squash merge (#1465)"
+            },
+            {
+              "SHA": "9e39825da7",
+              "Subject": "Add orphan org routes (#1464)"
+            },
+            {
+              "SHA": "8373f678dd",
+              "Subject": "Add support for custom authrization (#1357)"
+            },
+            {
+              "SHA": "5126be89f3",
+              "Subject": "Exclude system users from user listing and statistics (#1463)"
+            }
+          ]
+        }
+      ]
+    },
     {
       "url": "github.com/appscode-cloud/ui-wizards",
       "releases": [

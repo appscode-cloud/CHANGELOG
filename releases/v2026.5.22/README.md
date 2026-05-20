@@ -1,4 +1,18 @@
-# ACE v2026.5.22 (2026-05-19)
+# ACE v2026.5.22 (2026-05-20)
+
+
+## [appscode-cloud/b3](https://github.com/appscode-cloud/b3)
+
+### [v2026.5.22](https://github.com/appscode-cloud/b3/releases/tag/v2026.5.22)
+
+- [18a60bbb](https://github.com/appscode-cloud/b3/commit/18a60bbb3d) Prepare for release v2026.5.22 (#1467)
+- [004fa34c](https://github.com/appscode-cloud/b3/commit/004fa34ce4) Harden release and release-tracker workflows
+- [6738e626](https://github.com/appscode-cloud/b3/commit/6738e626cb) Fix timout issues in resource creation using crd list (#1462)
+- [da03e207](https://github.com/appscode-cloud/b3/commit/da03e207c3) Revert custom authrization bad squash merge (#1465)
+- [9e39825d](https://github.com/appscode-cloud/b3/commit/9e39825da7) Add orphan org routes (#1464)
+- [8373f678](https://github.com/appscode-cloud/b3/commit/8373f678dd) Add support for custom authrization (#1357)
+- [5126be89](https://github.com/appscode-cloud/b3/commit/5126be89f3) Exclude system users from user listing and statistics (#1463)
+
 
 
 ## [appscode-cloud/ui-wizards](https://github.com/appscode-cloud/ui-wizards)
