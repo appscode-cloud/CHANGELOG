@@ -15,6 +15,23 @@
 
 
 
+## [appscode-cloud/installer](https://github.com/appscode-cloud/installer)
+
+### [v2026.5.22](https://github.com/appscode-cloud/installer/releases/tag/v2026.5.22)
+
+- [557de094](https://github.com/appscode-cloud/installer/commit/557de094) Prepare for release v2026.5.22 (#1258)
+- [9617a0de](https://github.com/appscode-cloud/installer/commit/9617a0de) Update deps
+- [144788ad](https://github.com/appscode-cloud/installer/commit/144788ad) Use 1gtm app token for update-local-repo workflow
+- [d2db6bab](https://github.com/appscode-cloud/installer/commit/d2db6bab) Add CLAUDE.md pointing to AGENTS.md
+- [3df0f1c3](https://github.com/appscode-cloud/installer/commit/3df0f1c3) Add AGENTS.md (#1254)
+- [235eb7a9](https://github.com/appscode-cloud/installer/commit/235eb7a9) Ignore missing arch for envoy:v1.37.2-ac
+- [a3752fc4](https://github.com/appscode-cloud/installer/commit/a3752fc4) Runs on ubuntu
+- [1aefa98c](https://github.com/appscode-cloud/installer/commit/1aefa98c) Use GitHub App tokens for release tracker / publish-oci (#1253)
+- [6a1fcc76](https://github.com/appscode-cloud/installer/commit/6a1fcc76) ci: use dynamic runner (#1251)
+- [8d55fcc9](https://github.com/appscode-cloud/installer/commit/8d55fcc9) Harden CI workflows (#1252)
+
+
+
 ## [appscode-cloud/ui-wizards](https://github.com/appscode-cloud/ui-wizards)
 
 ### [v0.33.0](https://github.com/appscode-cloud/ui-wizards/releases/tag/v0.33.0)

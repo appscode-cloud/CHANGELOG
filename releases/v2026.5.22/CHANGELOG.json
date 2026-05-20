@@ -1,7 +1,7 @@
 {
   "product_line": "ACE",
   "release": "v2026.5.22",
-  "release_date": "2026-05-20T03:46:20.514754575Z",
+  "release_date": "2026-05-20T05:22:03.326439223Z",
   "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
   "docs_url": "%!(EXTRA string=v2026.5.22)",
   "kubernetes_version": "1.28+",
@@ -39,6 +39,56 @@
             {
               "SHA": "5126be89f3",
               "Subject": "Exclude system users from user listing and statistics (#1463)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode-cloud/installer",
+      "releases": [
+        {
+          "tag": "v2026.5.22",
+          "commits": [
+            {
+              "SHA": "557de094",
+              "Subject": "Prepare for release v2026.5.22 (#1258)"
+            },
+            {
+              "SHA": "9617a0de",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "144788ad",
+              "Subject": "Use 1gtm app token for update-local-repo workflow"
+            },
+            {
+              "SHA": "d2db6bab",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "3df0f1c3",
+              "Subject": "Add AGENTS.md (#1254)"
+            },
+            {
+              "SHA": "235eb7a9",
+              "Subject": "Ignore missing arch for envoy:v1.37.2-ac"
+            },
+            {
+              "SHA": "a3752fc4",
+              "Subject": "Runs on ubuntu"
+            },
+            {
+              "SHA": "1aefa98c",
+              "Subject": "Use GitHub App tokens for release tracker / publish-oci (#1253)"
+            },
+            {
+              "SHA": "6a1fcc76",
+              "Subject": "ci: use dynamic runner (#1251)"
+            },
+            {
+              "SHA": "8d55fcc9",
+              "Subject": "Harden CI workflows (#1252)"
             }
           ]
         }
