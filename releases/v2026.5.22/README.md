@@ -73,6 +73,16 @@
 
 
 
+## [kubeops/installer](https://github.com/kubeops/installer)
+
+### [v2026.5.22](https://github.com/kubeops/installer/releases/tag/v2026.5.22)
+
+- [2c87a5ef](https://github.com/kubeops/installer/commit/2c87a5ef) Prepare for release v2026.5.22 (#476)
+- [ef49551b](https://github.com/kubeops/installer/commit/ef49551b) Set lgtm app token owner to appscode-cloud
+- [23526ad2](https://github.com/kubeops/installer/commit/23526ad2) Add CLAUDE.md pointing to AGENTS.md
+
+
+
 ## [kubeops/ui-server](https://github.com/kubeops/ui-server)
 
 ### [v0.3.0](https://github.com/kubeops/ui-server/releases/tag/v0.3.0)

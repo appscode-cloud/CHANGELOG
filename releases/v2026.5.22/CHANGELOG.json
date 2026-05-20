@@ -1,7 +1,7 @@
 {
   "product_line": "ACE",
   "release": "v2026.5.22",
-  "release_date": "2026-05-20T03:32:17.323959088Z",
+  "release_date": "2026-05-20T03:46:20.514754575Z",
   "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
   "docs_url": "%!(EXTRA string=v2026.5.22)",
   "kubernetes_version": "1.28+",
@@ -199,6 +199,28 @@
             {
               "SHA": "d16bee5b1",
               "Subject": "Harden CI workflows (#616)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubeops/installer",
+      "releases": [
+        {
+          "tag": "v2026.5.22",
+          "commits": [
+            {
+              "SHA": "2c87a5ef",
+              "Subject": "Prepare for release v2026.5.22 (#476)"
+            },
+            {
+              "SHA": "ef49551b",
+              "Subject": "Set lgtm app token owner to appscode-cloud"
+            },
+            {
+              "SHA": "23526ad2",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
             }
           ]
         }
