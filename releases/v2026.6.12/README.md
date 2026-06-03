@@ -50,3 +50,14 @@
 
 
 
+## [kubepack/lib-app](https://github.com/kubepack/lib-app)
+
+### [v0.22.0](https://github.com/kubepack/lib-app/releases/tag/v0.22.0)
+
+- [e278e173](https://github.com/kubepack/lib-app/commit/e278e173f) Prepare for release v0.22.0 (#168)
+- [2b9eb737](https://github.com/kubepack/lib-app/commit/2b9eb7377) Update kubedb scripts with latest alert charts (#167)
+- [6b272ca2](https://github.com/kubepack/lib-app/commit/6b272ca26) Add documentdb (#166)
+- [c999cc0b](https://github.com/kubepack/lib-app/commit/c999cc0b0) Harden CI workflows (#165)
+
+
+

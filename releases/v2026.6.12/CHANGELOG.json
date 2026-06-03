@@ -1,7 +1,7 @@
 {
   "product_line": "ACE",
   "release": "v2026.6.12",
-  "release_date": "2026-06-03T06:05:31.809325402Z",
+  "release_date": "2026-06-03T06:08:34.763959638Z",
   "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
   "docs_url": "%!(EXTRA string=v2026.6.12)",
   "kubernetes_version": "1.28+",
@@ -107,6 +107,32 @@
             {
               "SHA": "fd8f1520d",
               "Subject": "Prepare for release v0.4.0 (#419)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubepack/lib-app",
+      "releases": [
+        {
+          "tag": "v0.22.0",
+          "commits": [
+            {
+              "SHA": "e278e173f",
+              "Subject": "Prepare for release v0.22.0 (#168)"
+            },
+            {
+              "SHA": "2b9eb7377",
+              "Subject": "Update kubedb scripts with latest alert charts (#167)"
+            },
+            {
+              "SHA": "6b272ca26",
+              "Subject": "Add documentdb (#166)"
+            },
+            {
+              "SHA": "c999cc0b0",
+              "Subject": "Harden CI workflows (#165)"
             }
           ]
         }
