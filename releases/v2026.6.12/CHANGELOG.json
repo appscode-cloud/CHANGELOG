@@ -1,7 +1,7 @@
 {
   "product_line": "ACE",
   "release": "v2026.6.12",
-  "release_date": "2026-06-03T05:33:15.895671021Z",
+  "release_date": "2026-06-03T05:55:35.134534905Z",
   "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
   "docs_url": "%!(EXTRA string=v2026.6.12)",
   "kubernetes_version": "1.28+",
@@ -15,6 +15,56 @@
             {
               "SHA": "983d2c5a4",
               "Subject": "Prepare for release v0.34.0 (#1037)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kmodules/resource-metadata",
+      "releases": [
+        {
+          "tag": "v0.46.0",
+          "commits": [
+            {
+              "SHA": "5c1996ac5",
+              "Subject": "Prepare for release v0.46.0 (#643)"
+            },
+            {
+              "SHA": "b3cc24f49",
+              "Subject": "Add --api-groups flag in ui-updater (#642)"
+            },
+            {
+              "SHA": "695ccb8f8",
+              "Subject": "Update digests (#641)"
+            },
+            {
+              "SHA": "729e625c0",
+              "Subject": "ui-updater: log digest resolution failures instead of exiting (#640)"
+            },
+            {
+              "SHA": "ef89a451c",
+              "Subject": "Remove db2 ops (#639)"
+            },
+            {
+              "SHA": "47a227f18",
+              "Subject": "Syncing binding CRDs (#638)"
+            },
+            {
+              "SHA": "ca51beee2",
+              "Subject": "Update kubedb crds (#637)"
+            },
+            {
+              "SHA": "927e5c8e9",
+              "Subject": "Sync all the v1alpha2 databases (#636)"
+            },
+            {
+              "SHA": "0d73ed986",
+              "Subject": "Set lgtm app token owner to appscode-cloud"
+            },
+            {
+              "SHA": "9969ccb15",
+              "Subject": "hub: keep previous state when reload fails (#635)"
             }
           ]
         }
