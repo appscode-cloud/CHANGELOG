@@ -42,3 +42,11 @@
 
 
 
+## [kubeops/ui-server](https://github.com/kubeops/ui-server)
+
+### [v0.4.0](https://github.com/kubeops/ui-server/releases/tag/v0.4.0)
+
+- [fd8f1520](https://github.com/kubeops/ui-server/commit/fd8f1520d) Prepare for release v0.4.0 (#419)
+
+
+

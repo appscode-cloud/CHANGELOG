@@ -1,7 +1,7 @@
 {
   "product_line": "ACE",
   "release": "v2026.6.12",
-  "release_date": "2026-06-03T06:03:17.307182407Z",
+  "release_date": "2026-06-03T06:05:31.809325402Z",
   "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
   "docs_url": "%!(EXTRA string=v2026.6.12)",
   "kubernetes_version": "1.28+",
@@ -93,6 +93,20 @@
             {
               "SHA": "9969ccb15",
               "Subject": "hub: keep previous state when reload fails (#635)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubeops/ui-server",
+      "releases": [
+        {
+          "tag": "v0.4.0",
+          "commits": [
+            {
+              "SHA": "fd8f1520d",
+              "Subject": "Prepare for release v0.4.0 (#419)"
             }
           ]
         }
