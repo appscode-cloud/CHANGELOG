@@ -50,6 +50,14 @@
 
 
 
+## [kubeops/installer](https://github.com/kubeops/installer)
+
+### [v2026.6.12](https://github.com/kubeops/installer/releases/tag/v2026.6.12)
+
+- [f6535efa](https://github.com/kubeops/installer/commit/f6535efa) Prepare for release v2026.6.12 (#484)
+
+
+
 ## [kubeops/ui-server](https://github.com/kubeops/ui-server)
 
 ### [v0.4.0](https://github.com/kubeops/ui-server/releases/tag/v0.4.0)
