@@ -1,7 +1,7 @@
 {
   "product_line": "ACE",
   "release": "v2026.6.19",
-  "release_date": "2026-06-21T10:42:21.724206802Z",
+  "release_date": "2026-06-21T10:44:51.467761737Z",
   "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
   "docs_url": "%!(EXTRA string=v2026.6.19)",
   "kubernetes_version": "1.28+",
@@ -81,6 +81,15 @@
               "Subject": "Remove FerretDB support (#647)"
             }
           ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubeops/ui-server",
+      "releases": [
+        {
+          "tag": "v0.5.0",
+          "commits": null
         }
       ]
     }
