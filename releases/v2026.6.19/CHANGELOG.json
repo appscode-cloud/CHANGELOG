@@ -1,7 +1,7 @@
 {
   "product_line": "ACE",
   "release": "v2026.6.19",
-  "release_date": "2026-06-21T10:30:14.640000308Z",
+  "release_date": "2026-06-21T10:34:36.390023615Z",
   "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
   "docs_url": "%!(EXTRA string=v2026.6.19)",
   "kubernetes_version": "1.28+",
@@ -15,6 +15,56 @@
             {
               "SHA": "0a9c4c104",
               "Subject": "Prepare for release v0.35.0 (#1062)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kmodules/resource-metadata",
+      "releases": [
+        {
+          "tag": "v0.47.0",
+          "commits": [
+            {
+              "SHA": "fcd907ae6",
+              "Subject": "Prepare for release v0.47.0 (#650)"
+            },
+            {
+              "SHA": "85c67bcb0",
+              "Subject": "Update to KubeDB and KubeStash v2026.6.19"
+            },
+            {
+              "SHA": "e86f70f4c",
+              "Subject": "Resync kubedb & kubestash CRDs"
+            },
+            {
+              "SHA": "776d5e816",
+              "Subject": "Update KubeDB and KubeStash for v2026.6.18-rc.2"
+            },
+            {
+              "SHA": "25abe4197",
+              "Subject": "Sync up missing editors"
+            },
+            {
+              "SHA": "a7af825c9",
+              "Subject": "Update kubedb & catalog CRDs"
+            },
+            {
+              "SHA": "4ac7c73ae",
+              "Subject": "Add `observability-cluster` clusterprofile (#646)"
+            },
+            {
+              "SHA": "05ae8ec76",
+              "Subject": "Fix documentdb & import kubedb crds (#648)"
+            },
+            {
+              "SHA": "791189ee6",
+              "Subject": "Add documentdb in menu"
+            },
+            {
+              "SHA": "455898580",
+              "Subject": "Remove FerretDB support (#647)"
             }
           ]
         }
