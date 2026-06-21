@@ -1,7 +1,7 @@
 {
   "product_line": "ACE",
   "release": "v2026.6.19",
-  "release_date": "2026-06-21T10:48:00.461821405Z",
+  "release_date": "2026-06-21T11:21:25.629443279Z",
   "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
   "docs_url": "%!(EXTRA string=v2026.6.19)",
   "kubernetes_version": "1.28+",
@@ -15,6 +15,24 @@
             {
               "SHA": "0a9c4c104",
               "Subject": "Prepare for release v0.35.0 (#1062)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode/website",
+      "releases": [
+        {
+          "tag": "v2026.6.19",
+          "commits": [
+            {
+              "SHA": "01f7f216",
+              "Subject": "Prepare for release v2026.6.19 (#215)"
+            },
+            {
+              "SHA": "f184b71b",
+              "Subject": "Pin Node to 22.22.3 to fix firebase preview deploy auth (#216)"
             }
           ]
         }
