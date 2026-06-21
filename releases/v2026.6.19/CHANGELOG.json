@@ -1,7 +1,7 @@
 {
   "product_line": "ACE",
   "release": "v2026.6.19",
-  "release_date": "2026-06-21T12:01:59.224838049Z",
+  "release_date": "2026-06-21T16:39:31.454373326Z",
   "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
   "docs_url": "%!(EXTRA string=v2026.6.19)",
   "kubernetes_version": "1.28+",
@@ -106,6 +106,20 @@
             {
               "SHA": "455898580",
               "Subject": "Remove FerretDB support (#647)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubeops/installer",
+      "releases": [
+        {
+          "tag": "v2026.6.19",
+          "commits": [
+            {
+              "SHA": "ed4648dd",
+              "Subject": "Prepare for release v2026.6.19 (#490)"
             }
           ]
         }
