@@ -1,7 +1,7 @@
 {
   "product_line": "ACE",
   "release": "v2026.6.19",
-  "release_date": "2026-06-21T10:44:51.467761737Z",
+  "release_date": "2026-06-21T10:48:00.461821405Z",
   "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
   "docs_url": "%!(EXTRA string=v2026.6.19)",
   "kubernetes_version": "1.28+",
@@ -90,6 +90,28 @@
         {
           "tag": "v0.5.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubepack/lib-app",
+      "releases": [
+        {
+          "tag": "v0.23.0",
+          "commits": [
+            {
+              "SHA": "c12c4ce7b",
+              "Subject": "Prepare for release v0.23.0 (#172)"
+            },
+            {
+              "SHA": "6840206e0",
+              "Subject": "Update vulnerable dependencies (#171)"
+            },
+            {
+              "SHA": "6dcb8a924",
+              "Subject": "Remove FerretDB support (#169)"
+            }
+          ]
         }
       ]
     }

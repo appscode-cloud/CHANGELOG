@@ -41,3 +41,13 @@
 
 
 
+## [kubepack/lib-app](https://github.com/kubepack/lib-app)
+
+### [v0.23.0](https://github.com/kubepack/lib-app/releases/tag/v0.23.0)
+
+- [c12c4ce7](https://github.com/kubepack/lib-app/commit/c12c4ce7b) Prepare for release v0.23.0 (#172)
+- [6840206e](https://github.com/kubepack/lib-app/commit/6840206e0) Update vulnerable dependencies (#171)
+- [6dcb8a92](https://github.com/kubepack/lib-app/commit/6dcb8a924) Remove FerretDB support (#169)
+
+
+
