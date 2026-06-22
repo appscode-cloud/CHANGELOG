@@ -1,0 +1,183 @@
+{
+  "product_line": "ACE",
+  "release": "v2026.6.19",
+  "release_date": "2026-06-22T02:06:56.468704477Z",
+  "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
+  "docs_url": "%!(EXTRA string=v2026.6.19)",
+  "kubernetes_version": "1.28+",
+  "projects": [
+    {
+      "url": "github.com/appscode-cloud/b3",
+      "releases": [
+        {
+          "tag": "v2026.6.19",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode-cloud/docs",
+      "releases": [
+        {
+          "tag": "v2026.6.19",
+          "commits": [
+            {
+              "SHA": "802fafd",
+              "Subject": "Prepare for release v2026.6.19 (#129)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode-cloud/installer",
+      "releases": [
+        {
+          "tag": "v2026.6.19",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode-cloud/ui-wizards",
+      "releases": [
+        {
+          "tag": "v0.35.0",
+          "commits": [
+            {
+              "SHA": "0a9c4c104",
+              "Subject": "Prepare for release v0.35.0 (#1062)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode/website",
+      "releases": [
+        {
+          "tag": "v2026.6.19",
+          "commits": [
+            {
+              "SHA": "01f7f216",
+              "Subject": "Prepare for release v2026.6.19 (#215)"
+            },
+            {
+              "SHA": "f184b71b",
+              "Subject": "Pin Node to 22.22.3 to fix firebase preview deploy auth (#216)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kmodules/image-packer",
+      "releases": [
+        {
+          "tag": "v2026.6.19",
+          "commits": [
+            {
+              "SHA": "d6091139",
+              "Subject": "Prepare for release v2026.6.19 (#55)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kmodules/resource-metadata",
+      "releases": [
+        {
+          "tag": "v0.47.0",
+          "commits": [
+            {
+              "SHA": "fcd907ae6",
+              "Subject": "Prepare for release v0.47.0 (#650)"
+            },
+            {
+              "SHA": "85c67bcb0",
+              "Subject": "Update to KubeDB and KubeStash v2026.6.19"
+            },
+            {
+              "SHA": "e86f70f4c",
+              "Subject": "Resync kubedb & kubestash CRDs"
+            },
+            {
+              "SHA": "776d5e816",
+              "Subject": "Update KubeDB and KubeStash for v2026.6.18-rc.2"
+            },
+            {
+              "SHA": "25abe4197",
+              "Subject": "Sync up missing editors"
+            },
+            {
+              "SHA": "a7af825c9",
+              "Subject": "Update kubedb & catalog CRDs"
+            },
+            {
+              "SHA": "4ac7c73ae",
+              "Subject": "Add `observability-cluster` clusterprofile (#646)"
+            },
+            {
+              "SHA": "05ae8ec76",
+              "Subject": "Fix documentdb & import kubedb crds (#648)"
+            },
+            {
+              "SHA": "791189ee6",
+              "Subject": "Add documentdb in menu"
+            },
+            {
+              "SHA": "455898580",
+              "Subject": "Remove FerretDB support (#647)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubeops/installer",
+      "releases": [
+        {
+          "tag": "v2026.6.19",
+          "commits": [
+            {
+              "SHA": "ed4648dd",
+              "Subject": "Prepare for release v2026.6.19 (#490)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubeops/ui-server",
+      "releases": [
+        {
+          "tag": "v0.5.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubepack/lib-app",
+      "releases": [
+        {
+          "tag": "v0.23.0",
+          "commits": [
+            {
+              "SHA": "c12c4ce7b",
+              "Subject": "Prepare for release v0.23.0 (#172)"
+            },
+            {
+              "SHA": "6840206e0",
+              "Subject": "Update vulnerable dependencies (#171)"
+            },
+            {
+              "SHA": "6dcb8a924",
+              "Subject": "Remove FerretDB support (#169)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
