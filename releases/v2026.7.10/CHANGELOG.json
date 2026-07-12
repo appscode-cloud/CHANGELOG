@@ -1,0 +1,48 @@
+{
+  "product_line": "ACE",
+  "release": "v2026.7.10",
+  "release_date": "2026-07-12T16:47:34.511634255Z",
+  "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
+  "docs_url": "%!(EXTRA string=v2026.7.10)",
+  "kubernetes_version": "1.28+",
+  "projects": [
+    {
+      "url": "github.com/appscode-cloud/ui-wizards",
+      "releases": [
+        {
+          "tag": "v0.36.0",
+          "commits": [
+            {
+              "SHA": "e2b93a81b",
+              "Subject": "Prepare for release v0.36.0 (#1083)"
+            },
+            {
+              "SHA": "ca807994c",
+              "Subject": "Modernize golangci-lint config (#1082)"
+            },
+            {
+              "SHA": "ffa9ab383",
+              "Subject": "fix resource init and validation in vertical scaling ops (#1081)"
+            },
+            {
+              "SHA": "5a1452d44",
+              "Subject": "Set storage-metrics-server chart version to v0.1.0"
+            },
+            {
+              "SHA": "a8a7507c3",
+              "Subject": "Generate editors (#1080)"
+            },
+            {
+              "SHA": "e44adf553",
+              "Subject": "fix mongodb horizons conditions (#1079)"
+            },
+            {
+              "SHA": "82ad918d4",
+              "Subject": "Remove ferretdb"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
