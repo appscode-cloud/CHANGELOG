@@ -23,6 +23,17 @@
 
 
 
+## [kmodules/image-packer](https://github.com/kmodules/image-packer)
+
+### [v2026.7.10](https://github.com/kmodules/image-packer/releases/tag/v2026.7.10)
+
+- [18b029a2](https://github.com/kmodules/image-packer/commit/18b029a2) Prepare for release v2026.7.10 (#59)
+- [a8bd9927](https://github.com/kmodules/image-packer/commit/a8bd9927) Expand ${...} image tags using availableVersions (#58)
+- [ec36f527](https://github.com/kmodules/image-packer/commit/ec36f527) Modernize golangci-lint config (#57)
+- [ed3c452e](https://github.com/kmodules/image-packer/commit/ed3c452e) Pass ci/ci-values.yaml to helm template when present (#56)
+
+
+
 ## [kmodules/resource-metadata](https://github.com/kmodules/resource-metadata)
 
 ### [v0.48.0](https://github.com/kmodules/resource-metadata/releases/tag/v0.48.0)

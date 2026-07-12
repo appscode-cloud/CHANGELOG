@@ -1,7 +1,7 @@
 {
   "product_line": "ACE",
   "release": "v2026.7.10",
-  "release_date": "2026-07-12T17:57:46.80998931Z",
+  "release_date": "2026-07-12T17:57:52.92478522Z",
   "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
   "docs_url": "%!(EXTRA string=v2026.7.10)",
   "kubernetes_version": "1.28+",
@@ -53,6 +53,32 @@
             {
               "SHA": "0b246ffe",
               "Subject": "Prepare for release v2026.7.10 (#217)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kmodules/image-packer",
+      "releases": [
+        {
+          "tag": "v2026.7.10",
+          "commits": [
+            {
+              "SHA": "18b029a2",
+              "Subject": "Prepare for release v2026.7.10 (#59)"
+            },
+            {
+              "SHA": "a8bd9927",
+              "Subject": "Expand ${...} image tags using availableVersions (#58)"
+            },
+            {
+              "SHA": "ec36f527",
+              "Subject": "Modernize golangci-lint config (#57)"
+            },
+            {
+              "SHA": "ed3c452e",
+              "Subject": "Pass ci/ci-values.yaml to helm template when present (#56)"
             }
           ]
         }
