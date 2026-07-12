@@ -15,3 +15,17 @@
 
 
 
+## [kmodules/resource-metadata](https://github.com/kmodules/resource-metadata)
+
+### [v0.48.0](https://github.com/kmodules/resource-metadata/releases/tag/v0.48.0)
+
+- [ae8fcd22](https://github.com/kmodules/resource-metadata/commit/ae8fcd22e) Prepare for release v0.48.0 (#658)
+- [f060724a](https://github.com/kmodules/resource-metadata/commit/f060724a6) KubeDB / KubeStash v2026.7.10
+- [cae64e5b](https://github.com/kmodules/resource-metadata/commit/cae64e5bc) Modernize golangci-lint config (#657)
+- [57e63940](https://github.com/kmodules/resource-metadata/commit/57e639408) Sync catalog bindings
+- [b5c0d799](https://github.com/kmodules/resource-metadata/commit/b5c0d799a) Update for datastore & ops
+- [9e2d67a3](https://github.com/kmodules/resource-metadata/commit/9e2d67a3f) Sync digests
+- [4e9dbd2f](https://github.com/kmodules/resource-metadata/commit/4e9dbd2f9) Grafana Dashboards -> Dashboards
+
+
+
