@@ -1,6 +1,16 @@
 # ACE v2026.7.10 (2026-07-12)
 
 
+## [appscode-cloud/b3](https://github.com/appscode-cloud/b3)
+
+### [v2026.7.10](https://github.com/appscode-cloud/b3/releases/tag/v2026.7.10)
+
+- [f90ecc7e](https://github.com/appscode-cloud/b3/commit/f90ecc7e0d) Prepare for release v2026.7.10 (#1560)
+- [e766b5a7](https://github.com/appscode-cloud/b3/commit/e766b5a7d1) Modernize golangci-lint config, clean up all lint findings, and enable lint in CI (#1559)
+- [6c3d23d0](https://github.com/appscode-cloud/b3/commit/6c3d23d0db) Preallocate slices and close healthz response body (#1558)
+
+
+
 ## [appscode-cloud/ui-wizards](https://github.com/appscode-cloud/ui-wizards)
 
 ### [v0.36.0](https://github.com/appscode-cloud/ui-wizards/releases/tag/v0.36.0)

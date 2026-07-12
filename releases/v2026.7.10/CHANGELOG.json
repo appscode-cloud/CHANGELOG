@@ -1,11 +1,33 @@
 {
   "product_line": "ACE",
   "release": "v2026.7.10",
-  "release_date": "2026-07-12T17:58:48.49106879Z",
+  "release_date": "2026-07-12T20:06:02.19442011Z",
   "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
   "docs_url": "%!(EXTRA string=v2026.7.10)",
   "kubernetes_version": "1.28+",
   "projects": [
+    {
+      "url": "github.com/appscode-cloud/b3",
+      "releases": [
+        {
+          "tag": "v2026.7.10",
+          "commits": [
+            {
+              "SHA": "f90ecc7e0d",
+              "Subject": "Prepare for release v2026.7.10 (#1560)"
+            },
+            {
+              "SHA": "e766b5a7d1",
+              "Subject": "Modernize golangci-lint config, clean up all lint findings, and enable lint in CI (#1559)"
+            },
+            {
+              "SHA": "6c3d23d0db",
+              "Subject": "Preallocate slices and close healthz response body (#1558)"
+            }
+          ]
+        }
+      ]
+    },
     {
       "url": "github.com/appscode-cloud/ui-wizards",
       "releases": [
