@@ -48,3 +48,12 @@
 
 
 
+## [kubeops/ui-server](https://github.com/kubeops/ui-server)
+
+### [v0.6.0](https://github.com/kubeops/ui-server/releases/tag/v0.6.0)
+
+- [57fdaa2c](https://github.com/kubeops/ui-server/commit/57fdaa2c7) Prepare for release v0.6.0 (#436)
+- [10ce260b](https://github.com/kubeops/ui-server/commit/10ce260b2) Modernize golangci-lint config and switch formatter to gofumpt (#435)
+
+
+

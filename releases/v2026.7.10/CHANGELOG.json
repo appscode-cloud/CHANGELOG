@@ -1,7 +1,7 @@
 {
   "product_line": "ACE",
   "release": "v2026.7.10",
-  "release_date": "2026-07-12T17:57:52.92478522Z",
+  "release_date": "2026-07-12T17:58:07.08026792Z",
   "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
   "docs_url": "%!(EXTRA string=v2026.7.10)",
   "kubernetes_version": "1.28+",
@@ -117,6 +117,24 @@
             {
               "SHA": "4e9dbd2f9",
               "Subject": "Grafana Dashboards -> Dashboards"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubeops/ui-server",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "57fdaa2c7",
+              "Subject": "Prepare for release v0.6.0 (#436)"
+            },
+            {
+              "SHA": "10ce260b2",
+              "Subject": "Modernize golangci-lint config and switch formatter to gofumpt (#435)"
             }
           ]
         }
