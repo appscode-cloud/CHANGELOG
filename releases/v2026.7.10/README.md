@@ -58,6 +58,16 @@
 
 
 
+## [kubeops/installer](https://github.com/kubeops/installer)
+
+### [v2026.7.10](https://github.com/kubeops/installer/releases/tag/v2026.7.10)
+
+- [29761e3b](https://github.com/kubeops/installer/commit/29761e3b) Prepare for release v2026.7.10 (#505)
+- [3d2d92b0](https://github.com/kubeops/installer/commit/3d2d92b0) Modernize golangci-lint config (#504)
+- [53f65b9d](https://github.com/kubeops/installer/commit/53f65b9d) [Update SideKick ClusterRole] Add Snapshot, ServiceExport Permission (#489)
+
+
+
 ## [kubeops/ui-server](https://github.com/kubeops/ui-server)
 
 ### [v0.6.0](https://github.com/kubeops/ui-server/releases/tag/v0.6.0)

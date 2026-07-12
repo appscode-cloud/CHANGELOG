@@ -1,7 +1,7 @@
 {
   "product_line": "ACE",
   "release": "v2026.7.10",
-  "release_date": "2026-07-12T20:06:02.19442011Z",
+  "release_date": "2026-07-12T20:22:17.421568014Z",
   "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
   "docs_url": "%!(EXTRA string=v2026.7.10)",
   "kubernetes_version": "1.28+",
@@ -139,6 +139,28 @@
             {
               "SHA": "4e9dbd2f9",
               "Subject": "Grafana Dashboards -> Dashboards"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubeops/installer",
+      "releases": [
+        {
+          "tag": "v2026.7.10",
+          "commits": [
+            {
+              "SHA": "29761e3b",
+              "Subject": "Prepare for release v2026.7.10 (#505)"
+            },
+            {
+              "SHA": "3d2d92b0",
+              "Subject": "Modernize golangci-lint config (#504)"
+            },
+            {
+              "SHA": "53f65b9d",
+              "Subject": "[Update SideKick ClusterRole] Add Snapshot, ServiceExport Permission (#489)"
             }
           ]
         }
