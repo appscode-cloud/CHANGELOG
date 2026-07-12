@@ -57,3 +57,13 @@
 
 
 
+## [kubepack/lib-app](https://github.com/kubepack/lib-app)
+
+### [v0.24.0](https://github.com/kubepack/lib-app/releases/tag/v0.24.0)
+
+- [7d7088f3](https://github.com/kubepack/lib-app/commit/7d7088f35) Prepare for release v0.24.0 (#179)
+- [dd9de1cc](https://github.com/kubepack/lib-app/commit/dd9de1ccd) Sync catalog bindings; Remove ferretbinding
+- [2e3a6163](https://github.com/kubepack/lib-app/commit/2e3a61639) fusion: keep full HelmRelease object in values.yaml (#177)
+
+
+
