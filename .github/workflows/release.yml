@@ -103,7 +103,7 @@ jobs:
 
       - name: Prepare Go for private repos
         run: |
-          go env -w GOPRIVATE=go.appscode.dev/*,github.com/appscode/*,go.bytebuilders.dev/*,go.opscenter.dev/*
+          go env -w GOPRIVATE=go.appscode.dev/*,github.com/appscode/*,go.bytebuilders.dev/*,go.opscenter.dev/*,go.open-pulse.dev/*
 
       - name: Verify PR is from same repo (not a fork)
         env:
