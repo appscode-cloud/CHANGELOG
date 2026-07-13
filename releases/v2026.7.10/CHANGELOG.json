@@ -1,7 +1,7 @@
 {
   "product_line": "ACE",
   "release": "v2026.7.10",
-  "release_date": "2026-07-12T20:22:17.421568014Z",
+  "release_date": "2026-07-13T07:56:47.27530505Z",
   "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
   "docs_url": "%!(EXTRA string=v2026.7.10)",
   "kubernetes_version": "1.28+",
@@ -23,6 +23,32 @@
             {
               "SHA": "6c3d23d0db",
               "Subject": "Preallocate slices and close healthz response body (#1558)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode-cloud/installer",
+      "releases": [
+        {
+          "tag": "v2026.7.10",
+          "commits": [
+            {
+              "SHA": "ec739356",
+              "Subject": "Prepare for release v2026.7.10 (#1300)"
+            },
+            {
+              "SHA": "95567425",
+              "Subject": "Add reproducible make targets for catalog and certified charts (#1301)"
+            },
+            {
+              "SHA": "46a85a85",
+              "Subject": "Propagate chart version to regcache dependency in ace-installer (#1299)"
+            },
+            {
+              "SHA": "8028dd4a",
+              "Subject": "Modernize golangci-lint config (#1298)"
             }
           ]
         }

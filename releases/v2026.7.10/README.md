@@ -1,4 +1,4 @@
-# ACE v2026.7.10 (2026-07-12)
+# ACE v2026.7.10 (2026-07-13)
 
 
 ## [appscode-cloud/b3](https://github.com/appscode-cloud/b3)
@@ -8,6 +8,17 @@
 - [f90ecc7e](https://github.com/appscode-cloud/b3/commit/f90ecc7e0d) Prepare for release v2026.7.10 (#1560)
 - [e766b5a7](https://github.com/appscode-cloud/b3/commit/e766b5a7d1) Modernize golangci-lint config, clean up all lint findings, and enable lint in CI (#1559)
 - [6c3d23d0](https://github.com/appscode-cloud/b3/commit/6c3d23d0db) Preallocate slices and close healthz response body (#1558)
+
+
+
+## [appscode-cloud/installer](https://github.com/appscode-cloud/installer)
+
+### [v2026.7.10](https://github.com/appscode-cloud/installer/releases/tag/v2026.7.10)
+
+- [ec739356](https://github.com/appscode-cloud/installer/commit/ec739356) Prepare for release v2026.7.10 (#1300)
+- [95567425](https://github.com/appscode-cloud/installer/commit/95567425) Add reproducible make targets for catalog and certified charts (#1301)
+- [46a85a85](https://github.com/appscode-cloud/installer/commit/46a85a85) Propagate chart version to regcache dependency in ace-installer (#1299)
+- [8028dd4a](https://github.com/appscode-cloud/installer/commit/8028dd4a) Modernize golangci-lint config (#1298)
 
 
 
