@@ -11,6 +11,14 @@
 
 
 
+## [appscode-cloud/docs](https://github.com/appscode-cloud/docs)
+
+### [v2026.7.10](https://github.com/appscode-cloud/docs/releases/tag/v2026.7.10)
+
+- [29f56bf](https://github.com/appscode-cloud/docs/commit/29f56bf) Prepare for release v2026.7.10 (#138)
+
+
+
 ## [appscode-cloud/installer](https://github.com/appscode-cloud/installer)
 
 ### [v2026.7.10](https://github.com/appscode-cloud/installer/releases/tag/v2026.7.10)

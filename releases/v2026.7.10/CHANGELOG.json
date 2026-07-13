@@ -1,7 +1,7 @@
 {
   "product_line": "ACE",
   "release": "v2026.7.10",
-  "release_date": "2026-07-13T07:56:47.27530505Z",
+  "release_date": "2026-07-13T08:06:45.738133745Z",
   "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
   "docs_url": "%!(EXTRA string=v2026.7.10)",
   "kubernetes_version": "1.28+",
@@ -23,6 +23,20 @@
             {
               "SHA": "6c3d23d0db",
               "Subject": "Preallocate slices and close healthz response body (#1558)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode-cloud/docs",
+      "releases": [
+        {
+          "tag": "v2026.7.10",
+          "commits": [
+            {
+              "SHA": "29f56bf",
+              "Subject": "Prepare for release v2026.7.10 (#138)"
             }
           ]
         }
