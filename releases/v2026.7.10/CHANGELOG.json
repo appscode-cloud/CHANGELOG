@@ -1,0 +1,250 @@
+{
+  "product_line": "ACE",
+  "release": "v2026.7.10",
+  "release_date": "2026-07-13T08:06:45.738133745Z",
+  "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
+  "docs_url": "%!(EXTRA string=v2026.7.10)",
+  "kubernetes_version": "1.28+",
+  "projects": [
+    {
+      "url": "github.com/appscode-cloud/b3",
+      "releases": [
+        {
+          "tag": "v2026.7.10",
+          "commits": [
+            {
+              "SHA": "f90ecc7e0d",
+              "Subject": "Prepare for release v2026.7.10 (#1560)"
+            },
+            {
+              "SHA": "e766b5a7d1",
+              "Subject": "Modernize golangci-lint config, clean up all lint findings, and enable lint in CI (#1559)"
+            },
+            {
+              "SHA": "6c3d23d0db",
+              "Subject": "Preallocate slices and close healthz response body (#1558)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode-cloud/docs",
+      "releases": [
+        {
+          "tag": "v2026.7.10",
+          "commits": [
+            {
+              "SHA": "29f56bf",
+              "Subject": "Prepare for release v2026.7.10 (#138)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode-cloud/installer",
+      "releases": [
+        {
+          "tag": "v2026.7.10",
+          "commits": [
+            {
+              "SHA": "ec739356",
+              "Subject": "Prepare for release v2026.7.10 (#1300)"
+            },
+            {
+              "SHA": "95567425",
+              "Subject": "Add reproducible make targets for catalog and certified charts (#1301)"
+            },
+            {
+              "SHA": "46a85a85",
+              "Subject": "Propagate chart version to regcache dependency in ace-installer (#1299)"
+            },
+            {
+              "SHA": "8028dd4a",
+              "Subject": "Modernize golangci-lint config (#1298)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode-cloud/ui-wizards",
+      "releases": [
+        {
+          "tag": "v0.36.0",
+          "commits": [
+            {
+              "SHA": "e2b93a81b",
+              "Subject": "Prepare for release v0.36.0 (#1083)"
+            },
+            {
+              "SHA": "ca807994c",
+              "Subject": "Modernize golangci-lint config (#1082)"
+            },
+            {
+              "SHA": "ffa9ab383",
+              "Subject": "fix resource init and validation in vertical scaling ops (#1081)"
+            },
+            {
+              "SHA": "5a1452d44",
+              "Subject": "Set storage-metrics-server chart version to v0.1.0"
+            },
+            {
+              "SHA": "a8a7507c3",
+              "Subject": "Generate editors (#1080)"
+            },
+            {
+              "SHA": "e44adf553",
+              "Subject": "fix mongodb horizons conditions (#1079)"
+            },
+            {
+              "SHA": "82ad918d4",
+              "Subject": "Remove ferretdb"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode/website",
+      "releases": [
+        {
+          "tag": "v2026.7.10",
+          "commits": [
+            {
+              "SHA": "0b246ffe",
+              "Subject": "Prepare for release v2026.7.10 (#217)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kmodules/image-packer",
+      "releases": [
+        {
+          "tag": "v2026.7.10",
+          "commits": [
+            {
+              "SHA": "18b029a2",
+              "Subject": "Prepare for release v2026.7.10 (#59)"
+            },
+            {
+              "SHA": "a8bd9927",
+              "Subject": "Expand ${...} image tags using availableVersions (#58)"
+            },
+            {
+              "SHA": "ec36f527",
+              "Subject": "Modernize golangci-lint config (#57)"
+            },
+            {
+              "SHA": "ed3c452e",
+              "Subject": "Pass ci/ci-values.yaml to helm template when present (#56)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kmodules/resource-metadata",
+      "releases": [
+        {
+          "tag": "v0.48.0",
+          "commits": [
+            {
+              "SHA": "ae8fcd22e",
+              "Subject": "Prepare for release v0.48.0 (#658)"
+            },
+            {
+              "SHA": "f060724a6",
+              "Subject": "KubeDB / KubeStash v2026.7.10"
+            },
+            {
+              "SHA": "cae64e5bc",
+              "Subject": "Modernize golangci-lint config (#657)"
+            },
+            {
+              "SHA": "57e639408",
+              "Subject": "Sync catalog bindings"
+            },
+            {
+              "SHA": "b5c0d799a",
+              "Subject": "Update for datastore & ops"
+            },
+            {
+              "SHA": "9e2d67a3f",
+              "Subject": "Sync digests"
+            },
+            {
+              "SHA": "4e9dbd2f9",
+              "Subject": "Grafana Dashboards -> Dashboards"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubeops/installer",
+      "releases": [
+        {
+          "tag": "v2026.7.10",
+          "commits": [
+            {
+              "SHA": "29761e3b",
+              "Subject": "Prepare for release v2026.7.10 (#505)"
+            },
+            {
+              "SHA": "3d2d92b0",
+              "Subject": "Modernize golangci-lint config (#504)"
+            },
+            {
+              "SHA": "53f65b9d",
+              "Subject": "[Update SideKick ClusterRole] Add Snapshot, ServiceExport Permission (#489)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubeops/ui-server",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "57fdaa2c7",
+              "Subject": "Prepare for release v0.6.0 (#436)"
+            },
+            {
+              "SHA": "10ce260b2",
+              "Subject": "Modernize golangci-lint config and switch formatter to gofumpt (#435)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubepack/lib-app",
+      "releases": [
+        {
+          "tag": "v0.24.0",
+          "commits": [
+            {
+              "SHA": "7d7088f35",
+              "Subject": "Prepare for release v0.24.0 (#179)"
+            },
+            {
+              "SHA": "dd9de1ccd",
+              "Subject": "Sync catalog bindings; Remove ferretbinding"
+            },
+            {
+              "SHA": "2e3a61639",
+              "Subject": "fusion: keep full HelmRelease object in values.yaml (#177)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
