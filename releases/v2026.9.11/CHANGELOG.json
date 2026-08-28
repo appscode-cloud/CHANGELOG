@@ -1,0 +1,44 @@
+{
+  "product_line": "ACE",
+  "release": "v2026.9.11",
+  "release_date": "2026-08-28T09:29:16.686518645Z",
+  "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
+  "docs_url": "%!(EXTRA string=v2026.9.11)",
+  "kubernetes_version": "1.28+",
+  "projects": [
+    {
+      "url": "github.com/appscode-cloud/ui-wizards",
+      "releases": [
+        {
+          "tag": "v0.37.0",
+          "commits": [
+            {
+              "SHA": "31ae58989",
+              "Subject": "Prepare for release v0.37.0 (#1154)"
+            },
+            {
+              "SHA": "20e2cfe9e",
+              "Subject": "Qdrant db tls reconfigure(add enable client & p2p ) (#1152)"
+            },
+            {
+              "SHA": "298a186fa",
+              "Subject": "fix object cloning to prevent duplicate YAML anchors (#1150)"
+            },
+            {
+              "SHA": "f7c22a45e",
+              "Subject": "fix: singlestore ops issues (#1149)"
+            },
+            {
+              "SHA": "7771441d8",
+              "Subject": "Set fsGroup for Neo4j backup and restore jobs (#1151)"
+            },
+            {
+              "SHA": "052d01f10",
+              "Subject": "fix reconfig issues in multi mode & storage class in create page (#1148)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
