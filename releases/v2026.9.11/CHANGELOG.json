@@ -1,7 +1,7 @@
 {
   "product_line": "ACE",
   "release": "v2026.9.11",
-  "release_date": "2026-08-28T09:58:52.801889499Z",
+  "release_date": "2026-08-28T09:59:18.961513151Z",
   "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
   "docs_url": "%!(EXTRA string=v2026.9.11)",
   "kubernetes_version": "1.28+",
@@ -49,6 +49,24 @@
             {
               "SHA": "8b93605c",
               "Subject": "Prepare for release v2026.9.11 (#219)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kmodules/image-packer",
+      "releases": [
+        {
+          "tag": "v2026.9.11",
+          "commits": [
+            {
+              "SHA": "4ee8d7b9",
+              "Subject": "Prepare for release v2026.9.11 (#62)"
+            },
+            {
+              "SHA": "3bdf20c5",
+              "Subject": "ace-up: list the acaas chart in catalog/ace.yaml (#61)"
             }
           ]
         }

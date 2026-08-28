@@ -22,6 +22,15 @@
 
 
 
+## [kmodules/image-packer](https://github.com/kmodules/image-packer)
+
+### [v2026.9.11](https://github.com/kmodules/image-packer/releases/tag/v2026.9.11)
+
+- [4ee8d7b9](https://github.com/kmodules/image-packer/commit/4ee8d7b9) Prepare for release v2026.9.11 (#62)
+- [3bdf20c5](https://github.com/kmodules/image-packer/commit/3bdf20c5) ace-up: list the acaas chart in catalog/ace.yaml (#61)
+
+
+
 ## [kmodules/resource-metadata](https://github.com/kmodules/resource-metadata)
 
 ### [v0.49.0](https://github.com/kmodules/resource-metadata/releases/tag/v0.49.0)
