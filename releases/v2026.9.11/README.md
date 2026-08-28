@@ -14,3 +14,24 @@
 
 
 
+## [kmodules/resource-metadata](https://github.com/kmodules/resource-metadata)
+
+### [v0.49.0](https://github.com/kmodules/resource-metadata/releases/tag/v0.49.0)
+
+- [71f63090](https://github.com/kmodules/resource-metadata/commit/71f630904) Prepare for release v0.49.0 (#670)
+- [ad726603](https://github.com/kmodules/resource-metadata/commit/ad726603c) Skip non-YAML files in check-schema (#669)
+- [44751b2d](https://github.com/kmodules/resource-metadata/commit/44751b2d8) Sync KubeDB ResourceDashboards with the dashboard charts (#668)
+- [fa5b82af](https://github.com/kmodules/resource-metadata/commit/fa5b82af1) Rename milvus.svg to milvuses.svg (#667)
+- [8aa4c9a8](https://github.com/kmodules/resource-metadata/commit/8aa4c9a82) Sort recent backup & restore session lists newest first (#666)
+- [87095b16](https://github.com/kmodules/resource-metadata/commit/87095b161) Fix horizontalScale page for pgpool & pgbouncer
+- [ce619204](https://github.com/kmodules/resource-metadata/commit/ce6192047) Make OpsRequest name column a link (#665)
+- [4ed87fbd](https://github.com/kmodules/resource-metadata/commit/4ed87fbd7) Make RestoreSession name column a link (#664)
+- [7ae95b5f](https://github.com/kmodules/resource-metadata/commit/7ae95b5f7) Add exec connection options to remaining kubedb resource descriptors (#663)
+- [aa288658](https://github.com/kmodules/resource-metadata/commit/aa2886580) Add telemetry stack descriptor (#660)
+- [f13b7a61](https://github.com/kmodules/resource-metadata/commit/f13b7a614) Normalize kubedb connections and add missing dbs to recommendation/backup RDs (#662)
+- [9769f352](https://github.com/kmodules/resource-metadata/commit/9769f352a) Add ops connections and recommendation blocks for newer databases (#661)
+- [cb240e63](https://github.com/kmodules/resource-metadata/commit/cb240e637) Add missing descriptors (#659)
+- [b5ef2148](https://github.com/kmodules/resource-metadata/commit/b5ef21485) Don't silently fail FS() on bad directory
+
+
+
