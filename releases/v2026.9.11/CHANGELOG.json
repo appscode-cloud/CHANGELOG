@@ -1,0 +1,246 @@
+{
+  "product_line": "ACE",
+  "release": "v2026.9.11",
+  "release_date": "2026-08-28T12:03:30.676061997Z",
+  "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
+  "docs_url": "%!(EXTRA string=v2026.9.11)",
+  "kubernetes_version": "1.28+",
+  "projects": [
+    {
+      "url": "github.com/appscode-cloud/b3",
+      "releases": [
+        {
+          "tag": "v2026.9.11",
+          "commits": [
+            {
+              "SHA": "6d24e6eac0",
+              "Subject": "Prepare for release v2026.9.11 (#1629)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode-cloud/docs",
+      "releases": [
+        {
+          "tag": "v2026.9.11",
+          "commits": [
+            {
+              "SHA": "1530f5d",
+              "Subject": "Prepare for release v2026.9.11 (#152)"
+            },
+            {
+              "SHA": "4e77b96",
+              "Subject": "docs(monitoring): update alertmanager webhook configuration (#151)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode-cloud/installer",
+      "releases": [
+        {
+          "tag": "v2026.9.11",
+          "commits": [
+            {
+              "SHA": "17621809",
+              "Subject": "Prepare for release v2026.9.11 (#1326)"
+            },
+            {
+              "SHA": "1f91bb17",
+              "Subject": "Update snapshot-controller version"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode-cloud/ui-wizards",
+      "releases": [
+        {
+          "tag": "v0.37.0",
+          "commits": [
+            {
+              "SHA": "31ae58989",
+              "Subject": "Prepare for release v0.37.0 (#1154)"
+            },
+            {
+              "SHA": "20e2cfe9e",
+              "Subject": "Qdrant db tls reconfigure(add enable client & p2p ) (#1152)"
+            },
+            {
+              "SHA": "298a186fa",
+              "Subject": "fix object cloning to prevent duplicate YAML anchors (#1150)"
+            },
+            {
+              "SHA": "f7c22a45e",
+              "Subject": "fix: singlestore ops issues (#1149)"
+            },
+            {
+              "SHA": "7771441d8",
+              "Subject": "Set fsGroup for Neo4j backup and restore jobs (#1151)"
+            },
+            {
+              "SHA": "052d01f10",
+              "Subject": "fix reconfig issues in multi mode & storage class in create page (#1148)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode/website",
+      "releases": [
+        {
+          "tag": "v2026.9.11",
+          "commits": [
+            {
+              "SHA": "8b93605c",
+              "Subject": "Prepare for release v2026.9.11 (#219)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kmodules/image-packer",
+      "releases": [
+        {
+          "tag": "v2026.9.11",
+          "commits": [
+            {
+              "SHA": "4ee8d7b9",
+              "Subject": "Prepare for release v2026.9.11 (#62)"
+            },
+            {
+              "SHA": "3bdf20c5",
+              "Subject": "ace-up: list the acaas chart in catalog/ace.yaml (#61)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kmodules/resource-metadata",
+      "releases": [
+        {
+          "tag": "v0.49.0",
+          "commits": [
+            {
+              "SHA": "71f630904",
+              "Subject": "Prepare for release v0.49.0 (#670)"
+            },
+            {
+              "SHA": "ad726603c",
+              "Subject": "Skip non-YAML files in check-schema (#669)"
+            },
+            {
+              "SHA": "44751b2d8",
+              "Subject": "Sync KubeDB ResourceDashboards with the dashboard charts (#668)"
+            },
+            {
+              "SHA": "fa5b82af1",
+              "Subject": "Rename milvus.svg to milvuses.svg (#667)"
+            },
+            {
+              "SHA": "8aa4c9a82",
+              "Subject": "Sort recent backup & restore session lists newest first (#666)"
+            },
+            {
+              "SHA": "87095b161",
+              "Subject": "Fix horizontalScale page for pgpool & pgbouncer"
+            },
+            {
+              "SHA": "ce6192047",
+              "Subject": "Make OpsRequest name column a link (#665)"
+            },
+            {
+              "SHA": "4ed87fbd7",
+              "Subject": "Make RestoreSession name column a link (#664)"
+            },
+            {
+              "SHA": "7ae95b5f7",
+              "Subject": "Add exec connection options to remaining kubedb resource descriptors (#663)"
+            },
+            {
+              "SHA": "aa2886580",
+              "Subject": "Add telemetry stack descriptor (#660)"
+            },
+            {
+              "SHA": "f13b7a614",
+              "Subject": "Normalize kubedb connections and add missing dbs to recommendation/backup RDs (#662)"
+            },
+            {
+              "SHA": "9769f352a",
+              "Subject": "Add ops connections and recommendation blocks for newer databases (#661)"
+            },
+            {
+              "SHA": "cb240e637",
+              "Subject": "Add missing descriptors (#659)"
+            },
+            {
+              "SHA": "b5ef21485",
+              "Subject": "Don't silently fail FS() on bad directory"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubeops/installer",
+      "releases": [
+        {
+          "tag": "v2026.9.11",
+          "commits": [
+            {
+              "SHA": "d8ce0857",
+              "Subject": "Prepare for release v2026.9.11 (#512)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubeops/ui-server",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "9bc5f88f4",
+              "Subject": "Prepare for release v0.7.0 (#443)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubepack/lib-app",
+      "releases": [
+        {
+          "tag": "v0.25.0",
+          "commits": [
+            {
+              "SHA": "beb791eb8",
+              "Subject": "Prepare for release v0.25.0 (#185)"
+            },
+            {
+              "SHA": "acaaef9a5",
+              "Subject": "Generate alert form templates for clickhouse and weaviate (#181)"
+            },
+            {
+              "SHA": "e3f0cb2cb",
+              "Subject": "Update for release ACE@v2026.7.10 (#180)"
+            },
+            {
+              "SHA": "821f8e95c",
+              "Subject": "Add aerospike"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

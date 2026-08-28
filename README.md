@@ -2,6 +2,7 @@
 
 |  Version | Release Date | User Guide | Changelog | Kubernetes Version |
 |--------------------------- | ------------ | ---------- | --------- | ------------------ |
+| [v2026.9.11](https:/github.com/appscode-cloud/CHANGELOG/releases/tag/v2026.9.11) | 2026-08-28 | [User Guide](%!(EXTRA string=v2026.9.11)) | [CHANGELOG](/releases/v2026.9.11/README.md) | 1.28+ |
 | [v2026.7.10](https:/github.com/appscode-cloud/CHANGELOG/releases/tag/v2026.7.10) | 2026-07-13 | [User Guide](%!(EXTRA string=v2026.7.10)) | [CHANGELOG](/releases/v2026.7.10/README.md) | 1.28+ |
 | [v2026.6.19](https:/github.com/appscode-cloud/CHANGELOG/releases/tag/v2026.6.19) | 2026-06-22 | [User Guide](%!(EXTRA string=v2026.6.19)) | [CHANGELOG](/releases/v2026.6.19/README.md) | 1.28+ |
 | [v2026.6.12](https:/github.com/appscode-cloud/CHANGELOG/releases/tag/v2026.6.12) | 2026-06-03 | [User Guide](%!(EXTRA string=v2026.6.12)) | [CHANGELOG](/releases/v2026.6.12/README.md) | 1.28+ |
