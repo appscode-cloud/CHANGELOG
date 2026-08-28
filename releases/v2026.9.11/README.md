@@ -60,6 +60,14 @@
 
 
 
+## [kubeops/installer](https://github.com/kubeops/installer)
+
+### [v2026.9.11](https://github.com/kubeops/installer/releases/tag/v2026.9.11)
+
+- [d8ce0857](https://github.com/kubeops/installer/commit/d8ce0857) Prepare for release v2026.9.11 (#512)
+
+
+
 ## [kubeops/ui-server](https://github.com/kubeops/ui-server)
 
 ### [v0.7.0](https://github.com/kubeops/ui-server/releases/tag/v0.7.0)

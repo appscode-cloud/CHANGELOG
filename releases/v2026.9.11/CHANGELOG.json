@@ -1,7 +1,7 @@
 {
   "product_line": "ACE",
   "release": "v2026.9.11",
-  "release_date": "2026-08-28T11:01:28.814406468Z",
+  "release_date": "2026-08-28T11:37:45.924946288Z",
   "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
   "docs_url": "%!(EXTRA string=v2026.9.11)",
   "kubernetes_version": "1.28+",
@@ -147,6 +147,20 @@
             {
               "SHA": "b5ef21485",
               "Subject": "Don't silently fail FS() on bad directory"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubeops/installer",
+      "releases": [
+        {
+          "tag": "v2026.9.11",
+          "commits": [
+            {
+              "SHA": "d8ce0857",
+              "Subject": "Prepare for release v2026.9.11 (#512)"
             }
           ]
         }
