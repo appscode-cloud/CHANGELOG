@@ -1,7 +1,7 @@
 {
   "product_line": "ACE",
   "release": "v2026.9.11",
-  "release_date": "2026-08-28T09:57:38.368537656Z",
+  "release_date": "2026-08-28T09:58:52.801889499Z",
   "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
   "docs_url": "%!(EXTRA string=v2026.9.11)",
   "kubernetes_version": "1.28+",
@@ -35,6 +35,20 @@
             {
               "SHA": "052d01f10",
               "Subject": "fix reconfig issues in multi mode & storage class in create page (#1148)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode/website",
+      "releases": [
+        {
+          "tag": "v2026.9.11",
+          "commits": [
+            {
+              "SHA": "8b93605c",
+              "Subject": "Prepare for release v2026.9.11 (#219)"
             }
           ]
         }
