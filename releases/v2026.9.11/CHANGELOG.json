@@ -1,7 +1,7 @@
 {
   "product_line": "ACE",
   "release": "v2026.9.11",
-  "release_date": "2026-08-28T11:37:45.924946288Z",
+  "release_date": "2026-08-28T11:44:34.717958811Z",
   "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
   "docs_url": "%!(EXTRA string=v2026.9.11)",
   "kubernetes_version": "1.28+",
@@ -15,6 +15,24 @@
             {
               "SHA": "6d24e6eac0",
               "Subject": "Prepare for release v2026.9.11 (#1629)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode-cloud/installer",
+      "releases": [
+        {
+          "tag": "v2026.9.11",
+          "commits": [
+            {
+              "SHA": "17621809",
+              "Subject": "Prepare for release v2026.9.11 (#1326)"
+            },
+            {
+              "SHA": "1f91bb17",
+              "Subject": "Update snapshot-controller version"
             }
           ]
         }

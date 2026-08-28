@@ -9,6 +9,15 @@
 
 
 
+## [appscode-cloud/installer](https://github.com/appscode-cloud/installer)
+
+### [v2026.9.11](https://github.com/appscode-cloud/installer/releases/tag/v2026.9.11)
+
+- [17621809](https://github.com/appscode-cloud/installer/commit/17621809) Prepare for release v2026.9.11 (#1326)
+- [1f91bb17](https://github.com/appscode-cloud/installer/commit/1f91bb17) Update snapshot-controller version
+
+
+
 ## [appscode-cloud/ui-wizards](https://github.com/appscode-cloud/ui-wizards)
 
 ### [v0.37.0](https://github.com/appscode-cloud/ui-wizards/releases/tag/v0.37.0)
