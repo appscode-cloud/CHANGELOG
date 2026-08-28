@@ -9,6 +9,15 @@
 
 
 
+## [appscode-cloud/docs](https://github.com/appscode-cloud/docs)
+
+### [v2026.9.11](https://github.com/appscode-cloud/docs/releases/tag/v2026.9.11)
+
+- [1530f5d](https://github.com/appscode-cloud/docs/commit/1530f5d) Prepare for release v2026.9.11 (#152)
+- [4e77b96](https://github.com/appscode-cloud/docs/commit/4e77b96) docs(monitoring): update alertmanager webhook configuration (#151)
+
+
+
 ## [appscode-cloud/installer](https://github.com/appscode-cloud/installer)
 
 ### [v2026.9.11](https://github.com/appscode-cloud/installer/releases/tag/v2026.9.11)
