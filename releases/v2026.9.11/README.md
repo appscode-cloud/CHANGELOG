@@ -60,3 +60,14 @@
 
 
 
+## [kubepack/lib-app](https://github.com/kubepack/lib-app)
+
+### [v0.25.0](https://github.com/kubepack/lib-app/releases/tag/v0.25.0)
+
+- [beb791eb](https://github.com/kubepack/lib-app/commit/beb791eb8) Prepare for release v0.25.0 (#185)
+- [acaaef9a](https://github.com/kubepack/lib-app/commit/acaaef9a5) Generate alert form templates for clickhouse and weaviate (#181)
+- [e3f0cb2c](https://github.com/kubepack/lib-app/commit/e3f0cb2cb) Update for release ACE@v2026.7.10 (#180)
+- [821f8e95](https://github.com/kubepack/lib-app/commit/821f8e95c) Add aerospike
+
+
+

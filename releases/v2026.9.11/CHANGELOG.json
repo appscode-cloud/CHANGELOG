@@ -1,7 +1,7 @@
 {
   "product_line": "ACE",
   "release": "v2026.9.11",
-  "release_date": "2026-08-28T09:59:18.961513151Z",
+  "release_date": "2026-08-28T10:56:28.317372271Z",
   "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
   "docs_url": "%!(EXTRA string=v2026.9.11)",
   "kubernetes_version": "1.28+",
@@ -147,6 +147,32 @@
             {
               "SHA": "9bc5f88f4",
               "Subject": "Prepare for release v0.7.0 (#443)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubepack/lib-app",
+      "releases": [
+        {
+          "tag": "v0.25.0",
+          "commits": [
+            {
+              "SHA": "beb791eb8",
+              "Subject": "Prepare for release v0.25.0 (#185)"
+            },
+            {
+              "SHA": "acaaef9a5",
+              "Subject": "Generate alert form templates for clickhouse and weaviate (#181)"
+            },
+            {
+              "SHA": "e3f0cb2cb",
+              "Subject": "Update for release ACE@v2026.7.10 (#180)"
+            },
+            {
+              "SHA": "821f8e95c",
+              "Subject": "Add aerospike"
             }
           ]
         }
