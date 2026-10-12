@@ -51,6 +51,17 @@
 
 
 
+## [kubeops/installer](https://github.com/kubeops/installer)
+
+### [v2026.10.12](https://github.com/kubeops/installer/releases/tag/v2026.10.12)
+
+- [04912000](https://github.com/kubeops/installer/commit/04912000) Prepare for release v2026.10.12 (#525)
+- [b4b70544](https://github.com/kubeops/installer/commit/b4b70544) Use Go 1.27, k8s 1.37 & debian:13 (#524)
+- [441454fb](https://github.com/kubeops/installer/commit/441454fb) Add dr-controlplane and dr-controlplane-agent charts (#523)
+- [0e28f207](https://github.com/kubeops/installer/commit/0e28f207) petset: add the FailoverGroup CRD and user roles (#522)
+
+
+
 ## [kubeops/ui-server](https://github.com/kubeops/ui-server)
 
 ### [v0.8.0](https://github.com/kubeops/ui-server/releases/tag/v0.8.0)

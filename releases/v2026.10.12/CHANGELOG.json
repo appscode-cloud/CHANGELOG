@@ -1,7 +1,7 @@
 {
   "product_line": "ACE",
   "release": "v2026.10.12",
-  "release_date": "2026-10-12T09:33:20.233320227Z",
+  "release_date": "2026-10-12T10:47:13.549446974Z",
   "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
   "docs_url": "%!(EXTRA string=v2026.10.12)",
   "kubernetes_version": "1.28+",
@@ -110,6 +110,32 @@
             {
               "SHA": "c2a495cc2",
               "Subject": "Fix missing Milvus & DocumentDB icons (#671)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubeops/installer",
+      "releases": [
+        {
+          "tag": "v2026.10.12",
+          "commits": [
+            {
+              "SHA": "04912000",
+              "Subject": "Prepare for release v2026.10.12 (#525)"
+            },
+            {
+              "SHA": "b4b70544",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#524)"
+            },
+            {
+              "SHA": "441454fb",
+              "Subject": "Add dr-controlplane and dr-controlplane-agent charts (#523)"
+            },
+            {
+              "SHA": "0e28f207",
+              "Subject": "petset: add the FailoverGroup CRD and user roles (#522)"
             }
           ]
         }
