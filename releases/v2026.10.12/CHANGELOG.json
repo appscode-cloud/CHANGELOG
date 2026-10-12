@@ -1,0 +1,220 @@
+{
+  "product_line": "ACE",
+  "release": "v2026.10.12",
+  "release_date": "2026-10-12T11:07:25.281796175Z",
+  "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
+  "docs_url": "%!(EXTRA string=v2026.10.12)",
+  "kubernetes_version": "1.28+",
+  "projects": [
+    {
+      "url": "github.com/appscode-cloud/b3",
+      "releases": [
+        {
+          "tag": "v2026.10.12",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode-cloud/docs",
+      "releases": [
+        {
+          "tag": "v2026.10.12",
+          "commits": [
+            {
+              "SHA": "8661271",
+              "Subject": "Prepare for release v2026.10.12 (#156)"
+            },
+            {
+              "SHA": "e0751bd",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#155)"
+            },
+            {
+              "SHA": "f48bfcf",
+              "Subject": "docs(cluster-management): add hub and spoke feature sets guide (#154)"
+            },
+            {
+              "SHA": "dfdb983",
+              "Subject": "docs(api): sync API reference with the b3 router (#153)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode-cloud/installer",
+      "releases": [
+        {
+          "tag": "v2026.10.12",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode-cloud/ui-wizards",
+      "releases": [
+        {
+          "tag": "v0.38.0",
+          "commits": [
+            {
+              "SHA": "1001c3544",
+              "Subject": "Prepare for release v0.38.0 (#1200)"
+            },
+            {
+              "SHA": "8274bd68f",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#1199)"
+            },
+            {
+              "SHA": "63e2f9451",
+              "Subject": "fix history issue (#1198)"
+            },
+            {
+              "SHA": "7eea3c23c",
+              "Subject": "fix new mode issues in presets form (#1197)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode/website",
+      "releases": [
+        {
+          "tag": "v2026.10.12",
+          "commits": [
+            {
+              "SHA": "02af45b7",
+              "Subject": "Prepare for release v2026.10.12 (#221)"
+            },
+            {
+              "SHA": "a1381723",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#220)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kmodules/image-packer",
+      "releases": [
+        {
+          "tag": "v2026.10.12",
+          "commits": [
+            {
+              "SHA": "e1541d96",
+              "Subject": "Prepare for release v2026.10.12 (#64)"
+            },
+            {
+              "SHA": "7e3461ba",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#63)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kmodules/resource-metadata",
+      "releases": [
+        {
+          "tag": "v0.50.0",
+          "commits": [
+            {
+              "SHA": "b7d82742b",
+              "Subject": "Prepare for release v0.50.0 (#677)"
+            },
+            {
+              "SHA": "e0b55ee73",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#676)"
+            },
+            {
+              "SHA": "a7e699f90",
+              "Subject": "Add TenantInfo to GenericResourceSpec (#674)"
+            },
+            {
+              "SHA": "d98acc90e",
+              "Subject": "Add milvus Insights"
+            },
+            {
+              "SHA": "47d659f8c",
+              "Subject": "Add backup & restore actions for Milvus (#673)"
+            },
+            {
+              "SHA": "d79fb62ea",
+              "Subject": "Migrate code generation to kube_codegen.sh, bump to gengo-builder release-1.34 (#672)"
+            },
+            {
+              "SHA": "c2a495cc2",
+              "Subject": "Fix missing Milvus & DocumentDB icons (#671)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubeops/installer",
+      "releases": [
+        {
+          "tag": "v2026.10.12",
+          "commits": [
+            {
+              "SHA": "04912000",
+              "Subject": "Prepare for release v2026.10.12 (#525)"
+            },
+            {
+              "SHA": "b4b70544",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#524)"
+            },
+            {
+              "SHA": "441454fb",
+              "Subject": "Add dr-controlplane and dr-controlplane-agent charts (#523)"
+            },
+            {
+              "SHA": "0e28f207",
+              "Subject": "petset: add the FailoverGroup CRD and user roles (#522)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubeops/ui-server",
+      "releases": [
+        {
+          "tag": "v0.8.0",
+          "commits": [
+            {
+              "SHA": "c5202cc72",
+              "Subject": "Prepare for release v0.8.0 (#455)"
+            },
+            {
+              "SHA": "83ed387fe",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#454)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubepack/lib-app",
+      "releases": [
+        {
+          "tag": "v0.26.0",
+          "commits": [
+            {
+              "SHA": "ab8f23ddd",
+              "Subject": "Prepare for release v0.26.0 (#193)"
+            },
+            {
+              "SHA": "4bcdd5f4a",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#192)"
+            },
+            {
+              "SHA": "ef468ee50",
+              "Subject": "Keep existing HelmRelease namespaces when rendering feature values (#190)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
