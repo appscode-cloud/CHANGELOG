@@ -12,3 +12,17 @@
 
 
 
+## [kmodules/resource-metadata](https://github.com/kmodules/resource-metadata)
+
+### [v0.50.0](https://github.com/kmodules/resource-metadata/releases/tag/v0.50.0)
+
+- [b7d82742](https://github.com/kmodules/resource-metadata/commit/b7d82742b) Prepare for release v0.50.0 (#677)
+- [e0b55ee7](https://github.com/kmodules/resource-metadata/commit/e0b55ee73) Use Go 1.27, k8s 1.37 & debian:13 (#676)
+- [a7e699f9](https://github.com/kmodules/resource-metadata/commit/a7e699f90) Add TenantInfo to GenericResourceSpec (#674)
+- [d98acc90](https://github.com/kmodules/resource-metadata/commit/d98acc90e) Add milvus Insights
+- [47d659f8](https://github.com/kmodules/resource-metadata/commit/47d659f8c) Add backup & restore actions for Milvus (#673)
+- [d79fb62e](https://github.com/kmodules/resource-metadata/commit/d79fb62ea) Migrate code generation to kube_codegen.sh, bump to gengo-builder release-1.34 (#672)
+- [c2a495cc](https://github.com/kmodules/resource-metadata/commit/c2a495cc2) Fix missing Milvus & DocumentDB icons (#671)
+
+
+
