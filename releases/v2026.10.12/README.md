@@ -53,3 +53,13 @@
 
 
 
+## [kubepack/lib-app](https://github.com/kubepack/lib-app)
+
+### [v0.26.0](https://github.com/kubepack/lib-app/releases/tag/v0.26.0)
+
+- [ab8f23dd](https://github.com/kubepack/lib-app/commit/ab8f23ddd) Prepare for release v0.26.0 (#193)
+- [4bcdd5f4](https://github.com/kubepack/lib-app/commit/4bcdd5f4a) Use Go 1.27, k8s 1.37 & debian:13 (#192)
+- [ef468ee5](https://github.com/kubepack/lib-app/commit/ef468ee50) Keep existing HelmRelease namespaces when rendering feature values (#190)
+
+
+

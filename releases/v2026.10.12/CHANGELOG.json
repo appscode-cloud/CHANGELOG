@@ -1,7 +1,7 @@
 {
   "product_line": "ACE",
   "release": "v2026.10.12",
-  "release_date": "2026-10-12T09:19:15.397049188Z",
+  "release_date": "2026-10-12T09:28:18.907288284Z",
   "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
   "docs_url": "%!(EXTRA string=v2026.10.12)",
   "kubernetes_version": "1.28+",
@@ -119,6 +119,28 @@
             {
               "SHA": "83ed387fe",
               "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#454)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubepack/lib-app",
+      "releases": [
+        {
+          "tag": "v0.26.0",
+          "commits": [
+            {
+              "SHA": "ab8f23ddd",
+              "Subject": "Prepare for release v0.26.0 (#193)"
+            },
+            {
+              "SHA": "4bcdd5f4a",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#192)"
+            },
+            {
+              "SHA": "ef468ee50",
+              "Subject": "Keep existing HelmRelease namespaces when rendering feature values (#190)"
             }
           ]
         }
