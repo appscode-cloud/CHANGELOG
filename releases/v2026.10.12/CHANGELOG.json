@@ -1,7 +1,7 @@
 {
   "product_line": "ACE",
   "release": "v2026.10.12",
-  "release_date": "2026-10-12T09:18:14.432941285Z",
+  "release_date": "2026-10-12T09:18:27.016021852Z",
   "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
   "docs_url": "%!(EXTRA string=v2026.10.12)",
   "kubernetes_version": "1.28+",
@@ -83,6 +83,24 @@
             {
               "SHA": "c2a495cc2",
               "Subject": "Fix missing Milvus & DocumentDB icons (#671)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubeops/ui-server",
+      "releases": [
+        {
+          "tag": "v0.8.0",
+          "commits": [
+            {
+              "SHA": "c5202cc72",
+              "Subject": "Prepare for release v0.8.0 (#455)"
+            },
+            {
+              "SHA": "83ed387fe",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#454)"
             }
           ]
         }

@@ -35,3 +35,12 @@
 
 
 
+## [kubeops/ui-server](https://github.com/kubeops/ui-server)
+
+### [v0.8.0](https://github.com/kubeops/ui-server/releases/tag/v0.8.0)
+
+- [c5202cc7](https://github.com/kubeops/ui-server/commit/c5202cc72) Prepare for release v0.8.0 (#455)
+- [83ed387f](https://github.com/kubeops/ui-server/commit/83ed387fe) Use Go 1.27, k8s 1.37 & debian:13 (#454)
+
+
+
