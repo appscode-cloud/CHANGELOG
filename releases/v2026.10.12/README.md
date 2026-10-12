@@ -21,6 +21,15 @@
 
 
 
+## [kmodules/image-packer](https://github.com/kmodules/image-packer)
+
+### [v2026.10.12](https://github.com/kmodules/image-packer/releases/tag/v2026.10.12)
+
+- [e1541d96](https://github.com/kmodules/image-packer/commit/e1541d96) Prepare for release v2026.10.12 (#64)
+- [7e3461ba](https://github.com/kmodules/image-packer/commit/7e3461ba) Use Go 1.27, k8s 1.37 & debian:13 (#63)
+
+
+
 ## [kmodules/resource-metadata](https://github.com/kmodules/resource-metadata)
 
 ### [v0.50.0](https://github.com/kmodules/resource-metadata/releases/tag/v0.50.0)
