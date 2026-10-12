@@ -12,6 +12,15 @@
 
 
 
+## [appscode/website](https://github.com/appscode/website)
+
+### [v2026.10.12](https://github.com/appscode/website/releases/tag/v2026.10.12)
+
+- [02af45b7](https://github.com/appscode/website/commit/02af45b7) Prepare for release v2026.10.12 (#221)
+- [a1381723](https://github.com/appscode/website/commit/a1381723) Use Go 1.27, k8s 1.37 & debian:13 (#220)
+
+
+
 ## [kmodules/resource-metadata](https://github.com/kmodules/resource-metadata)
 
 ### [v0.50.0](https://github.com/kmodules/resource-metadata/releases/tag/v0.50.0)

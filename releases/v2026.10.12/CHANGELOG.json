@@ -1,7 +1,7 @@
 {
   "product_line": "ACE",
   "release": "v2026.10.12",
-  "release_date": "2026-10-12T09:13:47.211136093Z",
+  "release_date": "2026-10-12T09:18:14.432941285Z",
   "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
   "docs_url": "%!(EXTRA string=v2026.10.12)",
   "kubernetes_version": "1.28+",
@@ -27,6 +27,24 @@
             {
               "SHA": "7eea3c23c",
               "Subject": "fix new mode issues in presets form (#1197)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode/website",
+      "releases": [
+        {
+          "tag": "v2026.10.12",
+          "commits": [
+            {
+              "SHA": "02af45b7",
+              "Subject": "Prepare for release v2026.10.12 (#221)"
+            },
+            {
+              "SHA": "a1381723",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#220)"
             }
           ]
         }
