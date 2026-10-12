@@ -8,6 +8,17 @@
 
 
 
+## [appscode-cloud/docs](https://github.com/appscode-cloud/docs)
+
+### [v2026.10.12](https://github.com/appscode-cloud/docs/releases/tag/v2026.10.12)
+
+- [8661271](https://github.com/appscode-cloud/docs/commit/8661271) Prepare for release v2026.10.12 (#156)
+- [e0751bd](https://github.com/appscode-cloud/docs/commit/e0751bd) Use Go 1.27, k8s 1.37 & debian:13 (#155)
+- [f48bfcf](https://github.com/appscode-cloud/docs/commit/f48bfcf) docs(cluster-management): add hub and spoke feature sets guide (#154)
+- [dfdb983](https://github.com/appscode-cloud/docs/commit/dfdb983) docs(api): sync API reference with the b3 router (#153)
+
+
+
 ## [appscode-cloud/installer](https://github.com/appscode-cloud/installer)
 
 ### [v2026.10.12](https://github.com/appscode-cloud/installer/releases/tag/v2026.10.12)

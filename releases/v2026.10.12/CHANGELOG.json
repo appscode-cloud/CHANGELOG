@@ -1,7 +1,7 @@
 {
   "product_line": "ACE",
   "release": "v2026.10.12",
-  "release_date": "2026-10-12T10:55:11.434012573Z",
+  "release_date": "2026-10-12T11:07:25.281796175Z",
   "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
   "docs_url": "%!(EXTRA string=v2026.10.12)",
   "kubernetes_version": "1.28+",
@@ -12,6 +12,32 @@
         {
           "tag": "v2026.10.12",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode-cloud/docs",
+      "releases": [
+        {
+          "tag": "v2026.10.12",
+          "commits": [
+            {
+              "SHA": "8661271",
+              "Subject": "Prepare for release v2026.10.12 (#156)"
+            },
+            {
+              "SHA": "e0751bd",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#155)"
+            },
+            {
+              "SHA": "f48bfcf",
+              "Subject": "docs(cluster-management): add hub and spoke feature sets guide (#154)"
+            },
+            {
+              "SHA": "dfdb983",
+              "Subject": "docs(api): sync API reference with the b3 router (#153)"
+            }
+          ]
         }
       ]
     },
