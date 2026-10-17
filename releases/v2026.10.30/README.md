@@ -1,10 +1,18 @@
-# ACE v2026.11.30 (2026-10-17)
+# ACE v2026.10.30 (2026-10-17)
 
 
 ## [appscode-cloud/b3](https://github.com/appscode-cloud/b3)
 
 ### [v2026.11.30](https://github.com/appscode-cloud/b3/releases/tag/v2026.11.30)
 
+
+
+
+## [appscode-cloud/docs](https://github.com/appscode-cloud/docs)
+
+### [v2026.10.30](https://github.com/appscode-cloud/docs/releases/tag/v2026.10.30)
+
+- [24fbdc9](https://github.com/appscode-cloud/docs/commit/24fbdc9) Prepare for release v2026.11.30 (#158)
 
 
 
