@@ -42,6 +42,14 @@
 
 
 
+## [kubeops/installer](https://github.com/kubeops/installer)
+
+### [v2026.11.30](https://github.com/kubeops/installer/releases/tag/v2026.11.30)
+
+- [eda89ba8](https://github.com/kubeops/installer/commit/eda89ba8) Prepare for release v2026.11.30 (#526)
+
+
+
 ## [kubeops/ui-server](https://github.com/kubeops/ui-server)
 
 ### [v0.9.0](https://github.com/kubeops/ui-server/releases/tag/v0.9.0)
