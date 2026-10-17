@@ -3,6 +3,10 @@
 
 ## [appscode-cloud/b3](https://github.com/appscode-cloud/b3)
 
+### [v2026.10.30](https://github.com/appscode-cloud/b3/releases/tag/v2026.10.30)
+
+
+
 ### [v2026.11.30](https://github.com/appscode-cloud/b3/releases/tag/v2026.11.30)
 
 

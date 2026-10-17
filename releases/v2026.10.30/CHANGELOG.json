@@ -1,7 +1,7 @@
 {
   "product_line": "ACE",
   "release": "v2026.10.30",
-  "release_date": "2026-10-17T11:07:44.283869808Z",
+  "release_date": "2026-10-17T11:10:07.306205602Z",
   "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
   "docs_url": "%!(EXTRA string=v2026.10.30)",
   "kubernetes_version": "1.28+",
@@ -9,6 +9,10 @@
     {
       "url": "github.com/appscode-cloud/b3",
       "releases": [
+        {
+          "tag": "v2026.10.30",
+          "commits": null
+        },
         {
           "tag": "v2026.11.30",
           "commits": null
