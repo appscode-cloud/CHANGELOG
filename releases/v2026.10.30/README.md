@@ -74,6 +74,12 @@
 
 ## [kubeops/installer](https://github.com/kubeops/installer)
 
+### [v2026.10.30](https://github.com/kubeops/installer/releases/tag/v2026.10.30)
+
+- [ec2b982d](https://github.com/kubeops/installer/commit/ec2b982d) Prepare for release v2026.10.30 (#527)
+- [eda89ba8](https://github.com/kubeops/installer/commit/eda89ba8) Prepare for release v2026.11.30 (#526)
+
+
 ### [v2026.11.30](https://github.com/kubeops/installer/releases/tag/v2026.11.30)
 
 - [eda89ba8](https://github.com/kubeops/installer/commit/eda89ba8) Prepare for release v2026.11.30 (#526)
