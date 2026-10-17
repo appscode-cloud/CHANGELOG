@@ -20,12 +20,28 @@ aliases:
 
 ## [appscode-cloud/b3](https://github.com/appscode-cloud/b3)
 
+### [v2026.10.30](https://github.com/appscode-cloud/b3/releases/tag/v2026.10.30)
+
+
+
 ### [v2026.11.30](https://github.com/appscode-cloud/b3/releases/tag/v2026.11.30)
 
 
 
 
+## [appscode-cloud/docs](https://github.com/appscode-cloud/docs)
+
+### [v2026.10.30](https://github.com/appscode-cloud/docs/releases/tag/v2026.10.30)
+
+- [24fbdc9](https://github.com/appscode-cloud/docs/commit/24fbdc9) Prepare for release v2026.11.30 (#158)
+
+
+
 ## [appscode-cloud/installer](https://github.com/appscode-cloud/installer)
+
+### [v2026.10.30](https://github.com/appscode-cloud/installer/releases/tag/v2026.10.30)
+
+
 
 ### [v2026.11.30](https://github.com/appscode-cloud/installer/releases/tag/v2026.11.30)
 
@@ -42,6 +58,12 @@ aliases:
 
 ## [appscode/website](https://github.com/appscode/website)
 
+### [v2026.10.30](https://github.com/appscode/website/releases/tag/v2026.10.30)
+
+- [58b65593](https://github.com/appscode/website/commit/58b65593) Prepare for release v2026.10.30 (#223)
+- [7be1ef9e](https://github.com/appscode/website/commit/7be1ef9e) Prepare for release v2026.11.30 (#222)
+
+
 ### [v2026.11.30](https://github.com/appscode/website/releases/tag/v2026.11.30)
 
 - [7be1ef9e](https://github.com/appscode/website/commit/7be1ef9e) Prepare for release v2026.11.30 (#222)
@@ -49,6 +71,11 @@ aliases:
 
 
 ## [kmodules/image-packer](https://github.com/kmodules/image-packer)
+
+### [v2026.10.30](https://github.com/kmodules/image-packer/releases/tag/v2026.10.30)
+
+- [d6c2b59b](https://github.com/kmodules/image-packer/commit/d6c2b59b) Prepare for release v2026.11.30 (#65)
+
 
 ### [v2026.11.30](https://github.com/kmodules/image-packer/releases/tag/v2026.11.30)
 
@@ -67,6 +94,12 @@ aliases:
 
 
 ## [kubeops/installer](https://github.com/kubeops/installer)
+
+### [v2026.10.30](https://github.com/kubeops/installer/releases/tag/v2026.10.30)
+
+- [ec2b982d](https://github.com/kubeops/installer/commit/ec2b982d) Prepare for release v2026.10.30 (#527)
+- [eda89ba8](https://github.com/kubeops/installer/commit/eda89ba8) Prepare for release v2026.11.30 (#526)
+
 
 ### [v2026.11.30](https://github.com/kubeops/installer/releases/tag/v2026.11.30)
 
