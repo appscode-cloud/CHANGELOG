@@ -3,19 +3,19 @@ title: Changelog | ACE
 description: Changelog
 menu:
   docs_{{.version}}:
-    identifier: changelog-ace-v2026.11.30
-    name: Changelog-v2026.11.30
+    identifier: changelog-ace-v2026.10.30
+    name: Changelog-v2026.10.30
     parent: welcome
-    weight: 20261130
+    weight: 20261030
 product_name: ace
 menu_name: docs_{{.version}}
 section_menu_id: welcome
-url: /docs/{{.version}}/welcome/changelog-v2026.11.30/
+url: /docs/{{.version}}/welcome/changelog-v2026.10.30/
 aliases:
-  - /docs/{{.version}}/CHANGELOG-v2026.11.30/
+  - /docs/{{.version}}/CHANGELOG-v2026.10.30/
 ---
 
-# ACE v2026.11.30 (2026-10-17)
+# ACE v2026.10.30 (2026-10-17)
 
 
 ## [appscode-cloud/b3](https://github.com/appscode-cloud/b3)
