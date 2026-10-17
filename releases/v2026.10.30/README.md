@@ -33,6 +33,12 @@
 
 ## [appscode/website](https://github.com/appscode/website)
 
+### [v2026.10.30](https://github.com/appscode/website/releases/tag/v2026.10.30)
+
+- [58b65593](https://github.com/appscode/website/commit/58b65593) Prepare for release v2026.10.30 (#223)
+- [7be1ef9e](https://github.com/appscode/website/commit/7be1ef9e) Prepare for release v2026.11.30 (#222)
+
+
 ### [v2026.11.30](https://github.com/appscode/website/releases/tag/v2026.11.30)
 
 - [7be1ef9e](https://github.com/appscode/website/commit/7be1ef9e) Prepare for release v2026.11.30 (#222)
