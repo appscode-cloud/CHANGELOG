@@ -1,6 +1,6 @@
 {
   "product_line": "ACE",
-  "release": "v2026.11.30",
+  "release": "v2026.10.30",
   "docs_url_template": "",
   "kubernetes_version": "1.28+",
   "projects": [
@@ -27,14 +27,14 @@
     },
     {
       "github.com/appscode/website": {
-        "tag": "v2026.11.30",
+        "tag": "v2026.10.30",
         "commands": [
           "make assets"
         ],
         "release_branch": "release-${TAG}"
       },
       "github.com/kmodules/image-packer": {
-        "tag": "v2026.11.30",
+        "tag": "v2026.10.30",
         "release_branch": "release-${TAG}"
       },
       "github.com/kubeops/ui-server": {
@@ -50,14 +50,14 @@
     },
     {
       "github.com/appscode-cloud/b3": {
-        "tag": "v2026.11.30",
+        "tag": "v2026.10.30",
         "release_branch": "release-${TAG}"
       }
     },
     {
       "github.com/kubeops/installer": {
         "key": "kubeops-installer",
-        "tag": "v2026.11.30",
+        "tag": "v2026.10.30",
         "chartNames": [
           "kube-ui-server"
         ],
@@ -73,7 +73,7 @@
     {
       "github.com/appscode-cloud/installer": {
         "key": "kubedb-installer",
-        "tag": "v2026.11.30",
+        "tag": "v2026.10.30",
         "chartNames": [
           "opscenter-features"
         ],
@@ -127,7 +127,7 @@
     {
       "github.com/appscode-cloud/docs": {
         "key": "kubedbplatform",
-        "tag": "v2026.11.30",
+        "tag": "v2026.10.30",
         "commands": [
           "mv ${SCRIPT_ROOT}/releases/${RELEASE}/docs_changelog.md ${WORKSPACE}/docs/platform/CHANGELOG-${RELEASE}.md"
         ],
@@ -136,7 +136,7 @@
     },
     {
       "github.com/kubedb/website": {
-        "tag": "v2026.11.30+akp",
+        "tag": "v2026.10.30+akp",
         "commands": [
           "make set-assets-repo ASSETS_REPO_URL=https://github.com/appscode/static-assets",
           "make assets docs-platform",
