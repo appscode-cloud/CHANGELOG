@@ -41,6 +41,11 @@
 
 ## [kmodules/image-packer](https://github.com/kmodules/image-packer)
 
+### [v2026.10.30](https://github.com/kmodules/image-packer/releases/tag/v2026.10.30)
+
+- [d6c2b59b](https://github.com/kmodules/image-packer/commit/d6c2b59b) Prepare for release v2026.11.30 (#65)
+
+
 ### [v2026.11.30](https://github.com/kmodules/image-packer/releases/tag/v2026.11.30)
 
 - [d6c2b59b](https://github.com/kmodules/image-packer/commit/d6c2b59b) Prepare for release v2026.11.30 (#65)
