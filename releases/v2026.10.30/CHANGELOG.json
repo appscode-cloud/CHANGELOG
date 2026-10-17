@@ -1,0 +1,186 @@
+{
+  "product_line": "ACE",
+  "release": "v2026.10.30",
+  "release_date": "2026-10-17T11:22:37.491511054Z",
+  "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
+  "docs_url": "%!(EXTRA string=v2026.10.30)",
+  "kubernetes_version": "1.28+",
+  "projects": [
+    {
+      "url": "github.com/appscode-cloud/b3",
+      "releases": [
+        {
+          "tag": "v2026.10.30",
+          "commits": null
+        },
+        {
+          "tag": "v2026.11.30",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode-cloud/docs",
+      "releases": [
+        {
+          "tag": "v2026.10.30",
+          "commits": [
+            {
+              "SHA": "24fbdc9",
+              "Subject": "Prepare for release v2026.11.30 (#158)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode-cloud/installer",
+      "releases": [
+        {
+          "tag": "v2026.10.30",
+          "commits": null
+        },
+        {
+          "tag": "v2026.11.30",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode-cloud/ui-wizards",
+      "releases": [
+        {
+          "tag": "v0.39.0",
+          "commits": [
+            {
+              "SHA": "e77bb46c3",
+              "Subject": "Prepare for release v0.39.0 (#1202)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode/website",
+      "releases": [
+        {
+          "tag": "v2026.10.30",
+          "commits": [
+            {
+              "SHA": "58b65593",
+              "Subject": "Prepare for release v2026.10.30 (#223)"
+            },
+            {
+              "SHA": "7be1ef9e",
+              "Subject": "Prepare for release v2026.11.30 (#222)"
+            }
+          ]
+        },
+        {
+          "tag": "v2026.11.30",
+          "commits": [
+            {
+              "SHA": "7be1ef9e",
+              "Subject": "Prepare for release v2026.11.30 (#222)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kmodules/image-packer",
+      "releases": [
+        {
+          "tag": "v2026.10.30",
+          "commits": [
+            {
+              "SHA": "d6c2b59b",
+              "Subject": "Prepare for release v2026.11.30 (#65)"
+            }
+          ]
+        },
+        {
+          "tag": "v2026.11.30",
+          "commits": [
+            {
+              "SHA": "d6c2b59b",
+              "Subject": "Prepare for release v2026.11.30 (#65)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kmodules/resource-metadata",
+      "releases": [
+        {
+          "tag": "v0.51.0",
+          "commits": [
+            {
+              "SHA": "793a7f1c1",
+              "Subject": "Prepare for release v0.51.0 (#680)"
+            },
+            {
+              "SHA": "577ca468e",
+              "Subject": "Update cluster profile (#679)"
+            },
+            {
+              "SHA": "a3e55cf13",
+              "Subject": "Remove deprecated SelfLink assignment (#678)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubeops/installer",
+      "releases": [
+        {
+          "tag": "v2026.10.30",
+          "commits": [
+            {
+              "SHA": "ec2b982d",
+              "Subject": "Prepare for release v2026.10.30 (#527)"
+            },
+            {
+              "SHA": "eda89ba8",
+              "Subject": "Prepare for release v2026.11.30 (#526)"
+            }
+          ]
+        },
+        {
+          "tag": "v2026.11.30",
+          "commits": [
+            {
+              "SHA": "eda89ba8",
+              "Subject": "Prepare for release v2026.11.30 (#526)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubeops/ui-server",
+      "releases": [
+        {
+          "tag": "v0.9.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubepack/lib-app",
+      "releases": [
+        {
+          "tag": "v0.27.0",
+          "commits": [
+            {
+              "SHA": "f1ec23e48",
+              "Subject": "Prepare for release v0.27.0 (#195)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
