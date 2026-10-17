@@ -1,6 +1,13 @@
 # ACE v2026.11.30 (2026-10-17)
 
 
+## [appscode-cloud/b3](https://github.com/appscode-cloud/b3)
+
+### [v2026.11.30](https://github.com/appscode-cloud/b3/releases/tag/v2026.11.30)
+
+
+
+
 ## [appscode-cloud/ui-wizards](https://github.com/appscode-cloud/ui-wizards)
 
 ### [v0.39.0](https://github.com/appscode-cloud/ui-wizards/releases/tag/v0.39.0)
