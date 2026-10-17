@@ -1,7 +1,7 @@
 {
   "product_line": "ACE",
   "release": "v2026.11.30",
-  "release_date": "2026-10-17T08:53:13.587782362Z",
+  "release_date": "2026-10-17T08:57:51.398455992Z",
   "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
   "docs_url": "%!(EXTRA string=v2026.11.30)",
   "kubernetes_version": "1.28+",
@@ -15,6 +15,20 @@
             {
               "SHA": "e77bb46c3",
               "Subject": "Prepare for release v0.39.0 (#1202)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode/website",
+      "releases": [
+        {
+          "tag": "v2026.11.30",
+          "commits": [
+            {
+              "SHA": "7be1ef9e",
+              "Subject": "Prepare for release v2026.11.30 (#222)"
             }
           ]
         }
