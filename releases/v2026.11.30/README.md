@@ -9,3 +9,13 @@
 
 
 
+## [kmodules/resource-metadata](https://github.com/kmodules/resource-metadata)
+
+### [v0.51.0](https://github.com/kmodules/resource-metadata/releases/tag/v0.51.0)
+
+- [793a7f1c](https://github.com/kmodules/resource-metadata/commit/793a7f1c1) Prepare for release v0.51.0 (#680)
+- [577ca468](https://github.com/kmodules/resource-metadata/commit/577ca468e) Update cluster profile (#679)
+- [a3e55cf1](https://github.com/kmodules/resource-metadata/commit/a3e55cf13) Remove deprecated SelfLink assignment (#678)
+
+
+

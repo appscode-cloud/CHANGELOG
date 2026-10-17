@@ -1,7 +1,7 @@
 {
   "product_line": "ACE",
   "release": "v2026.11.30",
-  "release_date": "2026-10-17T08:37:38.323685165Z",
+  "release_date": "2026-10-17T08:53:13.587782362Z",
   "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
   "docs_url": "%!(EXTRA string=v2026.11.30)",
   "kubernetes_version": "1.28+",
@@ -15,6 +15,28 @@
             {
               "SHA": "e77bb46c3",
               "Subject": "Prepare for release v0.39.0 (#1202)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kmodules/resource-metadata",
+      "releases": [
+        {
+          "tag": "v0.51.0",
+          "commits": [
+            {
+              "SHA": "793a7f1c1",
+              "Subject": "Prepare for release v0.51.0 (#680)"
+            },
+            {
+              "SHA": "577ca468e",
+              "Subject": "Update cluster profile (#679)"
+            },
+            {
+              "SHA": "a3e55cf13",
+              "Subject": "Remove deprecated SelfLink assignment (#678)"
             }
           ]
         }
