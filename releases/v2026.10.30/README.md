@@ -22,6 +22,10 @@
 
 ## [appscode-cloud/installer](https://github.com/appscode-cloud/installer)
 
+### [v2026.10.30](https://github.com/appscode-cloud/installer/releases/tag/v2026.10.30)
+
+
+
 ### [v2026.11.30](https://github.com/appscode-cloud/installer/releases/tag/v2026.11.30)
 
 
