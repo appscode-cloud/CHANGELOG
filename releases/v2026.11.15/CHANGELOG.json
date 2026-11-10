@@ -1,7 +1,7 @@
 {
   "product_line": "AKP",
   "release": "v2026.11.15",
-  "release_date": "2026-11-10T19:11:46.004348022Z",
+  "release_date": "2026-11-10T19:11:51.356963906Z",
   "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
   "docs_url": "%!(EXTRA string=v2026.11.15)",
   "kubernetes_version": "1.28+",
@@ -15,6 +15,20 @@
             {
               "SHA": "42d7d4f2d",
               "Subject": "Prepare for release v0.40.0 (#1210)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kmodules/image-packer",
+      "releases": [
+        {
+          "tag": "v2026.11.15",
+          "commits": [
+            {
+              "SHA": "702e4ab7",
+              "Subject": "Prepare for release v2026.11.15 (#66)"
             }
           ]
         }
