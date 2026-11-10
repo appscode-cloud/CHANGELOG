@@ -19,3 +19,10 @@
 
 
 
+## [kubeops/ui-server](https://github.com/kubeops/ui-server)
+
+### [v0.10.0](https://github.com/kubeops/ui-server/releases/tag/v0.10.0)
+
+
+
+

@@ -1,7 +1,7 @@
 {
   "product_line": "AKP",
   "release": "v2026.11.15",
-  "release_date": "2026-11-10T18:59:09.292159986Z",
+  "release_date": "2026-11-10T19:11:35.207666098Z",
   "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
   "docs_url": "%!(EXTRA string=v2026.11.15)",
   "kubernetes_version": "1.28+",
@@ -39,6 +39,15 @@
               "Subject": "Add RotateAuth action to KubeDB resource editors (#682)"
             }
           ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubeops/ui-server",
+      "releases": [
+        {
+          "tag": "v0.10.0",
+          "commits": null
         }
       ]
     }
