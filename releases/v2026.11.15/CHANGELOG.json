@@ -1,7 +1,7 @@
 {
   "product_line": "AKP",
   "release": "v2026.11.15",
-  "release_date": "2026-11-10T20:31:41.414002213Z",
+  "release_date": "2026-11-10T21:33:08.511109376Z",
   "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
   "docs_url": "%!(EXTRA string=v2026.11.15)",
   "kubernetes_version": "1.28+",
@@ -23,6 +23,20 @@
             {
               "SHA": "9c2166945b",
               "Subject": "Skip flux2 readiness wait on fargocd-managed clusters (#1727)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode-cloud/installer",
+      "releases": [
+        {
+          "tag": "v2026.11.15",
+          "commits": [
+            {
+              "SHA": "e52a7d8d",
+              "Subject": "Prepare for release v2026.11.15 (#1408)"
             }
           ]
         }
