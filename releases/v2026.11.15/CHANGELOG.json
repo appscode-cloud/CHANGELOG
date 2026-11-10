@@ -1,7 +1,7 @@
 {
   "product_line": "AKP",
   "release": "v2026.11.15",
-  "release_date": "2026-11-10T19:11:35.207666098Z",
+  "release_date": "2026-11-10T19:11:46.004348022Z",
   "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
   "docs_url": "%!(EXTRA string=v2026.11.15)",
   "kubernetes_version": "1.28+",
@@ -48,6 +48,24 @@
         {
           "tag": "v0.10.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubepack/lib-app",
+      "releases": [
+        {
+          "tag": "v0.28.0",
+          "commits": [
+            {
+              "SHA": "08fcd4e35",
+              "Subject": "Prepare for release v0.28.0 (#200)"
+            },
+            {
+              "SHA": "8a7ce8ac8",
+              "Subject": "Update for release ACE@v2026.10.30 (#196)"
+            }
+          ]
         }
       ]
     }

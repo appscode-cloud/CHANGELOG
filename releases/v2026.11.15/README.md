@@ -26,3 +26,12 @@
 
 
 
+## [kubepack/lib-app](https://github.com/kubepack/lib-app)
+
+### [v0.28.0](https://github.com/kubepack/lib-app/releases/tag/v0.28.0)
+
+- [08fcd4e3](https://github.com/kubepack/lib-app/commit/08fcd4e35) Prepare for release v0.28.0 (#200)
+- [8a7ce8ac](https://github.com/kubepack/lib-app/commit/8a7ce8ac8) Update for release ACE@v2026.10.30 (#196)
+
+
+
