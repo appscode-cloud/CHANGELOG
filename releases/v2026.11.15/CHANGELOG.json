@@ -1,0 +1,164 @@
+{
+  "product_line": "AKP",
+  "release": "v2026.11.15",
+  "release_date": "2026-11-10T22:15:24.519013847Z",
+  "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
+  "docs_url": "%!(EXTRA string=v2026.11.15)",
+  "kubernetes_version": "1.28+",
+  "projects": [
+    {
+      "url": "github.com/appscode-cloud/b3",
+      "releases": [
+        {
+          "tag": "v2026.11.15",
+          "commits": [
+            {
+              "SHA": "f870fa7949",
+              "Subject": "Prepare for release v2026.11.15 (#1729)"
+            },
+            {
+              "SHA": "18ed78c4e4",
+              "Subject": "Skip HelmChart reconcile when source-controller is absent (#1728)"
+            },
+            {
+              "SHA": "9c2166945b",
+              "Subject": "Skip flux2 readiness wait on fargocd-managed clusters (#1727)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode-cloud/docs",
+      "releases": [
+        {
+          "tag": "v2026.11.15",
+          "commits": [
+            {
+              "SHA": "52d5a9b",
+              "Subject": "Prepare for release v2026.11.15 (#160)"
+            },
+            {
+              "SHA": "7c2bf00",
+              "Subject": "Explain csi-driver-cacerts privileged requirement on OpenShift (#159)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode-cloud/installer",
+      "releases": [
+        {
+          "tag": "v2026.11.15",
+          "commits": [
+            {
+              "SHA": "e52a7d8d",
+              "Subject": "Prepare for release v2026.11.15 (#1408)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode-cloud/ui-wizards",
+      "releases": [
+        {
+          "tag": "v0.40.0",
+          "commits": [
+            {
+              "SHA": "42d7d4f2d",
+              "Subject": "Prepare for release v0.40.0 (#1210)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode/website",
+      "releases": [
+        {
+          "tag": "v2026.11.15",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kmodules/image-packer",
+      "releases": [
+        {
+          "tag": "v2026.11.15",
+          "commits": [
+            {
+              "SHA": "702e4ab7",
+              "Subject": "Prepare for release v2026.11.15 (#66)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kmodules/resource-metadata",
+      "releases": [
+        {
+          "tag": "v0.52.0",
+          "commits": [
+            {
+              "SHA": "f595e8f92",
+              "Subject": "Prepare for release v0.52.0 (#684)"
+            },
+            {
+              "SHA": "650d7d498",
+              "Subject": "Add namespace to HelmRelease (#683)"
+            },
+            {
+              "SHA": "4fb5b8194",
+              "Subject": "Add RotateAuth action to KubeDB resource editors (#682)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubeops/installer",
+      "releases": [
+        {
+          "tag": "v2026.11.15",
+          "commits": [
+            {
+              "SHA": "1f7b4355",
+              "Subject": "Prepare for release v2026.11.15 (#536)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubeops/ui-server",
+      "releases": [
+        {
+          "tag": "v0.10.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubepack/lib-app",
+      "releases": [
+        {
+          "tag": "v0.28.0",
+          "commits": [
+            {
+              "SHA": "08fcd4e35",
+              "Subject": "Prepare for release v0.28.0 (#200)"
+            },
+            {
+              "SHA": "8a7ce8ac8",
+              "Subject": "Update for release ACE@v2026.10.30 (#196)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
