@@ -1,6 +1,16 @@
 # AKP v2026.11.15 (2026-11-10)
 
 
+## [appscode-cloud/b3](https://github.com/appscode-cloud/b3)
+
+### [v2026.11.15](https://github.com/appscode-cloud/b3/releases/tag/v2026.11.15)
+
+- [f870fa79](https://github.com/appscode-cloud/b3/commit/f870fa7949) Prepare for release v2026.11.15 (#1729)
+- [18ed78c4](https://github.com/appscode-cloud/b3/commit/18ed78c4e4) Skip HelmChart reconcile when source-controller is absent (#1728)
+- [9c216694](https://github.com/appscode-cloud/b3/commit/9c2166945b) Skip flux2 readiness wait on fargocd-managed clusters (#1727)
+
+
+
 ## [appscode-cloud/ui-wizards](https://github.com/appscode-cloud/ui-wizards)
 
 ### [v0.40.0](https://github.com/appscode-cloud/ui-wizards/releases/tag/v0.40.0)

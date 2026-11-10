@@ -1,11 +1,33 @@
 {
   "product_line": "AKP",
   "release": "v2026.11.15",
-  "release_date": "2026-11-10T19:12:42.27253108Z",
+  "release_date": "2026-11-10T20:28:59.677984993Z",
   "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
   "docs_url": "%!(EXTRA string=v2026.11.15)",
   "kubernetes_version": "1.28+",
   "projects": [
+    {
+      "url": "github.com/appscode-cloud/b3",
+      "releases": [
+        {
+          "tag": "v2026.11.15",
+          "commits": [
+            {
+              "SHA": "f870fa7949",
+              "Subject": "Prepare for release v2026.11.15 (#1729)"
+            },
+            {
+              "SHA": "18ed78c4e4",
+              "Subject": "Skip HelmChart reconcile when source-controller is absent (#1728)"
+            },
+            {
+              "SHA": "9c2166945b",
+              "Subject": "Skip flux2 readiness wait on fargocd-managed clusters (#1727)"
+            }
+          ]
+        }
+      ]
+    },
     {
       "url": "github.com/appscode-cloud/ui-wizards",
       "releases": [
