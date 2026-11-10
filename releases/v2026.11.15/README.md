@@ -9,6 +9,13 @@
 
 
 
+## [appscode/website](https://github.com/appscode/website)
+
+### [v2026.11.15](https://github.com/appscode/website/releases/tag/v2026.11.15)
+
+
+
+
 ## [kmodules/image-packer](https://github.com/kmodules/image-packer)
 
 ### [v2026.11.15](https://github.com/kmodules/image-packer/releases/tag/v2026.11.15)
