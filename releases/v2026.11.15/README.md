@@ -11,6 +11,15 @@
 
 
 
+## [appscode-cloud/docs](https://github.com/appscode-cloud/docs)
+
+### [v2026.11.15](https://github.com/appscode-cloud/docs/releases/tag/v2026.11.15)
+
+- [52d5a9b](https://github.com/appscode-cloud/docs/commit/52d5a9b) Prepare for release v2026.11.15 (#160)
+- [7c2bf00](https://github.com/appscode-cloud/docs/commit/7c2bf00) Explain csi-driver-cacerts privileged requirement on OpenShift (#159)
+
+
+
 ## [appscode-cloud/installer](https://github.com/appscode-cloud/installer)
 
 ### [v2026.11.15](https://github.com/appscode-cloud/installer/releases/tag/v2026.11.15)
