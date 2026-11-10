@@ -1,7 +1,7 @@
 {
   "product_line": "AKP",
   "release": "v2026.11.15",
-  "release_date": "2026-11-10T18:43:21.586188896Z",
+  "release_date": "2026-11-10T18:59:09.292159986Z",
   "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
   "docs_url": "%!(EXTRA string=v2026.11.15)",
   "kubernetes_version": "1.28+",
@@ -15,6 +15,28 @@
             {
               "SHA": "42d7d4f2d",
               "Subject": "Prepare for release v0.40.0 (#1210)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kmodules/resource-metadata",
+      "releases": [
+        {
+          "tag": "v0.52.0",
+          "commits": [
+            {
+              "SHA": "f595e8f92",
+              "Subject": "Prepare for release v0.52.0 (#684)"
+            },
+            {
+              "SHA": "650d7d498",
+              "Subject": "Add namespace to HelmRelease (#683)"
+            },
+            {
+              "SHA": "4fb5b8194",
+              "Subject": "Add RotateAuth action to KubeDB resource editors (#682)"
             }
           ]
         }
