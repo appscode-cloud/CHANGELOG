@@ -44,6 +44,14 @@
 
 
 
+## [kubeops/installer](https://github.com/kubeops/installer)
+
+### [v2026.11.15](https://github.com/kubeops/installer/releases/tag/v2026.11.15)
+
+- [1f7b4355](https://github.com/kubeops/installer/commit/1f7b4355) Prepare for release v2026.11.15 (#536)
+
+
+
 ## [kubeops/ui-server](https://github.com/kubeops/ui-server)
 
 ### [v0.10.0](https://github.com/kubeops/ui-server/releases/tag/v0.10.0)
