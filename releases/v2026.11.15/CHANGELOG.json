@@ -1,0 +1,24 @@
+{
+  "product_line": "AKP",
+  "release": "v2026.11.15",
+  "release_date": "2026-11-10T18:43:21.586188896Z",
+  "release_project_url": "https://github.com/appscode-cloud/CHANGELOG",
+  "docs_url": "%!(EXTRA string=v2026.11.15)",
+  "kubernetes_version": "1.28+",
+  "projects": [
+    {
+      "url": "github.com/appscode-cloud/ui-wizards",
+      "releases": [
+        {
+          "tag": "v0.40.0",
+          "commits": [
+            {
+              "SHA": "42d7d4f2d",
+              "Subject": "Prepare for release v0.40.0 (#1210)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
